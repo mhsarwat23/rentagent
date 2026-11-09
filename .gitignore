@@ -12,3 +12,5 @@ data/processed/*
 *.pkl
 *.joblib
 chroma_db/
+
+!data/raw/README.md

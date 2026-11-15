@@ -8,8 +8,7 @@ Module LD7236 | Student ID 25063317
 
 ## Status
 
-Week 5 - data inventory complete, Chapters 1 and 2 drafted,
-
+Week 5 - data inventory complete, Chapters 1 and 2 drafted, 
 methodology in progress. Implementation not yet started.
 
 ## Structure

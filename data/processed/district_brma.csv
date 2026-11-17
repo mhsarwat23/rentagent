@@ -1,0 +1,2323 @@
+district,brma,modal_share,postcodes
+AL1,South West Herts,1.0,2003
+AL10,South East Herts,1.0,1195
+AL2,South West Herts,1.0,984
+AL3,South West Herts,0.9992343032159265,1306
+AL4,South West Herts,0.9905482041587902,1058
+AL5,South West Herts,0.9961290322580645,1550
+AL6,South East Herts,0.9802130898021308,657
+AL7,South East Herts,1.0,1450
+AL8,South East Herts,1.0,600
+AL9,South East Herts,1.0,617
+B1,Birmingham,1.0,728
+B10,Birmingham,1.0,457
+B11,Birmingham,1.0,1031
+B12,Birmingham,1.0,755
+B13,Birmingham,1.0,1124
+B14,Birmingham,0.9980713596914176,1037
+B15,Birmingham,1.0,854
+B16,Birmingham,1.0,1166
+B17,Birmingham,1.0,798
+B18,Birmingham,1.0,943
+B19,Birmingham,1.0,684
+B2,Birmingham,1.0,860
+B20,Birmingham,1.0,753
+B21,Birmingham,0.9987228607918263,783
+B22,Birmingham,1.0,10
+B23,Birmingham,1.0,1256
+B24,Birmingham,1.0,764
+B25,Birmingham,1.0,543
+B26,Birmingham,0.9933065595716198,747
+B27,Birmingham,0.9632352941176471,544
+B28,Birmingham,0.9906542056074766,856
+B29,Birmingham,1.0,1112
+B3,Birmingham,1.0,708
+B30,Birmingham,1.0,894
+B31,Birmingham,1.0,1485
+B32,Birmingham,0.9973333333333333,1125
+B33,Birmingham,1.0,934
+B34,Birmingham,1.0,384
+B35,Birmingham,1.0,451
+B36,Birmingham,1.0,719
+B37,Birmingham,1.0,936
+B38,Birmingham,1.0,593
+B4,Birmingham,1.0,480
+B40,Birmingham,1.0,27
+B42,Birmingham,1.0,780
+B43,Birmingham,0.9955156950672646,669
+B44,Birmingham,1.0,797
+B45,Birmingham,0.8539205155746509,931
+B46,Birmingham,0.9715568862275449,668
+B47,Solihull,0.8135593220338984,295
+B48,Worcester North,0.8073770491803278,244
+B49,Worcester North,0.9035916824196597,529
+B5,Birmingham,1.0,898
+B50,Warwickshire South,0.9647577092511013,227
+B6,Birmingham,1.0,875
+B60,Worcester North,0.9825,1200
+B61,Worcester North,0.9895348837209302,860
+B62,Black Country,0.9850107066381156,934
+B63,Black Country,1.0,1023
+B64,Black Country,1.0,633
+B65,Black Country,1.0,644
+B66,Birmingham,0.7854889589905363,951
+B67,Birmingham,0.8706338939197931,773
+B68,Black Country,0.6439942112879884,691
+B69,Black Country,1.0,1108
+B7,Birmingham,1.0,441
+B70,Black Country,1.0,1388
+B71,Black Country,0.9949685534591195,795
+B72,Birmingham,1.0,375
+B73,Birmingham,1.0,1021
+B74,Birmingham,1.0,973
+B75,Birmingham,0.9642857142857143,840
+B76,Birmingham,0.9767873723305478,1077
+B77,Mid Staffs,1.0,1445
+B78,Mid Staffs,0.9973262032085561,748
+B79,Mid Staffs,0.9977246871444824,879
+B8,Birmingham,1.0,778
+B80,Worcester North,1.0,256
+B9,Birmingham,1.0,799
+B90,Solihull,1.0,1527
+B91,Solihull,1.0,1415
+B92,Solihull,0.9966923925027563,907
+B93,Solihull,1.0,868
+B94,Solihull,0.9976415094339622,424
+B95,Solihull,0.6474820143884892,417
+B96,Worcester North,0.8607594936708861,237
+B97,Worcester North,1.0,1311
+B98,Worcester North,0.9991142604074402,1129
+B99,Birmingham,1.0,59
+BA1,Bath,0.9988290398126464,2562
+BA10,Yeovil,0.9651741293532339,201
+BA11,Mendip,0.8793694311172036,1459
+BA12,West Wiltshire,0.7413294797687862,1384
+BA13,West Wiltshire,0.998719590268886,781
+BA14,West Wiltshire,1.0,1892
+BA15,Bath,1.0,652
+BA16,Mendip,1.0,438
+BA2,Bath,0.9996339677891655,2732
+BA20,Yeovil,1.0,810
+BA21,Yeovil,1.0,900
+BA22,Yeovil,1.0,904
+BA3,Bath,0.7782319877363311,1957
+BA4,Mendip,0.9990108803165183,1011
+BA5,Mendip,1.0,1009
+BA6,Mendip,1.0,773
+BA7,Yeovil,0.9877049180327869,244
+BA8,Yeovil,1.0,234
+BA9,Yeovil,1.0,475
+BB0,East Lancs,1.0,1
+BB1,East Lancs,1.0,1924
+BB10,West Pennine,1.0,1135
+BB11,West Pennine,0.9875432525951557,1445
+BB12,West Pennine,0.9951060358890701,1226
+BB18,West Pennine,0.9940298507462687,670
+BB2,East Lancs,0.9976635514018691,2140
+BB3,East Lancs,0.9991659716430359,1199
+BB4,East Lancs,1.0,1827
+BB5,East Lancs,1.0,2094
+BB6,East Lancs,1.0,708
+BB7,East Lancs,0.9986291980808774,1459
+BB8,West Pennine,0.9980302035456337,1523
+BB9,West Pennine,0.9994632313472893,1863
+BB94,West Pennine,1.0,21
+BD1,Bradford & South Dales,0.9993658845909955,1577
+BD10,Bradford & South Dales,0.9703296703296703,910
+BD11,Kirklees,0.527027027027027,370
+BD12,Bradford & South Dales,0.9798115746971736,743
+BD13,Bradford & South Dales,0.9982425307557118,1138
+BD14,Bradford & South Dales,1.0,277
+BD15,Bradford & South Dales,1.0,573
+BD16,Bradford & South Dales,0.9982905982905983,1170
+BD17,Bradford & South Dales,1.0,838
+BD18,Bradford & South Dales,1.0,1036
+BD19,Kirklees,0.9885416666666667,960
+BD2,Bradford & South Dales,1.0,873
+BD20,Bradford & South Dales,0.9993788819875776,1610
+BD21,Bradford & South Dales,1.0,1376
+BD22,Bradford & South Dales,1.0,1251
+BD23,Bradford & South Dales,0.9896174863387979,1830
+BD24,Bradford & South Dales,1.0,402
+BD3,Bradford & South Dales,0.9733333333333334,900
+BD4,Bradford & South Dales,0.9704510108864697,1286
+BD5,Bradford & South Dales,1.0,1024
+BD6,Bradford & South Dales,1.0,905
+BD7,Bradford & South Dales,1.0,911
+BD8,Bradford & South Dales,1.0,932
+BD9,Bradford & South Dales,1.0,722
+BD97,Bradford & South Dales,1.0,4
+BD98,Bradford & South Dales,1.0,6
+BD99,Bradford & South Dales,1.0,19
+BH1,Bournemouth,1.0,1494
+BH10,Bournemouth,1.0,595
+BH11,Bournemouth,1.0,741
+BH12,Bournemouth,1.0,1158
+BH13,Bournemouth,1.0,415
+BH14,Bournemouth,1.0,950
+BH15,Bournemouth,1.0,1352
+BH16,Bournemouth,1.0,488
+BH17,Bournemouth,1.0,721
+BH18,Bournemouth,1.0,414
+BH19,Bournemouth,1.0,661
+BH2,Bournemouth,1.0,509
+BH20,Bournemouth,0.9989316239316239,936
+BH21,Bournemouth,0.9211981566820276,2170
+BH22,Bournemouth,1.0,970
+BH23,Bournemouth,1.0,2188
+BH24,Bournemouth,0.9713080168776371,1185
+BH25,Bournemouth,0.9871086556169429,1086
+BH3,Bournemouth,1.0,196
+BH31,Bournemouth,1.0,428
+BH4,Bournemouth,1.0,510
+BH5,Bournemouth,1.0,366
+BH6,Bournemouth,1.0,710
+BH7,Bournemouth,1.0,473
+BH8,Bournemouth,1.0,909
+BH9,Bournemouth,1.0,886
+BL0,Bolton and Bury,0.952023988005997,667
+BL1,Bolton and Bury,1.0,2883
+BL11,Bolton and Bury,1.0,31
+BL2,Bolton and Bury,1.0,1453
+BL3,Bolton and Bury,1.0,1811
+BL4,Bolton and Bury,0.9990601503759399,1064
+BL5,Bolton and Bury,0.998766954377312,811
+BL6,Bolton and Bury,0.9950071326676176,1402
+BL7,Bolton and Bury,0.991869918699187,615
+BL78,Bolton and Bury,1.0,14
+BL8,Bolton and Bury,0.9993548387096775,1550
+BL9,Bolton and Bury,1.0,1777
+BN1,Brighton and Hove,1.0,2856
+BN10,Brighton and Hove,1.0,699
+BN11,Worthing,1.0,1818
+BN12,Worthing,1.0,913
+BN13,Worthing,1.0,977
+BN14,Worthing,1.0,1024
+BN15,Worthing,0.9988901220865705,901
+BN16,Worthing,0.9985412107950401,1371
+BN17,Worthing,0.9957446808510638,940
+BN18,Chichester,0.662534435261708,726
+BN2,Brighton and Hove,1.0,2887
+BN20,Eastbourne,1.0,928
+BN21,Eastbourne,0.996268656716418,1608
+BN22,Eastbourne,1.0,1055
+BN23,Eastbourne,1.0,856
+BN24,Eastbourne,1.0,553
+BN25,Eastbourne,0.997411561691113,1159
+BN26,Eastbourne,1.0,653
+BN27,Eastbourne,1.0,1436
+BN3,Brighton and Hove,1.0,2550
+BN4,Brighton and Hove,0.8594748048261178,1409
+BN41,Brighton and Hove,1.0,642
+BN42,Brighton and Hove,1.0,294
+BN43,Brighton and Hove,0.9924050632911392,790
+BN44,Worthing,0.7150837988826816,358
+BN45,Brighton and Hove,1.0,57
+BN5,Crawley & Reigate,0.8859649122807017,456
+BN50,Brighton and Hove,1.0,722
+BN51,Brighton and Hove,1.0,107
+BN52,Brighton and Hove,1.0,394
+BN6,Crawley & Reigate,0.9889434889434889,814
+BN7,Brighton and Hove,0.9329940627650551,1179
+BN8,Brighton and Hove,0.5831325301204819,830
+BN88,Brighton and Hove,1.0,37
+BN9,Brighton and Hove,1.0,1082
+BN95,Worthing,1.0,1
+BN99,Worthing,1.0,523
+BR1,Outer South East London,0.9971250598945856,2087
+BR2,Outer South East London,1.0,1409
+BR3,Outer South East London,0.999534233814625,2147
+BR4,Outer South East London,1.0,593
+BR5,Outer South East London,1.0,1312
+BR6,Outer South East London,0.987603305785124,1694
+BR7,Outer South East London,1.0,732
+BR8,North West Kent,0.9710982658959537,692
+BS0,Weston-S-Mare,1.0,1
+BS1,Bristol,1.0,1739
+BS10,Bristol,1.0,903
+BS11,Bristol,1.0,784
+BS12,Bristol,0.9686536485097637,1946
+BS13,Bristol,1.0,827
+BS14,Bristol,0.9973404255319149,752
+BS15,Bristol,0.9980314960629921,2540
+BS16,Bristol,1.0,2567
+BS17,Bristol,0.9873111782477342,1655
+BS18,Bath,0.5132250580046404,2155
+BS19,Bristol,0.6643538594969645,1153
+BS2,Bristol,1.0,967
+BS20,Bristol,1.0,1473
+BS21,Bristol,0.9472016895459345,947
+BS22,Weston-S-Mare,1.0,1526
+BS23,Weston-S-Mare,0.9993581514762516,1558
+BS24,Weston-S-Mare,1.0,904
+BS25,Weston-S-Mare,0.8160237388724035,337
+BS26,Weston-S-Mare,0.6124567474048442,289
+BS27,Mendip,1.0,357
+BS28,Mendip,0.9377593360995851,241
+BS29,Weston-S-Mare,1.0,148
+BS3,Bristol,1.0,1265
+BS30,Bristol,0.9933774834437086,906
+BS31,Bristol,0.8490566037735849,848
+BS32,Bristol,1.0,698
+BS34,Bristol,1.0,1219
+BS35,Bristol,0.9224572004028198,993
+BS36,Bristol,1.0,578
+BS37,Bristol,0.9813664596273292,1288
+BS39,Bath,1.0,731
+BS4,Bristol,1.0,1402
+BS40,Bath,0.5138568129330254,866
+BS41,Bristol,0.9477911646586346,249
+BS48,Bristol,1.0,988
+BS49,Weston-S-Mare,0.9928741092636579,421
+BS5,Bristol,1.0,1567
+BS6,Bristol,1.0,1064
+BS7,Bristol,1.0,825
+BS77,Bristol,1.0,10
+BS8,Bristol,1.0,1227
+BS80,Bristol,0.8947368421052632,19
+BS9,Bristol,1.0,1211
+BS98,Bristol,1.0,17
+BS99,Bristol,1.0,1981
+CA1,North Cumbria,1.0,1017
+CA10,North Cumbria,1.0,768
+CA11,North Cumbria,1.0,1360
+CA12,West Cumbria,1.0,559
+CA13,West Cumbria,0.9946380697050938,746
+CA14,West Cumbria,1.0,1587
+CA15,West Cumbria,1.0,662
+CA16,North Cumbria,1.0,300
+CA17,North Cumbria,1.0,258
+CA18,West Cumbria,0.8571428571428571,28
+CA19,West Cumbria,1.0,71
+CA2,North Cumbria,1.0,1146
+CA20,West Cumbria,1.0,226
+CA21,West Cumbria,1.0,40
+CA22,West Cumbria,1.0,319
+CA23,West Cumbria,1.0,79
+CA24,West Cumbria,1.0,45
+CA25,West Cumbria,1.0,253
+CA26,West Cumbria,1.0,126
+CA27,West Cumbria,1.0,65
+CA28,West Cumbria,1.0,1176
+CA3,North Cumbria,1.0,792
+CA4,North Cumbria,1.0,665
+CA5,North Cumbria,0.7462946817785527,1147
+CA6,North Cumbria,0.8766140602582496,697
+CA7,North Cumbria,0.7873779113448535,1331
+CA8,North Cumbria,0.8719424460431655,695
+CA9,North Cumbria,1.0,204
+CA95,West Cumbria,1.0,6
+CA99,North Cumbria,1.0,6
+CB1,Cambridge,0.9992803166606693,2779
+CB10,Cambridge,0.9963942307692307,832
+CB11,Cambridge,0.6699576868829337,709
+CB2,Cambridge,0.9994916115912558,1967
+CB21,Cambridge,1.0,522
+CB22,Cambridge,1.0,710
+CB23,Cambridge,0.9931237721021611,1018
+CB24,Cambridge,1.0,953
+CB25,Cambridge,1.0,520
+CB3,Cambridge,0.997291807718348,1477
+CB4,Cambridge,1.0,2516
+CB5,Cambridge,1.0,868
+CB6,Cambridge,0.7842205323193916,1052
+CB7,Cambridge,0.9883833494675702,1033
+CB8,Cambridge,0.8575063613231552,1572
+CB9,Cambridge,0.9862475442043221,1018
+CH1,West Cheshire,1.0,1997
+CH2,West Cheshire,1.0,1028
+CH25,Wirral,1.0,127
+CH26,Wirral,1.0,88
+CH27,Wirral,1.0,118
+CH28,Wirral,1.0,45
+CH29,Wirral,1.0,114
+CH3,West Cheshire,0.9984813971146546,1317
+CH30,Wirral,1.0,47
+CH31,Wirral,1.0,107
+CH32,Wirral,1.0,124
+CH33,Wirral,1.0,79
+CH34,West Cheshire,1.0,145
+CH4,West Cheshire,1.0,681
+CH41,Wirral,1.0,1120
+CH42,Wirral,1.0,811
+CH43,Wirral,1.0,1087
+CH44,Wirral,1.0,912
+CH45,Wirral,1.0,928
+CH46,Wirral,1.0,693
+CH47,Wirral,1.0,432
+CH48,Wirral,1.0,624
+CH49,Wirral,1.0,783
+CH60,Wirral,1.0,578
+CH61,Wirral,1.0,492
+CH62,Wirral,1.0,973
+CH63,Wirral,1.0,949
+CH64,Wirral,1.0,762
+CH65,West Cheshire,0.9938962360122076,983
+CH66,West Cheshire,0.9767657992565055,1076
+CH70,West Cheshire,1.0,49
+CH88,West Cheshire,1.0,26
+CH99,West Cheshire,1.0,50
+CM0,Chelmsford,1.0,712
+CM1,Chelmsford,0.9899352983465133,2782
+CM11,South West Essex,0.9882943143812709,598
+CM12,South West Essex,1.0,824
+CM13,South West Essex,0.9948293691830403,967
+CM14,South West Essex,0.9657469077069457,1051
+CM15,South West Essex,0.6482843137254902,816
+CM16,Harlow & Stortford,0.8948432760364005,989
+CM17,Harlow & Stortford,1.0,649
+CM18,Harlow & Stortford,1.0,612
+CM19,Harlow & Stortford,0.9982817869415808,582
+CM2,Chelmsford,1.0,1809
+CM20,Harlow & Stortford,1.0,1225
+CM21,Harlow & Stortford,1.0,473
+CM22,Harlow & Stortford,1.0,683
+CM23,Harlow & Stortford,0.9994155464640561,1711
+CM24,Harlow & Stortford,1.0,448
+CM3,Chelmsford,0.9865802869042111,2161
+CM4,Chelmsford,0.9498327759197325,598
+CM5,Harlow & Stortford,0.9983660130718954,612
+CM6,Harlow & Stortford,0.9300265721877768,1129
+CM7,Chelmsford,0.9793220338983051,2950
+CM77,Chelmsford,0.9847908745247148,526
+CM8,Chelmsford,0.9975409836065574,1220
+CM9,Chelmsford,0.8976520168573149,1661
+CM92,Harlow & Stortford,1.0,18
+CM98,Chelmsford,1.0,20
+CM99,Chelmsford,1.0,189
+CO1,Colchester,1.0,1153
+CO10,Bury St Edmunds,0.9472573839662447,2370
+CO11,Colchester,0.8209606986899564,687
+CO12,Colchester,1.0,802
+CO13,Colchester,1.0,557
+CO14,Colchester,1.0,282
+CO15,Colchester,1.0,1772
+CO16,Colchester,1.0,938
+CO2,Colchester,1.0,1160
+CO3,Colchester,0.9993122420907841,1454
+CO4,Colchester,1.0,1707
+CO5,Colchester,0.8447712418300654,1224
+CO6,Colchester,0.8814035087719299,1425
+CO7,Colchester,0.8556446637877854,1621
+CO8,Colchester,0.9577464788732394,142
+CO9,Colchester,0.9630872483221476,1192
+CR0,Outer South London,0.9993120055039559,2907
+CR2,Outer South London,1.0,2177
+CR3,Outer South London,0.997421351211965,1939
+CR4,Outer South London,0.995049504950495,2020
+CR44,Outer South London,1.0,22
+CR5,Outer South London,1.0,1057
+CR6,Outer South London,0.9943502824858758,354
+CR7,Outer South London,1.0,976
+CR8,Outer South London,1.0,1174
+CR9,Outer South London,1.0,1909
+CR90,Outer South London,1.0,309
+CT1,Canterbury,1.0,1455
+CT10,Thanet,1.0,1010
+CT11,Thanet,1.0,1177
+CT12,Thanet,1.0,655
+CT13,Dover-Shepway,0.9317343173431735,542
+CT14,Dover-Shepway,1.0,1426
+CT15,Dover-Shepway,0.9088277858176556,691
+CT16,Dover-Shepway,1.0,974
+CT17,Dover-Shepway,1.0,682
+CT18,Dover-Shepway,0.9941520467836257,513
+CT19,Dover-Shepway,1.0,840
+CT2,Canterbury,1.0,1000
+CT20,Dover-Shepway,1.0,1318
+CT21,Dover-Shepway,0.9954075774971297,871
+CT3,Canterbury,0.9932659932659933,891
+CT4,Canterbury,0.9583333333333334,960
+CT5,Canterbury,1.0,1311
+CT50,Dover-Shepway,1.0,12
+CT6,Canterbury,1.0,1348
+CT7,Thanet,0.9979296066252588,483
+CT8,Thanet,1.0,264
+CT9,Thanet,1.0,1730
+CV1,Coventry,1.0,1516
+CV10,Coventry,0.9983179142136249,1189
+CV11,Coventry,0.9992372234935164,1311
+CV12,Coventry,1.0,819
+CV13,Leicester,0.7132530120481928,415
+CV2,Coventry,1.0,1544
+CV21,Rugby & East,0.9311663479923518,1569
+CV22,Rugby & East,0.977491961414791,933
+CV23,Rugby & East,0.7930434782608695,1150
+CV3,Coventry,1.0,1937
+CV31,Warwickshire South,1.0,1214
+CV32,Warwickshire South,1.0,1307
+CV33,Warwickshire South,0.9973082099596231,743
+CV34,Warwickshire South,1.0,1454
+CV35,Warwickshire South,0.9532944120100083,1199
+CV36,Warwickshire South,0.7868852459016393,488
+CV37,Warwickshire South,1.0,2194
+CV4,Coventry,0.9967567567567568,925
+CV47,Warwickshire South,0.9950556242274413,809
+CV5,Coventry,0.989010989010989,1183
+CV6,Coventry,1.0,2103
+CV7,Coventry,0.6780893042575286,963
+CV8,Warwickshire South,0.803030303030303,1122
+CV9,Coventry,0.7321637426900585,855
+CW1,South Cheshire,1.0,2071
+CW10,South Cheshire,0.9893992932862191,566
+CW11,South Cheshire,1.0,1795
+CW12,South Cheshire,0.9779829545454546,1408
+CW2,South Cheshire,0.991466252909232,1289
+CW3,Staffordshire North,0.5907990314769975,413
+CW4,South Cheshire,1.0,466
+CW5,South Cheshire,0.9992325402916347,1303
+CW6,West Cheshire,0.8160621761658031,772
+CW7,South Cheshire,0.9840255591054313,1252
+CW8,West Cheshire,0.9992464204973625,1327
+CW9,West Cheshire,0.9950950337216432,1631
+CW98,South Cheshire,1.0,2
+DA1,North West Kent,0.8295165394402035,1965
+DA10,North West Kent,1.0,340
+DA11,North West Kent,1.0,1047
+DA12,North West Kent,0.9863760217983651,1468
+DA13,North West Kent,0.996,500
+DA14,Outer South East London,0.9959404600811907,739
+DA15,Outer South East London,1.0,856
+DA16,Outer South East London,1.0,746
+DA17,Outer South East London,0.9607072691552063,509
+DA18,Outer South East London,1.0,101
+DA2,North West Kent,1.0,646
+DA3,North West Kent,0.99812734082397,534
+DA4,North West Kent,0.6176470588235294,306
+DA5,Outer South East London,0.838006230529595,642
+DA6,Outer South East London,1.0,419
+DA7,Outer South East London,1.0,1055
+DA8,Outer South East London,1.0,967
+DA9,North West Kent,1.0,388
+DE1,Derby,0.9988845510317903,1793
+DE11,Eastern Staffordshire,0.9992447129909365,1324
+DE12,Eastern Staffordshire,0.6733436055469953,649
+DE13,Eastern Staffordshire,0.8941798941798942,1134
+DE14,Eastern Staffordshire,1.0,1296
+DE15,Eastern Staffordshire,1.0,597
+DE2,Derby,1.0,2123
+DE21,Derby,1.0,1448
+DE22,Derby,1.0,1189
+DE23,Derby,1.0,1568
+DE24,Derby,1.0,1264
+DE3,Derby,1.0,2658
+DE4,Peaks & Dales,1.0,1587
+DE45,Peaks & Dales,1.0,396
+DE5,Derby,0.7730095990965556,1771
+DE55,Derby,0.5458745874587458,1515
+DE56,Derby,0.8636734693877551,1225
+DE6,Peaks & Dales,0.5536451169188445,1454
+DE65,Eastern Staffordshire,0.7558479532163743,684
+DE7,Nottingham,0.45562569624953586,2693
+DE72,Derby,0.9649805447470817,514
+DE73,Derby,0.9129511677282378,942
+DE74,Leicester,0.8942065491183879,397
+DE75,Derby,0.9610705596107056,411
+DE99,Derby,1.0,6
+DG16,North Cumbria,1.0,5
+DH1,Durham,1.0,2013
+DH2,Durham,0.9816091954022989,870
+DH3,Durham,0.6139240506329114,1106
+DH4,Sunderland,0.847972972972973,1184
+DH5,Sunderland,0.9955357142857143,672
+DH6,Durham,0.8150337837837838,1184
+DH7,Durham,1.0,1460
+DH8,Durham,0.9534482758620689,1740
+DH9,Durham,0.9978843441466855,1418
+DH97,Durham,1.0,4
+DH98,Tyneside,0.6666666666666666,3
+DH99,Durham,1.0,31
+DL1,Darlington,0.9995066600888012,2027
+DL10,Richmond & Hambleton,0.8858162355040142,1121
+DL11,Richmond & Hambleton,0.7474541751527495,491
+DL12,Darlington,0.9953757225433526,865
+DL13,Durham,0.9962546816479401,1068
+DL14,Durham,0.9993670886075949,1580
+DL15,Durham,1.0,807
+DL16,Durham,1.0,770
+DL17,Durham,0.9935897435897436,624
+DL2,Darlington,0.9813278008298755,964
+DL3,Darlington,1.0,1540
+DL4,Durham,0.989041095890411,365
+DL5,Darlington,0.9973021582733813,1112
+DL6,Richmond & Hambleton,0.9924906132665833,799
+DL7,Richmond & Hambleton,1.0,979
+DL8,Richmond & Hambleton,0.9709257842387146,1307
+DL9,Richmond & Hambleton,1.0,512
+DL98,Darlington,1.0,12
+DN1,Doncaster,1.0,1187
+DN10,North Nottingham,0.5967741935483871,682
+DN11,Doncaster,0.9959225280326198,981
+DN12,Doncaster,0.9986541049798116,743
+DN14,Doncaster,0.8303571428571429,2016
+DN15,Scunthorpe,1.0,1339
+DN16,Scunthorpe,1.0,876
+DN17,Scunthorpe,0.975177304964539,1128
+DN18,Scunthorpe,1.0,450
+DN19,Scunthorpe,1.0,273
+DN2,Doncaster,1.0,720
+DN20,Scunthorpe,1.0,847
+DN21,Lincoln,0.8267622461170848,1674
+DN22,North Nottingham,1.0,1521
+DN3,Doncaster,1.0,860
+DN31,Grimsby,1.0,992
+DN32,Grimsby,1.0,916
+DN33,Grimsby,1.0,618
+DN34,Grimsby,1.0,558
+DN35,Grimsby,1.0,981
+DN36,Grimsby,0.9889196675900277,722
+DN37,Grimsby,1.0,1013
+DN38,Scunthorpe,0.7295081967213115,122
+DN39,Grimsby,0.7071428571428572,140
+DN4,Doncaster,1.0,1686
+DN40,Grimsby,1.0,622
+DN41,Grimsby,1.0,277
+DN5,Doncaster,1.0,1174
+DN55,Doncaster,1.0,60
+DN6,Doncaster,1.0,1001
+DN7,Doncaster,1.0,783
+DN8,Doncaster,0.9929947460595446,571
+DN9,Doncaster,0.9965034965034965,858
+DT1,Mid & West Dorset,1.0,1103
+DT10,Yeovil,0.9911971830985915,568
+DT11,Mid & West Dorset,0.9703043801039347,1347
+DT2,Mid & West Dorset,0.9907048799380326,1291
+DT3,Mid & West Dorset,1.0,798
+DT4,Mid & West Dorset,1.0,1480
+DT5,Mid & West Dorset,1.0,412
+DT6,Mid & West Dorset,1.0,1221
+DT7,Mid & West Dorset,1.0,338
+DT8,Mid & West Dorset,0.9963369963369964,273
+DT9,Yeovil,0.9991142604074402,1129
+DY1,Black Country,1.0,1208
+DY10,Worcester North,0.9955056179775281,1335
+DY11,Worcester North,0.9963336388634281,1091
+DY12,Worcester North,0.9985652797704447,697
+DY13,Worcester North,0.9748083242059146,913
+DY14,Worcester North,0.9505813953488372,688
+DY2,Black Country,1.0,980
+DY3,Black Country,1.0,933
+DY4,Black Country,1.0,1253
+DY5,Black Country,1.0,1232
+DY6,Black Country,1.0,1020
+DY7,Black Country,0.990990990990991,444
+DY8,Black Country,0.9994065281899109,1685
+DY9,Black Country,0.8740942028985508,1104
+E1,Inner East London,0.965093085106383,3008
+E10,Outer East London,1.0,1117
+E11,Outer East London,0.7921122994652406,1496
+E12,Outer East London,1.0,724
+E13,Outer East London,1.0,948
+E14,Inner East London,0.9996607869742198,2948
+E15,Outer East London,0.9836734693877551,1470
+E16,Outer East London,0.9028169014084507,1420
+E17,Outer East London,0.9960014540167212,2751
+E18,Outer North East London,1.0,655
+E1W,Inner East London,1.0,885
+E2,Inner East London,1.0,1599
+E20,Outer East London,0.9079497907949791,239
+E3,Inner East London,0.9905482041587902,1587
+E4,Outer North East London,0.9883040935672515,1539
+E5,Inner East London,0.9957191780821918,1168
+E6,Outer East London,1.0,1984
+E7,Outer East London,1.0,1059
+E77,Inner East London,1.0,39
+E8,Inner East London,1.0,1337
+E9,Inner East London,1.0,1052
+E98,Inner East London,1.0,76
+EC1A,Central London,1.0,618
+EC1M,Central London,1.0,527
+EC1N,Central London,1.0,513
+EC1P,Central London,1.0,400
+EC1R,Central London,1.0,580
+EC1V,Central London,0.9077946768060836,1052
+EC1Y,Central London,1.0,445
+EC2A,Central London,1.0,915
+EC2M,Central London,0.9902676399026764,822
+EC2N,Central London,1.0,264
+EC2P,Central London,1.0,380
+EC2R,Central London,1.0,353
+EC2V,Central London,1.0,456
+EC2Y,Central London,1.0,295
+EC3A,Central London,1.0,507
+EC3B,Central London,1.0,1
+EC3M,Central London,1.0,480
+EC3N,Central London,0.9617346938775511,392
+EC3P,Central London,1.0,123
+EC3R,Central London,1.0,396
+EC3V,Central London,1.0,347
+EC4A,Central London,1.0,512
+EC4M,Central London,1.0,343
+EC4N,Central London,1.0,372
+EC4P,Central London,1.0,217
+EC4R,Central London,1.0,272
+EC4V,Central London,1.0,436
+EC4Y,Central London,1.0,411
+EC50,Central London,1.0,129
+EC88,Central London,0.8873239436619719,71
+EN1,Outer North London,1.0,1703
+EN10,South East Herts,0.9283276450511946,586
+EN11,South East Herts,0.98861646234676,1142
+EN2,Outer North London,0.998320738874895,1191
+EN3,Outer North London,1.0,1447
+EN4,Outer North London,1.0,898
+EN5,Outer North London,1.0,1805
+EN6,Outer North London,0.7944055944055944,1430
+EN7,South East Herts,0.9952,625
+EN8,South East Herts,0.9729551451187335,1516
+EN9,South East Herts,0.7857961053837342,873
+EX1,Exeter,1.0,1490
+EX10,Mid & East Devon,0.9685279187817258,985
+EX11,Mid & East Devon,0.9923857868020305,394
+EX12,Mid & East Devon,1.0,596
+EX13,Mid & East Devon,0.9937694704049844,963
+EX14,Mid & East Devon,0.9983258928571429,1792
+EX15,Mid & East Devon,0.8608695652173913,1035
+EX16,Mid & East Devon,0.9777777777777777,1620
+EX17,Exeter,0.9597946963216424,1169
+EX18,North Devon,0.9594594594594594,222
+EX19,Exeter,0.640625,256
+EX2,Exeter,1.0,1863
+EX20,Exeter,0.8962962962962963,1215
+EX21,North Cornwall & Devon Borders,0.7006369426751592,314
+EX22,North Cornwall & Devon Borders,0.9134897360703812,682
+EX23,North Cornwall & Devon Borders,1.0,838
+EX24,Mid & East Devon,1.0,241
+EX3,Exeter,1.0,324
+EX31,North Devon,1.0,1209
+EX32,North Devon,1.0,1137
+EX33,North Devon,1.0,422
+EX34,North Devon,1.0,848
+EX35,North Devon,0.9084967320261438,153
+EX36,North Devon,0.991701244813278,482
+EX37,North Devon,1.0,220
+EX38,North Devon,0.9973474801061007,377
+EX39,North Devon,1.0,1651
+EX4,Exeter,1.0,2111
+EX5,Exeter,0.9717557251908397,1310
+EX6,Exeter,0.9709302325581395,860
+EX7,South Devon,0.9854132901134521,617
+EX8,Exeter,1.0,1423
+EX9,Exeter,0.9974937343358395,399
+FY0,Fylde Coast,1.0,7
+FY1,Fylde Coast,1.0,1790
+FY2,Fylde Coast,1.0,693
+FY3,Fylde Coast,1.0,1031
+FY4,Fylde Coast,1.0,1449
+FY5,Fylde Coast,1.0,1485
+FY6,Fylde Coast,1.0,1049
+FY7,Fylde Coast,1.0,871
+FY8,Fylde Coast,1.0,1865
+GL1,Gloucester,1.0,1648
+GL10,Gloucester,1.0,566
+GL11,Gloucester,0.9987012987012988,770
+GL12,Gloucester,0.9683098591549296,568
+GL13,Gloucester,1.0,280
+GL14,Gloucester,1.0,854
+GL15,Gloucester,1.0,955
+GL16,Gloucester,1.0,579
+GL17,Gloucester,1.0,767
+GL18,Gloucester,1.0,379
+GL19,Gloucester,0.6780045351473923,441
+GL2,Gloucester,0.9990779160903642,2169
+GL20,Cheltenham,1.0,1233
+GL3,Gloucester,0.9976340694006309,1268
+GL4,Gloucester,1.0,2147
+GL5,Gloucester,1.0,1353
+GL50,Cheltenham,1.0,1636
+GL51,Cheltenham,0.9922586520947176,2196
+GL52,Cheltenham,1.0,2061
+GL53,Cheltenham,0.9956803455723542,926
+GL54,Cheltenham,1.0,1329
+GL55,Cheltenham,0.7621621621621621,370
+GL56,Cheltenham,0.9682779456193353,662
+GL6,Gloucester,1.0,1458
+GL7,Cheltenham,0.993879472693032,2124
+GL8,Cheltenham,0.8497652582159625,426
+GL9,West Wiltshire,0.4603174603174603,126
+GU1,Guildford,1.0,1891
+GU10,Blackwater Valley,0.9880382775119617,1254
+GU11,Blackwater Valley,1.0,1184
+GU12,Blackwater Valley,1.0,982
+GU13,Blackwater Valley,1.0,1083
+GU14,Blackwater Valley,1.0,1920
+GU15,Blackwater Valley,1.0,1857
+GU16,Blackwater Valley,1.0,1174
+GU17,Blackwater Valley,0.9980334316617503,1017
+GU18,Blackwater Valley,0.9369747899159664,238
+GU19,Blackwater Valley,0.9618320610687023,262
+GU2,Guildford,1.0,1708
+GU20,Blackwater Valley,0.9015151515151515,264
+GU21,Guildford,1.0,2115
+GU22,Guildford,1.0,1606
+GU23,Guildford,1.0,389
+GU24,Guildford,0.9975124378109452,804
+GU25,Walton,0.9262295081967213,366
+GU26,Guildford,0.997289972899729,369
+GU27,Guildford,0.8417786970010341,967
+GU28,Chichester,1.0,471
+GU29,Chichester,1.0,604
+GU3,Guildford,1.0,556
+GU30,Guildford,0.8424657534246576,438
+GU31,Portsmouth,0.7049180327868853,549
+GU32,Portsmouth,0.8012345679012346,810
+GU33,Portsmouth,0.8203991130820399,451
+GU34,Blackwater Valley,0.7652637818612922,1687
+GU35,Blackwater Valley,0.7937310414560161,989
+GU4,Guildford,1.0,654
+GU46,Blackwater Valley,1.0,443
+GU47,Blackwater Valley,0.9967689822294022,619
+GU5,Guildford,1.0,580
+GU51,Blackwater Valley,0.9965899403239556,1173
+GU52,Blackwater Valley,1.0,536
+GU6,Guildford,1.0,786
+GU7,Guildford,1.0,1201
+GU8,Guildford,0.9617612977983777,863
+GU9,Blackwater Valley,1.0,1518
+GU95,Blackwater Valley,1.0,13
+HA0,North West London,1.0,1624
+HA1,North West London,1.0,1778
+HA2,North West London,1.0,1670
+HA3,North West London,1.0,2150
+HA4,North West London,1.0,1819
+HA5,North West London,0.9994734070563455,1899
+HA6,North West London,1.0,1102
+HA7,North West London,0.998645903859174,1477
+HA8,North West London,0.9958071278825996,2385
+HA9,North West London,1.0,1935
+HD1,Kirklees,1.0,1890
+HD2,Kirklees,0.9973958333333334,768
+HD3,Kirklees,0.9949748743718593,796
+HD4,Kirklees,1.0,866
+HD5,Kirklees,1.0,866
+HD6,Halifax,0.9917355371900827,1089
+HD7,Kirklees,1.0,1852
+HD8,Kirklees,0.9991863303498779,1229
+HD9,Kirklees,1.0,1473
+HG1,Harrogate,1.0,1790
+HG2,Harrogate,1.0,1033
+HG3,Harrogate,0.9965469613259669,1448
+HG4,Harrogate,0.9743190661478599,1285
+HG5,Harrogate,0.9954285714285714,875
+HP1,South West Herts,1.0,1248
+HP10,Chilterns,1.0,850
+HP11,Chilterns,1.0,999
+HP12,Chilterns,1.0,848
+HP13,Chilterns,1.0,1170
+HP14,Chilterns,0.9889958734525447,727
+HP15,Chilterns,1.0,651
+HP16,Chilterns,0.9934426229508196,610
+HP17,Aylesbury,0.8997772828507795,898
+HP18,Aylesbury,0.8883116883116883,770
+HP19,Aylesbury,1.0,1190
+HP2,South West Herts,1.0,1379
+HP20,Aylesbury,1.0,1011
+HP21,Aylesbury,1.0,1097
+HP22,Aylesbury,0.9992657856093979,1362
+HP23,Aylesbury,0.9484978540772532,932
+HP27,Aylesbury,0.8474842767295597,636
+HP3,South West Herts,1.0,1011
+HP4,South West Herts,0.9658119658119658,1170
+HP5,Chilterns,0.9981701738334858,1093
+HP6,Chilterns,1.0,867
+HP7,Chilterns,1.0,537
+HP8,Chilterns,1.0,318
+HP9,Chilterns,0.9964664310954063,849
+HR1,Herefordshire,1.0,1562
+HR2,Herefordshire,1.0,1485
+HR3,Herefordshire,1.0,265
+HR4,Herefordshire,1.0,1200
+HR5,Herefordshire,1.0,248
+HR6,Herefordshire,1.0,952
+HR7,Herefordshire,0.9823529411764705,340
+HR8,Herefordshire,0.9926253687315634,678
+HR9,Herefordshire,1.0,1055
+HU1,Hull & East Riding,1.0,783
+HU10,Hull & East Riding,1.0,699
+HU11,Hull & East Riding,1.0,541
+HU12,Hull & East Riding,1.0,929
+HU13,Hull & East Riding,1.0,574
+HU14,Hull & East Riding,1.0,336
+HU15,Hull & East Riding,0.75,788
+HU16,Hull & East Riding,1.0,616
+HU17,Hull & East Riding,1.0,1599
+HU18,Hull & East Riding,1.0,321
+HU19,Hull & East Riding,1.0,236
+HU2,Hull & East Riding,1.0,378
+HU20,Hull & East Riding,1.0,41
+HU3,Hull & East Riding,1.0,1453
+HU4,Hull & East Riding,1.0,529
+HU5,Hull & East Riding,1.0,1383
+HU6,Hull & East Riding,1.0,822
+HU7,Hull & East Riding,1.0,990
+HU8,Hull & East Riding,1.0,1030
+HU9,Hull & East Riding,1.0,1568
+HX1,Halifax,1.0,1685
+HX2,Halifax,1.0,1323
+HX3,Halifax,0.9885057471264368,1740
+HX4,Halifax,0.9942528735632183,522
+HX5,Halifax,1.0,373
+HX6,Halifax,1.0,942
+HX7,Halifax,1.0,921
+IG1,Outer North East London,1.0,2212
+IG10,Outer North East London,1.0,1170
+IG11,Outer North East London,0.9963144963144963,1628
+IG2,Outer North East London,1.0,657
+IG3,Outer North East London,1.0,734
+IG4,Outer North East London,1.0,227
+IG5,Outer North East London,1.0,332
+IG6,Outer North East London,1.0,774
+IG7,Outer North East London,1.0,647
+IG8,Outer North East London,1.0,1471
+IG9,Outer North East London,1.0,419
+IP1,Ipswich,1.0,1821
+IP10,Ipswich,1.0,340
+IP11,Ipswich,1.0,1580
+IP12,Ipswich,1.0,1310
+IP13,Ipswich,0.999227202472952,1294
+IP14,Ipswich,0.9915919282511211,1784
+IP15,Ipswich,1.0,191
+IP16,Ipswich,1.0,333
+IP17,Ipswich,0.9891696750902527,831
+IP18,Lowestoft & Great Yarmouth,1.0,324
+IP19,Lowestoft & Great Yarmouth,0.8863636363636364,660
+IP2,Ipswich,1.0,886
+IP20,Central Norfolk & Norwich,0.9477806788511749,383
+IP21,Central Norfolk & Norwich,0.9607508532423208,586
+IP22,Central Norfolk & Norwich,0.955491744436468,1393
+IP23,Central Norfolk & Norwich,0.7040816326530612,392
+IP24,Bury St Edmunds,0.9464469618949537,971
+IP25,Central Norfolk & Norwich,0.9158200290275762,689
+IP26,Kings Lynn,0.5755968169761273,377
+IP27,Bury St Edmunds,1.0,611
+IP28,Bury St Edmunds,0.9810379241516967,1002
+IP29,Bury St Edmunds,1.0,485
+IP3,Ipswich,1.0,912
+IP30,Bury St Edmunds,0.9939668174962293,663
+IP31,Bury St Edmunds,0.9778024417314095,901
+IP32,Bury St Edmunds,1.0,545
+IP33,Bury St Edmunds,1.0,1270
+IP4,Ipswich,1.0,1225
+IP5,Ipswich,1.0,880
+IP6,Ipswich,1.0,896
+IP7,Ipswich,0.9623529411764706,850
+IP8,Ipswich,1.0,535
+IP9,Ipswich,1.0,558
+IP98,Central Norfolk & Norwich,1.0,19
+KT1,Outer South West London,1.0,1467
+KT10,Walton,0.9476284584980237,1012
+KT11,Walton,0.9739644970414201,845
+KT12,Walton,1.0,1561
+KT13,Walton,1.0,1303
+KT14,Walton,0.998422712933754,634
+KT15,Walton,0.9953746530989824,1081
+KT16,Walton,0.9914893617021276,940
+KT17,Outer South London,0.9952191235059761,1255
+KT18,Outer South London,0.9005602240896359,714
+KT19,Outer South London,0.9939516129032258,992
+KT2,Outer South West London,0.9990224828934506,1023
+KT20,Crawley & Reigate,0.86003861003861,1036
+KT21,Walton,0.998211091234347,559
+KT22,Walton,0.9912398921832885,1484
+KT23,Walton,0.9377593360995851,482
+KT24,Guildford,1.0,549
+KT3,Outer South West London,1.0,1310
+KT4,Outer South West London,0.9945280437756497,731
+KT5,Outer South West London,0.9980392156862745,510
+KT6,Outer South West London,0.9957007738607051,1163
+KT7,Outer South West London,0.9705882352941176,374
+KT8,Walton,0.980244590780809,1063
+KT9,Outer South London,0.9906976744186047,645
+L1,Greater Liverpool,1.0,805
+L10,Greater Liverpool,1.0,356
+L11,Greater Liverpool,1.0,713
+L12,Greater Liverpool,1.0,795
+L13,Greater Liverpool,1.0,848
+L14,Greater Liverpool,1.0,613
+L15,Greater Liverpool,1.0,715
+L16,Greater Liverpool,1.0,326
+L17,Greater Liverpool,1.0,752
+L18,Greater Liverpool,1.0,842
+L19,Greater Liverpool,1.0,714
+L2,Greater Liverpool,1.0,787
+L20,Greater Liverpool,0.9993489583333334,1536
+L21,Greater Liverpool,1.0,726
+L22,Greater Liverpool,1.0,459
+L23,Greater Liverpool,0.9989451476793249,948
+L24,Greater Liverpool,1.0,572
+L25,Greater Liverpool,1.0,1184
+L26,Greater Liverpool,1.0,445
+L27,Greater Liverpool,1.0,226
+L28,Greater Liverpool,1.0,155
+L29,Greater Liverpool,0.9032258064516129,31
+L3,Greater Liverpool,1.0,1077
+L30,Greater Liverpool,1.0,614
+L31,Greater Liverpool,0.9968879668049793,964
+L32,Greater Liverpool,1.0,659
+L33,Greater Liverpool,0.9987775061124694,818
+L34,St Helens,0.7003105590062112,644
+L35,St Helens,0.9430523917995444,878
+L36,Greater Liverpool,1.0,1190
+L37,Southport,1.0,988
+L38,Southport,1.0,134
+L39,Southport,0.9963302752293578,1090
+L4,Greater Liverpool,1.0,928
+L40,Southport,0.8701298701298701,770
+L41,Wirral,0.9966914805624483,1209
+L42,Wirral,1.0,762
+L43,Wirral,0.9990485252140818,1051
+L44,Wirral,1.0,907
+L45,Wirral,1.0,924
+L46,Wirral,1.0,627
+L47,Wirral,1.0,416
+L48,Wirral,1.0,576
+L49,Wirral,1.0,714
+L5,Greater Liverpool,1.0,757
+L6,Greater Liverpool,1.0,665
+L60,Wirral,1.0,529
+L61,Wirral,1.0,460
+L62,Wirral,0.9988839285714286,896
+L63,Wirral,1.0,885
+L64,Wirral,1.0,712
+L65,West Cheshire,0.991764705882353,850
+L66,West Cheshire,0.9936507936507937,945
+L67,Greater Liverpool,0.9166666666666666,12
+L68,Greater Liverpool,1.0,10
+L69,Greater Liverpool,0.9988452655889145,1732
+L7,Greater Liverpool,1.0,661
+L70,Greater Liverpool,1.0,219
+L71,Greater Liverpool,1.0,20
+L72,Greater Liverpool,1.0,60
+L73,Greater Liverpool,1.0,1
+L74,Greater Liverpool,1.0,27
+L75,Greater Liverpool,1.0,38
+L8,Greater Liverpool,1.0,961
+L80,Greater Liverpool,1.0,4
+L9,Greater Liverpool,1.0,891
+LA1,Lancaster,1.0,1956
+LA10,Kendal,0.980544747081712,257
+LA11,Kendal,1.0,536
+LA12,Barrow-in-Furness,0.8765541740674956,1126
+LA13,Barrow-in-Furness,1.0,560
+LA14,Barrow-in-Furness,1.0,1549
+LA15,Barrow-in-Furness,1.0,281
+LA16,Barrow-in-Furness,1.0,124
+LA17,Barrow-in-Furness,1.0,62
+LA18,Barrow-in-Furness,1.0,344
+LA19,Barrow-in-Furness,1.0,81
+LA2,Lancaster,0.9540229885057471,1131
+LA20,Barrow-in-Furness,0.9583333333333334,96
+LA21,Kendal,1.0,105
+LA22,Kendal,1.0,487
+LA23,Kendal,1.0,643
+LA3,Lancaster,1.0,942
+LA4,Lancaster,1.0,969
+LA5,Lancaster,0.841886269070735,721
+LA6,Kendal,0.5281329923273658,782
+LA7,Kendal,0.9960474308300395,253
+LA8,Kendal,1.0,593
+LA9,Kendal,1.0,1292
+LD7,Shropshire,1.0,23
+LD8,Herefordshire,1.0,27
+LE1,Leicester,1.0,1695
+LE10,Leicester,0.9683377308707124,1516
+LE11,Leicester,1.0,2129
+LE12,Leicester,0.9886234357224118,1758
+LE13,Leicester,1.0,870
+LE14,Leicester,0.8458692971639951,811
+LE15,Leicester,0.847887323943662,1420
+LE16,Leicester,0.8933132982719759,1331
+LE17,Rugby & East,0.8937437934458788,1007
+LE18,Leicester,1.0,993
+LE19,Leicester,1.0,654
+LE2,Leicester,1.0,2799
+LE21,Leicester,1.0,237
+LE3,Leicester,1.0,2616
+LE4,Leicester,1.0,2493
+LE41,Leicester,1.0,189
+LE5,Leicester,1.0,2058
+LE55,Leicester,1.0,28
+LE6,Leicester,0.9982121573301549,1678
+LE65,Leicester,0.993920972644377,658
+LE67,Leicester,1.0,1882
+LE7,Leicester,1.0,1902
+LE8,Leicester,0.9991304347826087,2300
+LE87,Leicester,1.0,82
+LE9,Leicester,0.999116217410517,2263
+LE94,Leicester,1.0,21
+LE95,Leicester,1.0,3
+LL14,Shropshire,1.0,28
+LN1,Lincoln,1.0,1101
+LN10,Wolds and Coast,0.8811475409836066,244
+LN11,Wolds and Coast,0.9985835694050992,1412
+LN12,Wolds and Coast,1.0,523
+LN13,Wolds and Coast,1.0,405
+LN2,Lincoln,1.0,1578
+LN3,Lincoln,0.8135313531353136,606
+LN4,Lincoln,0.8255474452554744,1370
+LN5,Lincoln,0.9927710843373494,1660
+LN6,Lincoln,0.9994236311239193,1735
+LN7,Grimsby,0.6895424836601307,306
+LN8,Lincoln,0.8671497584541062,828
+LN9,Wolds and Coast,0.9575757575757575,495
+LS1,Leeds,1.0,1698
+LS10,Leeds,1.0,1286
+LS11,Leeds,1.0,1568
+LS12,Leeds,1.0,1767
+LS13,Leeds,1.0,1163
+LS14,Leeds,1.0,1311
+LS15,Leeds,1.0,1211
+LS16,Leeds,1.0,1429
+LS17,Leeds,0.9441652707984366,1791
+LS18,Leeds,1.0,695
+LS19,Leeds,0.9988358556461001,859
+LS2,Leeds,1.0,770
+LS20,Leeds,1.0,474
+LS21,Leeds,0.9093997734994338,883
+LS22,Leeds,0.9571303587051618,1143
+LS23,Leeds,1.0,538
+LS24,York,0.7867924528301887,530
+LS25,Leeds,0.9849726775956285,1464
+LS26,Leeds,0.9904122722914669,1043
+LS27,Leeds,1.0,1476
+LS28,Leeds,0.9986824769433466,1518
+LS29,Leeds,0.9976359338061466,1692
+LS3,Leeds,1.0,231
+LS4,Leeds,1.0,309
+LS5,Leeds,1.0,275
+LS6,Leeds,1.0,1351
+LS7,Leeds,1.0,1150
+LS8,Leeds,1.0,1442
+LS88,Leeds,1.0,62
+LS9,Leeds,1.0,1320
+LS98,Leeds,1.0,10
+LS99,Leeds,1.0,59
+LU1,Luton,0.9983818770226537,1854
+LU2,Luton,0.9985507246376811,1380
+LU3,Luton,1.0,1284
+LU4,Luton,1.0,1037
+LU5,Luton,1.0,1088
+LU6,Luton,0.9930609097918273,1297
+LU7,Milton Keynes,0.9239373601789709,2682
+LU95,Milton Keynes,1.0,24
+M1,Central Greater Manchester,1.0,1009
+M10,Central Greater Manchester,1.0,1092
+M11,Central Greater Manchester,1.0,1111
+M12,Central Greater Manchester,1.0,876
+M13,Central Greater Manchester,1.0,761
+M14,Central Greater Manchester,1.0,1569
+M15,Central Greater Manchester,1.0,938
+M16,Central Greater Manchester,0.9993368700265252,1508
+M17,Central Greater Manchester,1.0,359
+M18,Central Greater Manchester,1.0,667
+M19,Central Greater Manchester,0.9733333333333334,1050
+M2,Central Greater Manchester,1.0,688
+M20,Central Greater Manchester,0.9995860927152318,2416
+M21,Central Greater Manchester,0.9988338192419826,1715
+M22,Southern Greater Manchester,0.9995446265938069,2196
+M23,Southern Greater Manchester,1.0,1298
+M24,Central Greater Manchester,0.9660377358490566,1855
+M25,Central Greater Manchester,0.7967552951780081,2219
+M26,Bolton and Bury,1.0,1738
+M27,Central Greater Manchester,0.9631294964028777,2224
+M28,Central Greater Manchester,0.9502586549940311,2513
+M29,Wigan,0.986400725294651,1103
+M3,Central Greater Manchester,1.0,1167
+M30,Central Greater Manchester,1.0,1498
+M31,Central Greater Manchester,0.7278314310798947,1139
+M32,Central Greater Manchester,0.9969512195121951,984
+M33,Southern Greater Manchester,1.0,2598
+M34,Tameside & Glossop,0.825148407987048,1853
+M35,Central Greater Manchester,0.9972677595628415,1098
+M38,Central Greater Manchester,0.9960707269155207,509
+M4,Central Greater Manchester,1.0,794
+M40,Central Greater Manchester,1.0,1780
+M41,Central Greater Manchester,0.999275887038378,1381
+M43,Central Greater Manchester,0.9986666666666667,750
+M44,Central Greater Manchester,1.0,578
+M45,Bolton and Bury,0.6876907426246185,983
+M46,Wigan,0.9606986899563319,687
+M5,Central Greater Manchester,1.0,1495
+M50,Central Greater Manchester,1.0,348
+M52,Central Greater Manchester,1.0,81
+M6,Central Greater Manchester,1.0,1193
+M60,Central Greater Manchester,1.0,1518
+M61,Central Greater Manchester,1.0,347
+M7,Central Greater Manchester,1.0,1611
+M8,Central Greater Manchester,1.0,1804
+M9,Central Greater Manchester,1.0,1959
+M90,Southern Greater Manchester,1.0,244
+M99,Central Greater Manchester,1.0,36
+ME1,Medway & Swale,0.8845299777942265,1351
+ME10,Medway & Swale,1.0,1584
+ME11,Medway & Swale,0.9931972789115646,147
+ME12,Medway & Swale,1.0,1208
+ME13,Canterbury,0.9656972408650261,1341
+ME14,Maidstone,0.9994499449944995,1818
+ME15,Maidstone,1.0,1696
+ME16,Maidstone,1.0,961
+ME17,Maidstone,0.9977186311787072,1315
+ME18,Maidstone,0.9553349875930521,403
+ME19,Maidstone,0.9989858012170385,986
+ME2,Medway & Swale,0.9983660130718954,1224
+ME20,Maidstone,1.0,721
+ME3,Medway & Swale,0.9942418426103646,1042
+ME4,Medway & Swale,1.0,1214
+ME5,Medway & Swale,0.974477958236659,1293
+ME6,Maidstone,1.0,530
+ME7,Medway & Swale,0.9804741980474198,1434
+ME8,Medway & Swale,0.9980327868852459,1525
+ME9,Medway & Swale,0.8097469540768509,1067
+ME99,Maidstone,0.9333333333333333,15
+MK1,Milton Keynes,1.0,446
+MK10,Milton Keynes,1.0,1013
+MK11,Milton Keynes,1.0,627
+MK12,Milton Keynes,1.0,477
+MK13,Milton Keynes,1.0,761
+MK14,Milton Keynes,1.0,794
+MK15,Milton Keynes,1.0,370
+MK16,Milton Keynes,0.996594778660613,881
+MK17,Milton Keynes,0.9894534995206136,1043
+MK18,Milton Keynes,0.9456985967053081,1639
+MK19,Milton Keynes,1.0,478
+MK2,Milton Keynes,1.0,590
+MK3,Milton Keynes,1.0,881
+MK4,Milton Keynes,1.0,769
+MK40,Bedford,1.0,1539
+MK41,Bedford,1.0,1431
+MK42,Bedford,1.0,1645
+MK43,Bedford,0.8024602026049205,1382
+MK44,Bedford,0.9645308924485125,874
+MK45,Bedford,0.8866396761133604,1729
+MK46,Milton Keynes,0.9727047146401985,403
+MK5,Milton Keynes,1.0,607
+MK6,Milton Keynes,1.0,880
+MK7,Milton Keynes,1.0,650
+MK77,Milton Keynes,1.0,69
+MK8,Milton Keynes,1.0,656
+MK9,Milton Keynes,1.0,672
+MK98,Milton Keynes,1.0,29
+N1,Inner North London,0.762668193529917,3493
+N10,Outer North London,0.9980139026812314,1007
+N11,Outer North London,1.0,1000
+N12,Outer North London,1.0,1279
+N13,Outer North London,1.0,867
+N14,Outer North London,1.0,1157
+N15,Outer North London,0.9363265306122449,1225
+N16,Inner East London,0.9974025974025974,1925
+N17,Outer North London,0.9988172678888232,1691
+N18,Outer North London,0.9988399071925754,862
+N19,Inner North London,1.0,1132
+N1C,Inner North London,1.0,89
+N1P,Inner North London,1.0,800
+N2,Outer North London,0.7669491525423728,944
+N20,Outer North London,1.0,884
+N21,Outer North London,1.0,932
+N22,Outer North London,1.0,1583
+N3,Outer North London,0.9983093829247676,1183
+N4,Inner North London,0.5045336787564767,1544
+N5,Inner North London,0.9465174129353234,804
+N6,Inner North London,1.0,855
+N7,Inner North London,1.0,1613
+N8,Outer North London,0.9507094846900672,1339
+N81,Outer North London,0.8571428571428571,14
+N9,Outer North London,1.0,1292
+NE1,Tyneside,1.0,1323
+NE10,Tyneside,0.9956379498364231,917
+NE11,Tyneside,1.0,712
+NE12,Tyneside,1.0,1600
+NE13,Tyneside,1.0,551
+NE15,Tyneside,1.0,1167
+NE16,Tyneside,0.8143322475570033,921
+NE17,Tyneside,0.7412935323383084,201
+NE18,Tyneside,1.0,79
+NE19,Tyneside,0.9458333333333333,240
+NE2,Tyneside,1.0,676
+NE20,Tyneside,0.9933554817275747,602
+NE21,Tyneside,1.0,732
+NE22,Northumberland,1.0,613
+NE23,Northumberland,0.8929889298892989,1626
+NE24,Northumberland,1.0,1389
+NE25,Tyneside,0.6710369487485102,839
+NE26,Tyneside,0.8753056234718827,818
+NE27,Tyneside,0.9976798143851509,431
+NE28,Tyneside,1.0,1380
+NE29,Tyneside,1.0,1366
+NE3,Tyneside,1.0,1766
+NE30,Tyneside,1.0,862
+NE31,Tyneside,1.0,639
+NE32,Tyneside,0.9988713318284425,886
+NE33,Tyneside,1.0,1225
+NE34,Tyneside,0.9991714995857498,1207
+NE35,Sunderland,0.9235668789808917,157
+NE36,Sunderland,0.9130434782608695,253
+NE37,Sunderland,1.0,747
+NE38,Sunderland,0.9874141876430206,874
+NE39,Tyneside,0.9326145552560647,371
+NE4,Tyneside,1.0,1063
+NE40,Tyneside,1.0,603
+NE41,Tyneside,1.0,114
+NE42,Tyneside,1.0,443
+NE43,Tyneside,1.0,267
+NE44,Tyneside,1.0,98
+NE45,Tyneside,1.0,232
+NE46,Tyneside,1.0,1165
+NE47,Tyneside,1.0,665
+NE48,Tyneside,1.0,494
+NE49,Tyneside,0.9144542772861357,339
+NE5,Tyneside,1.0,1370
+NE6,Tyneside,1.0,1566
+NE61,Northumberland,0.9824198552223371,1934
+NE62,Northumberland,1.0,300
+NE63,Northumberland,1.0,1023
+NE64,Northumberland,1.0,216
+NE65,Northumberland,1.0,1220
+NE66,Northumberland,1.0,1222
+NE67,Northumberland,1.0,131
+NE68,Northumberland,1.0,118
+NE69,Northumberland,1.0,41
+NE7,Tyneside,1.0,374
+NE70,Northumberland,1.0,137
+NE71,Northumberland,1.0,211
+NE8,Tyneside,1.0,1307
+NE82,Tyneside,1.0,6
+NE83,Tyneside,1.0,16
+NE85,Tyneside,0.8333333333333334,18
+NE88,Tyneside,1.0,11
+NE89,Sunderland,1.0,1
+NE9,Tyneside,1.0,1022
+NE92,Tyneside,1.0,47
+NE98,Tyneside,1.0,14
+NE99,Tyneside,1.0,844
+NG1,Nottingham,1.0,1610
+NG10,Nottingham,0.9939024390243902,1312
+NG11,Nottingham,0.9972375690607734,1086
+NG12,Nottingham,1.0,1185
+NG13,Nottingham,0.6593673965936739,822
+NG14,Nottingham,0.8652482269503546,705
+NG15,Nottingham,0.7970540098199672,1222
+NG16,Nottingham,0.8235974551764026,1729
+NG17,North Nottingham,0.9994837377387713,1937
+NG18,North Nottingham,1.0,1674
+NG19,North Nottingham,0.9992784992784993,1386
+NG2,Nottingham,1.0,2112
+NG20,North Nottingham,0.9987819732034104,821
+NG21,North Nottingham,1.0,620
+NG22,North Nottingham,0.7636003956478734,1011
+NG23,Grantham & Newark,0.900117508813161,851
+NG24,Grantham & Newark,1.0,1670
+NG25,Grantham & Newark,0.9969604863221885,329
+NG3,Nottingham,1.0,1344
+NG31,Grantham & Newark,1.0,1537
+NG32,Grantham & Newark,0.9525801952580195,717
+NG33,Grantham & Newark,0.9046692607003891,514
+NG34,Lincoln,0.8959537572254336,1557
+NG4,Nottingham,1.0,1200
+NG5,Nottingham,1.0,2516
+NG6,Nottingham,1.0,1020
+NG7,Nottingham,1.0,1744
+NG70,North Nottingham,1.0,21
+NG8,Nottingham,1.0,1742
+NG80,Nottingham,1.0,53
+NG9,Nottingham,1.0,2123
+NG90,Nottingham,1.0,29
+NN1,Northampton,1.0,1644
+NN10,Northants Central,1.0,1189
+NN11,Rugby & East,0.8055957549445248,2073
+NN12,Northampton,0.9050131926121372,1137
+NN13,Cherwell Valley,0.9921700223713646,894
+NN14,Northants Central,1.0,1490
+NN15,Northants Central,1.0,1056
+NN16,Northants Central,1.0,1300
+NN17,Northants Central,0.98586017282011,1273
+NN18,Northants Central,1.0,769
+NN2,Northampton,1.0,1143
+NN29,Northants Central,1.0,333
+NN3,Northampton,1.0,2616
+NN4,Northampton,1.0,1722
+NN5,Northampton,1.0,1145
+NN6,Northampton,0.6843150231634679,1511
+NN7,Northampton,0.9845031905195989,1097
+NN8,Northants Central,0.9980544747081712,2056
+NN9,Northants Central,0.9974358974358974,1170
+NN99,Northampton,1.0,2
+NP16,Gloucester,1.0,208
+NP25,Herefordshire,0.5405405405405406,37
+NP5,Herefordshire,0.5428571428571428,35
+NP6,Gloucester,1.0,195
+NP7,Herefordshire,1.0,2
+NR1,Central Norfolk & Norwich,1.0,1236
+NR10,Central Norfolk & Norwich,1.0,856
+NR11,Central Norfolk & Norwich,1.0,856
+NR12,Central Norfolk & Norwich,1.0,1100
+NR13,Central Norfolk & Norwich,0.999195494770716,1243
+NR14,Central Norfolk & Norwich,0.9800380228136882,1052
+NR15,Central Norfolk & Norwich,1.0,705
+NR16,Central Norfolk & Norwich,0.9616724738675958,574
+NR17,Central Norfolk & Norwich,1.0,653
+NR18,Central Norfolk & Norwich,1.0,796
+NR19,Central Norfolk & Norwich,0.9962871287128713,808
+NR2,Central Norfolk & Norwich,1.0,1066
+NR20,Central Norfolk & Norwich,0.9155844155844156,924
+NR21,Kings Lynn,1.0,924
+NR22,Kings Lynn,1.0,74
+NR23,Kings Lynn,1.0,247
+NR24,Central Norfolk & Norwich,0.9361702127659575,235
+NR25,Central Norfolk & Norwich,0.6962457337883959,586
+NR26,Central Norfolk & Norwich,1.0,343
+NR27,Central Norfolk & Norwich,1.0,488
+NR28,Central Norfolk & Norwich,1.0,687
+NR29,Lowestoft & Great Yarmouth,0.931930693069307,808
+NR3,Central Norfolk & Norwich,1.0,1121
+NR30,Lowestoft & Great Yarmouth,0.9953810623556582,1299
+NR31,Lowestoft & Great Yarmouth,0.9985559566787003,1385
+NR32,Lowestoft & Great Yarmouth,1.0,1434
+NR33,Lowestoft & Great Yarmouth,1.0,1067
+NR34,Lowestoft & Great Yarmouth,0.9968387776606955,949
+NR35,Lowestoft & Great Yarmouth,0.8298676748582231,529
+NR4,Central Norfolk & Norwich,1.0,661
+NR5,Central Norfolk & Norwich,1.0,753
+NR6,Central Norfolk & Norwich,1.0,783
+NR7,Central Norfolk & Norwich,1.0,1315
+NR8,Central Norfolk & Norwich,1.0,535
+NR9,Central Norfolk & Norwich,1.0,768
+NR99,Central Norfolk & Norwich,1.0,10
+NW1,Inner North London,0.7989099254159495,3486
+NW10,Inner North London,0.775346687211094,3245
+NW11,Inner North London,0.9941792782305006,1718
+NW1W,Inner North London,1.0,1199
+NW2,Inner North London,0.9937328632980806,2553
+NW26,Inner North London,1.0,248
+NW3,Inner North London,1.0,2784
+NW4,Outer North London,0.985497692814766,1517
+NW5,Inner North London,1.0,1496
+NW6,Inner North London,0.9855458349182199,2629
+NW7,Outer North London,0.9970845481049563,1372
+NW8,Central London,0.8401464307504576,1639
+NW9,North West London,0.9968971631205674,2256
+OL1,Oldham & Rochdale,1.0,1462
+OL10,Bolton and Bury,0.9865591397849462,1116
+OL11,Oldham & Rochdale,1.0,1437
+OL12,Oldham & Rochdale,1.0,1517
+OL13,East Lancs,0.99880810488677,839
+OL14,Halifax,0.9919191919191919,990
+OL15,Oldham & Rochdale,0.9984,625
+OL16,Oldham & Rochdale,1.0,1820
+OL2,Oldham & Rochdale,1.0,1282
+OL3,Oldham & Rochdale,0.9959072305593452,733
+OL4,Oldham & Rochdale,0.9992094861660079,1265
+OL5,Tameside & Glossop,1.0,429
+OL6,Tameside & Glossop,0.9933283914010378,1349
+OL7,Tameside & Glossop,0.9772329246935202,571
+OL8,Oldham & Rochdale,0.9861351819757366,1154
+OL9,Oldham & Rochdale,0.939487975174554,1289
+OL95,Oldham & Rochdale,1.0,21
+OX1,Oxford,1.0,1720
+OX10,Oxford,0.9959266802443992,1473
+OX11,Oxford,0.9973873285434357,1531
+OX12,Oxford,0.9717868338557993,1276
+OX13,Oxford,1.0,603
+OX14,Oxford,0.9979859013091642,1986
+OX15,Cherwell Valley,1.0,1017
+OX16,Cherwell Valley,1.0,2641
+OX17,Cherwell Valley,0.998849252013809,869
+OX18,Oxford,0.7551724137931034,1160
+OX2,Oxford,0.9987908101571947,1654
+OX20,Oxford,0.9943661971830986,355
+OX25,Cherwell Valley,0.9931389365351629,583
+OX26,Cherwell Valley,1.0,1311
+OX27,Cherwell Valley,0.9975845410628019,414
+OX28,Oxford,1.0,1156
+OX29,Oxford,1.0,1220
+OX3,Oxford,1.0,1393
+OX33,Oxford,0.992,375
+OX39,Aylesbury,1.0,322
+OX4,Oxford,1.0,2520
+OX44,Oxford,1.0,444
+OX49,Oxford,0.9180327868852459,305
+OX5,Oxford,0.7296669248644462,1291
+OX6,Cherwell Valley,0.9975816203143894,1654
+OX7,Oxford,0.4264625478403499,1829
+OX8,Oxford,0.8979504696840307,2342
+OX9,Oxford,0.544468546637744,2305
+PE1,Peterborough,1.0,2040
+PE10,Peterborough,0.9387283236994219,865
+PE11,Lincolnshire Fens,0.9939867708959711,1663
+PE12,Lincolnshire Fens,0.9213333333333333,1500
+PE13,Kings Lynn,0.9941046425939573,1357
+PE14,Kings Lynn,0.9886010362694301,965
+PE15,Peterborough,0.9991197183098591,1136
+PE16,Peterborough,1.0,362
+PE17,Huntingdon,0.8047982551799345,1834
+PE18,Huntingdon,0.8982558139534884,1720
+PE19,Huntingdon,0.9973626373626374,2275
+PE2,Peterborough,1.0,2071
+PE20,Lincolnshire Fens,0.9928876244665719,703
+PE21,Lincolnshire Fens,1.0,1485
+PE22,Lincolnshire Fens,0.8880179171332587,893
+PE23,Wolds and Coast,0.9757174392935982,453
+PE24,Wolds and Coast,0.9983525535420099,607
+PE25,Wolds and Coast,1.0,918
+PE26,Peterborough,0.9953271028037384,428
+PE27,Huntingdon,1.0,738
+PE28,Huntingdon,0.8765093304061471,1822
+PE29,Huntingdon,1.0,1501
+PE3,Peterborough,1.0,1052
+PE30,Kings Lynn,1.0,1652
+PE31,Kings Lynn,1.0,995
+PE32,Kings Lynn,1.0,667
+PE33,Kings Lynn,1.0,621
+PE34,Kings Lynn,1.0,523
+PE35,Kings Lynn,1.0,15
+PE36,Kings Lynn,1.0,400
+PE37,Kings Lynn,0.998003992015968,501
+PE38,Kings Lynn,1.0,580
+PE4,Peterborough,1.0,768
+PE5,Peterborough,1.0,66
+PE6,Peterborough,1.0,1250
+PE7,Peterborough,1.0,1345
+PE8,Peterborough,0.9586374695863747,822
+PE9,Peterborough,1.0,1320
+PE99,Peterborough,1.0,14
+PL1,Plymouth,1.0,1607
+PL10,Plymouth,1.0,210
+PL11,Plymouth,1.0,405
+PL12,Plymouth,1.0,883
+PL13,Plymouth,1.0,549
+PL14,Plymouth,1.0,1297
+PL15,North Cornwall & Devon Borders,0.9980353634577603,1018
+PL16,North Cornwall & Devon Borders,1.0,127
+PL17,Plymouth,1.0,528
+PL18,Plymouth,1.0,257
+PL19,Plymouth,0.9988439306358381,865
+PL2,Plymouth,1.0,842
+PL20,Plymouth,0.9948006932409013,577
+PL21,Plymouth,1.0,769
+PL22,Kernow West,0.9873417721518988,237
+PL23,Kernow West,1.0,198
+PL24,Kernow West,1.0,292
+PL25,Kernow West,0.9991809991809992,1221
+PL26,Kernow West,0.9989795918367347,980
+PL27,North Cornwall & Devon Borders,1.0,700
+PL28,North Cornwall & Devon Borders,1.0,267
+PL29,North Cornwall & Devon Borders,1.0,67
+PL3,Plymouth,1.0,878
+PL30,North Cornwall & Devon Borders,0.9093904448105437,607
+PL31,North Cornwall & Devon Borders,1.0,616
+PL32,North Cornwall & Devon Borders,1.0,191
+PL33,North Cornwall & Devon Borders,1.0,89
+PL34,North Cornwall & Devon Borders,1.0,95
+PL35,North Cornwall & Devon Borders,1.0,89
+PL4,Plymouth,1.0,1255
+PL5,Plymouth,1.0,1107
+PL6,Plymouth,1.0,1241
+PL7,Plymouth,1.0,1374
+PL8,Plymouth,1.0,363
+PL9,Plymouth,1.0,1132
+PL95,Plymouth,1.0,33
+PO1,Portsmouth,0.9993838570548367,1623
+PO10,Chichester,0.9973787680209698,763
+PO11,Portsmouth,0.9985163204747775,674
+PO12,Portsmouth,1.0,1434
+PO13,Portsmouth,1.0,929
+PO14,Portsmouth,0.8960863697705803,1482
+PO15,Portsmouth,0.7049891540130152,922
+PO16,Portsmouth,1.0,1282
+PO17,Portsmouth,0.9658792650918635,381
+PO18,Chichester,1.0,846
+PO19,Chichester,1.0,2600
+PO2,Portsmouth,1.0,1050
+PO20,Chichester,0.8856548856548857,1924
+PO21,Worthing,1.0,1815
+PO22,Worthing,1.0,1209
+PO3,Portsmouth,1.0,586
+PO30,Isle of Wight,1.0,1473
+PO31,Isle of Wight,1.0,557
+PO32,Isle of Wight,1.0,284
+PO33,Isle of Wight,1.0,1268
+PO34,Isle of Wight,1.0,131
+PO35,Isle of Wight,1.0,198
+PO36,Isle of Wight,1.0,707
+PO37,Isle of Wight,1.0,407
+PO38,Isle of Wight,1.0,730
+PO39,Isle of Wight,1.0,127
+PO4,Portsmouth,1.0,1003
+PO40,Isle of Wight,1.0,339
+PO41,Isle of Wight,1.0,170
+PO5,Portsmouth,1.0,986
+PO6,Portsmouth,1.0,1271
+PO7,Portsmouth,0.9939283545840923,1647
+PO8,Portsmouth,0.9971671388101983,1059
+PO9,Portsmouth,0.9981447124304267,1617
+PR0,Central Lancs,1.0,25
+PR1,Central Lancs,0.998961937716263,2890
+PR11,Central Lancs,1.0,105
+PR2,Central Lancs,0.9993421052631579,3040
+PR25,Central Lancs,1.0,967
+PR26,Central Lancs,1.0,380
+PR3,Central Lancs,0.8543007606787595,1709
+PR4,Central Lancs,0.5062893081761006,2226
+PR5,Central Lancs,1.0,2366
+PR6,Central Lancs,0.9987105093488072,1551
+PR7,Central Lancs,0.9994717379820391,1893
+PR8,Southport,1.0,2068
+PR9,Southport,0.9992331288343558,1304
+RG1,Reading,0.9992962702322308,2842
+RG10,Reading,0.8848996832101372,947
+RG11,Reading,0.999548532731377,2215
+RG12,Reading,1.0,3226
+RG13,Newbury,0.9990272373540856,1028
+RG14,Newbury,0.984134853743183,2017
+RG15,Newbury,0.813953488372093,817
+RG16,Newbury,0.9545875810936052,1079
+RG17,Newbury,0.9625267665952891,934
+RG18,Newbury,0.8883994126284875,681
+RG19,Newbury,0.8655660377358491,848
+RG2,Reading,1.0,1395
+RG20,Newbury,0.8631756756756757,1184
+RG21,Basingstoke,1.0,1907
+RG22,Basingstoke,1.0,1022
+RG23,Basingstoke,1.0,463
+RG24,Basingstoke,1.0,1718
+RG25,Basingstoke,0.959731543624161,745
+RG26,Basingstoke,0.9492089925062448,1201
+RG27,Basingstoke,0.8624420401854714,1294
+RG28,Basingstoke,0.9965635738831615,291
+RG29,Basingstoke,0.9970059880239521,334
+RG3,Reading,1.0,1725
+RG30,Reading,1.0,1475
+RG31,Reading,1.0,803
+RG4,Reading,1.0,1730
+RG40,Reading,1.0,1592
+RG41,Reading,1.0,1148
+RG42,Reading,1.0,1480
+RG45,Reading,0.9983739837398374,615
+RG5,Reading,1.0,675
+RG6,Reading,1.0,1774
+RG7,Reading,0.8538223140495868,1936
+RG8,Reading,0.9755911517925248,1311
+RG9,Reading,0.9319313779745434,1807
+RH1,Crawley & Reigate,0.9984962406015038,1995
+RH10,Crawley & Reigate,1.0,3270
+RH11,Crawley & Reigate,1.0,1544
+RH12,Crawley & Reigate,0.9904625655698617,2097
+RH13,Crawley & Reigate,1.0,1859
+RH14,Crawley & Reigate,0.6348167539267016,764
+RH15,Crawley & Reigate,1.0,1208
+RH16,Crawley & Reigate,1.0,1724
+RH17,Crawley & Reigate,1.0,923
+RH18,Crawley & Reigate,1.0,233
+RH19,Crawley & Reigate,1.0,1760
+RH2,Crawley & Reigate,1.0,1313
+RH20,Chichester,0.5194174757281553,1236
+RH3,Crawley & Reigate,1.0,184
+RH4,Crawley & Reigate,1.0,1105
+RH5,Crawley & Reigate,0.9468713105076741,847
+RH6,Crawley & Reigate,1.0,1409
+RH7,Crawley & Reigate,1.0,322
+RH77,Crawley & Reigate,1.0,18
+RH8,Crawley & Reigate,1.0,665
+RH9,Crawley & Reigate,1.0,199
+RM1,Outer North East London,1.0,923
+RM10,Outer North East London,1.0,811
+RM11,Outer North East London,1.0,860
+RM12,Outer North East London,1.0,972
+RM13,Outer North East London,0.9989949748743718,995
+RM14,Outer North East London,0.920265780730897,903
+RM15,South West Essex,0.9987373737373737,792
+RM16,South West Essex,1.0,1241
+RM17,South West Essex,1.0,960
+RM18,South West Essex,1.0,479
+RM19,South West Essex,1.0,179
+RM2,Outer North East London,1.0,409
+RM20,South West Essex,1.0,255
+RM3,Outer North East London,1.0,1333
+RM4,Outer North East London,0.8918918918918919,222
+RM5,Outer North East London,1.0,488
+RM50,Outer North East London,1.0,15
+RM6,Outer North East London,1.0,761
+RM7,Outer North East London,1.0,1162
+RM8,Outer North East London,1.0,805
+RM9,Outer North East London,1.0,989
+S1,Sheffield,0.9972789115646259,1470
+S10,Sheffield,1.0,1475
+S11,Sheffield,0.9972350230414746,1085
+S12,Sheffield,1.0,843
+S13,Sheffield,0.9971098265895953,692
+S14,Sheffield,1.0,208
+S17,Sheffield,0.9981949458483754,554
+S18,Sheffield,0.9045553145336226,1383
+S19,Sheffield,0.9982363315696648,567
+S2,Sheffield,0.9993451211525868,1527
+S20,Sheffield,1.0,854
+S21,Sheffield,0.8823529411764706,510
+S25,Rotherham,0.9833836858006042,662
+S26,Sheffield,0.5,626
+S3,Sheffield,1.0,855
+S30,Sheffield,0.6196854979615609,1717
+S31,Rotherham,0.48044692737430167,1253
+S32,Peaks & Dales,0.7014925373134329,268
+S33,Peaks & Dales,0.985781990521327,211
+S35,Sheffield,0.9202279202279202,1053
+S36,Barnsley,0.5522875816993464,918
+S4,Sheffield,1.0,454
+S40,Chesterfield,1.0,1663
+S41,Chesterfield,1.0,1247
+S42,Chesterfield,0.9639448568398727,943
+S43,Chesterfield,0.9992236024844721,1288
+S44,Chesterfield,0.9786381842456608,749
+S45,Chesterfield,0.7612208258527827,557
+S49,Chesterfield,1.0,29
+S5,Sheffield,1.0,1253
+S6,Sheffield,1.0,1758
+S60,Rotherham,0.9987871437234688,1649
+S61,Rotherham,0.9940652818991098,1011
+S62,Rotherham,1.0,738
+S63,Rotherham,0.5328767123287671,1460
+S64,Doncaster,0.5147420147420148,814
+S65,Rotherham,1.0,1007
+S66,Rotherham,0.9932844932844933,1638
+S7,Sheffield,1.0,450
+S70,Barnsley,1.0,1843
+S71,Barnsley,0.9985795454545454,1408
+S72,Barnsley,0.9183673469387755,833
+S73,Barnsley,0.9404630650496141,907
+S74,Barnsley,0.9948630136986302,584
+S75,Barnsley,0.9806576402321083,1551
+S8,Sheffield,1.0,1314
+S80,North Nottingham,0.9794871794871794,1365
+S81,North Nottingham,0.9225352112676056,1278
+S9,Sheffield,0.9991961414790996,1244
+S95,Sheffield,0.6956521739130435,46
+S96,Sheffield,1.0,30
+S97,Rotherham,0.8958333333333334,48
+S98,Sheffield,1.0,323
+S99,Sheffield,1.0,38
+SE1,Inner South East London,0.9997276688453159,3672
+SE10,Inner South East London,0.9983870967741936,1240
+SE11,Inner South East London,1.0,882
+SE12,Outer South East London,0.7379227053140096,828
+SE13,Inner South East London,1.0,1185
+SE14,Inner South East London,1.0,802
+SE15,Inner South East London,1.0,2107
+SE16,Inner South East London,1.0,2066
+SE17,Inner South East London,1.0,1160
+SE18,Outer South East London,1.0,2273
+SE19,Inner South East London,0.9924026590693258,1053
+SE1P,Inner South East London,1.0,800
+SE2,Outer South East London,1.0,653
+SE20,Outer South East London,0.9936548223350253,788
+SE21,Inner South East London,1.0,521
+SE22,Inner South East London,1.0,959
+SE23,Inner South East London,1.0,1052
+SE24,Inner South East London,1.0,584
+SE25,Outer South London,0.9908256880733946,1090
+SE26,Inner South East London,0.9072063178677197,1013
+SE27,Inner South East London,1.0,698
+SE28,Outer South East London,1.0,656
+SE3,Inner South East London,0.7656367746797287,1327
+SE4,Inner South East London,1.0,786
+SE5,Inner South East London,1.0,1541
+SE6,Inner South East London,0.9482097186700768,1564
+SE7,Outer South East London,0.8455988455988456,693
+SE8,Inner South East London,1.0,959
+SE9,Outer South East London,1.0,1742
+SE99,Inner South East London,1.0,16
+SG1,Stevenage & North Herts,1.0,2002
+SG10,Harlow & Stortford,0.9044117647058824,136
+SG11,Harlow & Stortford,0.7417355371900827,484
+SG12,South East Herts,0.9471830985915493,1420
+SG13,South East Herts,1.0,914
+SG14,South East Herts,0.9131868131868132,910
+SG15,Stevenage & North Herts,1.0,167
+SG16,Bedford,0.9791666666666666,240
+SG17,Bedford,1.0,465
+SG18,Bedford,0.9979939819458375,997
+SG19,Bedford,0.782791185729276,953
+SG2,Stevenage & North Herts,1.0,1105
+SG3,Stevenage & North Herts,0.6770186335403726,322
+SG4,Stevenage & North Herts,0.8574859887910328,1249
+SG5,Stevenage & North Herts,0.979300499643112,1401
+SG6,Stevenage & North Herts,0.999330207635633,1493
+SG7,Stevenage & North Herts,1.0,575
+SG8,Stevenage & North Herts,0.7192008879023307,1802
+SG9,Stevenage & North Herts,0.7698675496688742,604
+SK1,Southern Greater Manchester,1.0,951
+SK10,East Cheshire,0.9995238095238095,2100
+SK11,East Cheshire,0.9750819672131148,1525
+SK12,Southern Greater Manchester,0.7742987606001305,1533
+SK13,Tameside & Glossop,0.9993519118600129,1543
+SK14,Tameside & Glossop,0.9980750721847931,2078
+SK15,Tameside & Glossop,1.0,892
+SK16,Tameside & Glossop,1.0,573
+SK17,Peaks & Dales,0.898054996646546,1491
+SK2,Southern Greater Manchester,1.0,888
+SK22,Southern Greater Manchester,0.9979423868312757,486
+SK23,Southern Greater Manchester,0.9958333333333333,720
+SK3,Southern Greater Manchester,1.0,937
+SK4,Southern Greater Manchester,0.9992429977289932,1321
+SK5,Southern Greater Manchester,1.0,827
+SK6,Southern Greater Manchester,1.0,1856
+SK7,Southern Greater Manchester,0.9993646759847522,1574
+SK8,Southern Greater Manchester,0.9965920155793574,2054
+SK9,East Cheshire,0.9984794728839331,1973
+SL0,East Thames Valley,0.9739776951672863,538
+SL1,East Thames Valley,0.9989539748953975,2868
+SL2,East Thames Valley,0.9993514915693904,1542
+SL3,East Thames Valley,0.9976484420928865,1701
+SL4,East Thames Valley,0.9905078310393926,2107
+SL5,East Thames Valley,0.9819569743233866,1441
+SL6,East Thames Valley,0.9979780473714616,3462
+SL60,East Thames Valley,1.0,211
+SL7,Chilterns,0.9928507596067918,1119
+SL8,Chilterns,0.9948849104859335,391
+SL9,Chilterns,0.9971264367816092,1392
+SL95,East Thames Valley,1.0,25
+SM1,Outer South London,1.0,1547
+SM2,Outer South London,1.0,843
+SM3,Outer South London,0.9376181474480151,529
+SM4,Outer South London,0.9726651480637813,878
+SM5,Outer South London,1.0,1034
+SM6,Outer South London,1.0,1245
+SM7,Outer South London,1.0,682
+SN1,Swindon,0.9992922859164898,1413
+SN10,West Wiltshire,0.9993638676844784,1572
+SN11,West Wiltshire,0.9948453608247423,970
+SN12,West Wiltshire,0.9979818365287588,991
+SN13,West Wiltshire,0.7685851318944844,834
+SN14,West Wiltshire,0.589051094890511,1370
+SN15,West Wiltshire,0.9107438016528926,1815
+SN16,West Wiltshire,0.74235807860262,687
+SN17,Swindon,1.0,426
+SN2,Swindon,1.0,2268
+SN25,Swindon,1.0,945
+SN26,Swindon,1.0,77
+SN3,Swindon,1.0,1694
+SN38,Swindon,1.0,292
+SN4,Swindon,0.999259807549963,1351
+SN5,Swindon,1.0,1726
+SN6,Swindon,0.8925619834710744,847
+SN7,Swindon,0.7458333333333333,720
+SN8,Swindon,0.7490494296577946,1315
+SN9,Salisbury,0.9702517162471396,437
+SN99,Swindon,1.0,29
+SO1,Southampton,1.0,2501
+SO14,Southampton,1.0,1384
+SO15,Southampton,1.0,1842
+SO16,Southampton,1.0,1883
+SO17,Southampton,1.0,604
+SO18,Southampton,0.9978386167146974,1388
+SO19,Southampton,1.0,1422
+SO2,Southampton,1.0,2761
+SO20,Winchester,0.5555555555555556,459
+SO21,Winchester,0.9967811158798283,932
+SO22,Winchester,0.9988901220865705,901
+SO23,Winchester,0.9987484355444305,1598
+SO24,Winchester,1.0,627
+SO25,Winchester,1.0,10
+SO3,Southampton,0.8024637043554773,2273
+SO30,Southampton,0.9990942028985508,1104
+SO31,Southampton,0.9969715324046032,1651
+SO32,Winchester,0.7467760844079718,853
+SO4,Southampton,0.9993794601303134,3223
+SO40,Southampton,1.0,1441
+SO41,Southampton,0.999348109517601,1534
+SO42,Southampton,1.0,218
+SO43,Southampton,1.0,178
+SO45,Southampton,1.0,1279
+SO5,Southampton,0.9889364739471805,2802
+SO50,Southampton,0.991140642303433,1806
+SO51,Southampton,0.9800884955752213,1356
+SO52,Southampton,1.0,211
+SO53,Southampton,0.998272884283247,1158
+SO9,Southampton,0.9991071428571429,1120
+SO97,Southampton,1.0,19
+SP1,Salisbury,1.0,957
+SP10,Basingstoke,1.0,1569
+SP11,Basingstoke,0.8058124174372523,1514
+SP2,Salisbury,1.0,1385
+SP3,Salisbury,1.0,818
+SP4,Salisbury,1.0,1443
+SP5,Salisbury,1.0,1227
+SP6,Salisbury,1.0,781
+SP7,Salisbury,0.9758576874205845,787
+SP8,Salisbury,0.6930983847283406,681
+SP9,Salisbury,0.9893048128342246,374
+SR1,Sunderland,1.0,677
+SR2,Sunderland,1.0,1068
+SR3,Sunderland,1.0,1120
+SR4,Sunderland,1.0,1208
+SR43,Sunderland,1.0,1
+SR5,Sunderland,1.0,1495
+SR6,Sunderland,0.9967177242888403,914
+SR7,Sunderland,1.0,1021
+SR8,Sunderland,1.0,1256
+SR88,Sunderland,1.0,3
+SR9,Sunderland,1.0,25
+SS0,Southend,1.0,1111
+SS1,Southend,1.0,1309
+SS11,South West Essex,0.9253521126760563,710
+SS12,South West Essex,1.0,522
+SS13,South West Essex,1.0,688
+SS14,South West Essex,1.0,1364
+SS15,South West Essex,1.0,816
+SS16,South West Essex,1.0,876
+SS17,South West Essex,1.0,980
+SS2,Southend,1.0,1000
+SS22,Southend,1.0,103
+SS3,Southend,1.0,808
+SS4,Southend,1.0,742
+SS5,Southend,1.0,777
+SS6,Southend,0.98565965583174,1046
+SS7,Southend,0.9980867346938775,1568
+SS8,Southend,1.0,1190
+SS9,Southend,1.0,1545
+SS99,Southend,0.9940119760479041,334
+ST1,Staffordshire North,1.0,1494
+ST10,Staffordshire North,0.9220512820512821,975
+ST11,Staffordshire North,1.0,277
+ST12,Mid Staffs,0.7379310344827587,145
+ST13,Staffordshire North,0.999124343257443,1142
+ST14,Eastern Staffordshire,0.983273596176822,837
+ST15,Mid Staffs,0.9965831435079726,878
+ST16,Mid Staffs,1.0,1425
+ST17,Mid Staffs,1.0,1092
+ST18,Mid Staffs,0.9938176197836167,647
+ST19,Mid Staffs,0.7433460076045627,526
+ST2,Staffordshire North,1.0,860
+ST20,Mid Staffs,0.9560439560439561,273
+ST21,Mid Staffs,0.9960159362549801,251
+ST3,Staffordshire North,1.0,2040
+ST4,Staffordshire North,0.9995962858296327,2477
+ST5,Staffordshire North,1.0,2568
+ST55,Staffordshire North,1.0,188
+ST6,Staffordshire North,1.0,2129
+ST7,Staffordshire North,0.6487477092241906,1637
+ST8,Staffordshire North,1.0,644
+ST9,Staffordshire North,1.0,414
+SW10,Central London,0.9988165680473373,845
+SW11,Inner South West London,1.0,2516
+SW12,Inner South West London,0.9869215291750503,994
+SW13,Inner South West London,0.9969088098918083,647
+SW14,Inner South West London,0.9954682779456193,662
+SW15,Inner South West London,0.8504766683391871,1993
+SW16,Inner South East London,0.7353463587921847,2252
+SW17,Inner South West London,0.9621026894865525,1636
+SW18,Inner South West London,0.9895626242544732,2012
+SW19,Outer South West London,0.8126100739697076,2839
+SW1A,Central London,0.9180790960451978,354
+SW1E,Central London,0.9544235924932976,373
+SW1H,Central London,0.945054945054945,364
+SW1P,Central London,0.5520702634880803,1594
+SW1V,Central London,0.9588918677390528,1119
+SW1W,Central London,0.9480840543881335,809
+SW1X,Central London,0.9524838012958964,926
+SW1Y,Central London,0.966275659824047,682
+SW2,Inner South East London,1.0,1841
+SW20,Outer South West London,0.9832109129066107,953
+SW3,Central London,0.9175884955752213,1808
+SW4,Inner South East London,0.9446254071661238,1535
+SW5,Central London,1.0,742
+SW6,Inner West London,0.9969731365872115,2643
+SW7,Central London,1.0,1413
+SW8,Inner South East London,0.5865512649800266,1502
+SW9,Inner South East London,0.9994353472614342,1771
+SW95,Inner South West London,0.967741935483871,62
+SW99,Inner South East London,1.0,2
+SY1,Shropshire,1.0,1578
+SY10,Shropshire,1.0,803
+SY11,Shropshire,1.0,1097
+SY12,Shropshire,1.0,427
+SY13,Shropshire,0.902247191011236,890
+SY14,West Cheshire,0.7868852459016393,366
+SY15,Shropshire,1.0,45
+SY2,Shropshire,1.0,641
+SY21,Shropshire,1.0,17
+SY22,Shropshire,1.0,32
+SY3,Shropshire,1.0,1297
+SY4,Shropshire,1.0,1235
+SY5,Shropshire,1.0,1195
+SY6,Shropshire,1.0,376
+SY7,Shropshire,0.9744360902255639,665
+SY8,Shropshire,0.8735294117647059,1020
+SY9,Shropshire,1.0,147
+SY99,Shropshire,1.0,9
+TA1,Taunton & West Somerset,1.0,1847
+TA10,Yeovil,1.0,529
+TA11,Yeovil,1.0,522
+TA12,Yeovil,1.0,213
+TA13,Yeovil,1.0,177
+TA14,Yeovil,1.0,113
+TA15,Yeovil,1.0,32
+TA16,Yeovil,1.0,63
+TA17,Yeovil,1.0,36
+TA18,Yeovil,0.998109640831758,529
+TA19,Yeovil,0.9367088607594937,553
+TA2,Taunton & West Somerset,1.0,900
+TA20,Yeovil,0.935077519379845,1032
+TA21,Taunton & West Somerset,0.9485570890840652,797
+TA22,Taunton & West Somerset,0.9563106796116505,206
+TA23,Taunton & West Somerset,1.0,302
+TA24,Taunton & West Somerset,0.9921190893169878,1142
+TA3,Taunton & West Somerset,0.9960681520314548,763
+TA4,Taunton & West Somerset,0.9982300884955753,1130
+TA5,Taunton & West Somerset,1.0,560
+TA6,Taunton & West Somerset,1.0,1765
+TA7,Taunton & West Somerset,0.8269794721407625,682
+TA8,Weston-S-Mare,1.0,611
+TA9,Weston-S-Mare,0.998109640831758,529
+TD12,Northumberland,1.0,98
+TD15,Northumberland,1.0,693
+TD5,Northumberland,1.0,1
+TD9,North Cumbria,1.0,7
+TF1,Shropshire,1.0,1863
+TF10,Shropshire,1.0,780
+TF11,Shropshire,0.9981167608286252,531
+TF12,Shropshire,1.0,262
+TF13,Shropshire,1.0,226
+TF2,Shropshire,1.0,1499
+TF3,Shropshire,1.0,890
+TF4,Shropshire,1.0,667
+TF5,Shropshire,1.0,138
+TF6,Shropshire,1.0,355
+TF7,Shropshire,1.0,813
+TF8,Shropshire,1.0,215
+TF9,Shropshire,0.965991902834008,1235
+TN1,High Weald,1.0,717
+TN10,High Weald,1.0,485
+TN11,High Weald,1.0,763
+TN12,High Weald,0.5865447419986937,1531
+TN13,High Weald,0.9993169398907104,1464
+TN14,High Weald,0.9635220125786164,795
+TN15,High Weald,0.7566006600660066,1212
+TN16,Outer South East London,0.6692139737991266,916
+TN17,High Weald,0.993485342019544,921
+TN18,High Weald,0.9976019184652278,417
+TN19,High Weald,0.9645390070921985,282
+TN2,High Weald,1.0,1427
+TN20,High Weald,1.0,236
+TN21,Eastbourne,0.9704081632653061,980
+TN22,High Weald,0.845467032967033,1456
+TN23,Ashford,1.0,2130
+TN24,Ashford,0.9990366088631984,1038
+TN25,Ashford,0.9763246899661782,887
+TN26,Ashford,1.0,634
+TN27,Ashford,0.6590330788804071,786
+TN28,Ashford,1.0,413
+TN29,Ashford,0.640194489465154,617
+TN3,High Weald,1.0,716
+TN30,Ashford,1.0,542
+TN31,Sussex East,0.9948717948717949,780
+TN32,Sussex East,0.9873417721518988,316
+TN33,Sussex East,1.0,694
+TN34,Sussex East,1.0,1223
+TN35,Sussex East,1.0,514
+TN36,Sussex East,1.0,119
+TN37,Sussex East,1.0,642
+TN38,Sussex East,1.0,1005
+TN39,Sussex East,1.0,856
+TN4,High Weald,1.0,1066
+TN40,Sussex East,1.0,833
+TN5,High Weald,1.0,548
+TN6,High Weald,1.0,1241
+TN7,High Weald,0.7898550724637681,138
+TN8,High Weald,0.9678953626634959,841
+TN9,High Weald,1.0,1015
+TQ1,South Devon,1.0,1460
+TQ10,Plymouth,0.9371980676328503,207
+TQ11,South Devon,1.0,185
+TQ12,South Devon,1.0,2365
+TQ13,South Devon,0.7763679619349723,1261
+TQ14,South Devon,1.0,842
+TQ2,South Devon,1.0,1246
+TQ3,South Devon,1.0,965
+TQ4,South Devon,1.0,926
+TQ5,South Devon,1.0,849
+TQ6,South Devon,0.9982363315696648,567
+TQ7,South Devon,0.9383624655013799,1087
+TQ8,South Devon,1.0,214
+TQ9,South Devon,1.0,1204
+TR1,Kernow West,1.0,1430
+TR10,Kernow West,1.0,454
+TR11,Kernow West,1.0,1409
+TR12,Kernow West,1.0,491
+TR13,Kernow West,1.0,960
+TR14,Kernow West,1.0,1100
+TR15,Kernow West,1.0,923
+TR16,Kernow West,1.0,765
+TR17,Kernow West,1.0,107
+TR18,Kernow West,1.0,1199
+TR19,Kernow West,1.0,582
+TR2,Kernow West,1.0,589
+TR20,Kernow West,1.0,581
+TR21,Kernow West,1.0,102
+TR22,Kernow West,1.0,2
+TR23,Kernow West,1.0,2
+TR24,Kernow West,1.0,18
+TR25,Kernow West,1.0,4
+TR26,Kernow West,1.0,774
+TR27,Kernow West,1.0,691
+TR3,Kernow West,1.0,576
+TR4,Kernow West,1.0,586
+TR5,Kernow West,1.0,222
+TR6,Kernow West,1.0,206
+TR7,Kernow West,1.0,924
+TR8,Kernow West,0.9968,625
+TR9,Kernow West,1.0,317
+TR93,Kernow West,1.0,83
+TS1,Teesside,1.0,1284
+TS10,Teesside,1.0,1453
+TS11,Teesside,0.9928571428571429,420
+TS12,Teesside,1.0,808
+TS13,Teesside,0.7120535714285714,448
+TS14,Teesside,1.0,636
+TS15,Teesside,0.9941972920696325,517
+TS16,Teesside,1.0,404
+TS17,Teesside,1.0,1328
+TS18,Teesside,1.0,1324
+TS19,Teesside,1.0,1525
+TS2,Teesside,1.0,295
+TS20,Teesside,1.0,663
+TS21,Durham,0.5291338582677165,635
+TS22,Teesside,0.9917808219178083,365
+TS23,Teesside,1.0,944
+TS24,Teesside,1.0,1173
+TS25,Teesside,1.0,1235
+TS26,Teesside,1.0,810
+TS27,Sunderland,0.5764705882352941,425
+TS28,Sunderland,0.9797979797979798,198
+TS29,Durham,0.9856459330143541,209
+TS3,Teesside,1.0,1085
+TS4,Teesside,1.0,624
+TS5,Teesside,1.0,1248
+TS6,Teesside,1.0,1241
+TS7,Teesside,1.0,730
+TS8,Teesside,1.0,570
+TS9,Teesside,0.9715639810426541,633
+TS90,Teesside,1.0,10
+TW1,Outer South West London,0.8853887399463807,1492
+TW10,Outer South West London,0.9852760736196319,815
+TW11,Outer South West London,1.0,1040
+TW12,Outer South West London,0.9989406779661016,944
+TW13,Outer West London,0.8733221476510067,1192
+TW14,Outer West London,0.9951515151515151,825
+TW15,Walton,0.9924457034938622,1059
+TW16,Walton,1.0,891
+TW17,Walton,1.0,659
+TW18,Walton,1.0,1364
+TW19,Walton,0.7225325884543762,537
+TW2,Outer South West London,0.6220472440944882,889
+TW20,Walton,0.9743589743589743,1053
+TW3,Outer West London,1.0,1602
+TW4,Outer West London,1.0,737
+TW5,Outer West London,1.0,695
+TW6,Outer West London,0.9938725490196079,816
+TW7,Outer West London,0.7379361544172235,1347
+TW8,Inner West London,0.9990167158308751,1017
+TW9,Outer South West London,1.0,1369
+UB1,Outer West London,1.0,1187
+UB10,Outer West London,0.6743697478991597,952
+UB11,Outer West London,1.0,140
+UB18,Outer West London,1.0,61
+UB2,Outer West London,0.9987012987012988,770
+UB3,Outer West London,0.9977220956719818,1756
+UB4,Outer West London,1.0,973
+UB5,North West London,0.6603375527426161,1422
+UB6,North West London,0.5333333333333333,1365
+UB7,Outer West London,1.0,972
+UB8,Outer West London,0.9834874504623514,1514
+UB9,Chilterns,0.46440129449838186,618
+W1,Central London,1.0,1
+W10,Inner North London,0.6622574955908289,1134
+W11,Central London,0.8826086956521739,1610
+W12,Inner West London,0.9988172678888232,1691
+W13,Inner West London,1.0,1088
+W14,Inner West London,0.8573619631901841,1304
+W1A,Central London,1.0,2728
+W1B,Central London,1.0,545
+W1C,Central London,1.0,208
+W1D,Central London,1.0,945
+W1F,Central London,1.0,994
+W1G,Central London,1.0,896
+W1H,Central London,1.0,1372
+W1J,Central London,1.0,942
+W1K,Central London,1.0,1170
+W1M,Central London,1.0,761
+W1N,Central London,1.0,684
+W1P,Central London,1.0,731
+W1R,Central London,1.0,813
+W1S,Central London,1.0,866
+W1T,Central London,1.0,1220
+W1U,Central London,1.0,1515
+W1V,Central London,1.0,849
+W1W,Central London,1.0,847
+W1X,Central London,1.0,750
+W1Y,Central London,1.0,810
+W2,Central London,0.901651940069151,2603
+W3,Inner West London,0.9994672349493873,1877
+W4,Inner West London,1.0,2029
+W5,Inner West London,0.981021897810219,2055
+W6,Inner West London,1.0,1586
+W7,Inner West London,1.0,847
+W8,Central London,1.0,1477
+W9,Central London,0.8494271685761048,1222
+WA1,North Cheshire,1.0,1371
+WA10,St Helens,0.9988931931377975,1807
+WA11,St Helens,0.9942528735632183,1218
+WA12,North Cheshire,0.9756944444444444,864
+WA13,North Cheshire,0.8571428571428571,665
+WA14,Southern Greater Manchester,0.9683362118595279,1737
+WA15,Southern Greater Manchester,0.9902663934426229,1952
+WA16,East Cheshire,0.9504084014002334,1714
+WA2,North Cheshire,1.0,1226
+WA3,North Cheshire,0.5908629441624366,1970
+WA4,North Cheshire,0.9599811676082862,2124
+WA5,North Cheshire,1.0,2095
+WA55,North Cheshire,1.0,51
+WA6,West Cheshire,1.0,1200
+WA7,North Cheshire,1.0,2021
+WA8,North Cheshire,0.9973764757324005,2287
+WA88,North Cheshire,1.0,36
+WA9,St Helens,0.9987244897959183,1568
+WC1A,Central London,1.0,646
+WC1B,Central London,1.0,453
+WC1E,Central London,1.0,292
+WC1H,Central London,1.0,672
+WC1N,Central London,1.0,569
+WC1R,Central London,1.0,330
+WC1V,Central London,1.0,401
+WC1X,Central London,1.0,670
+WC2A,Central London,1.0,436
+WC2B,Central London,1.0,639
+WC2E,Central London,1.0,567
+WC2H,Central London,0.9988950276243094,905
+WC2N,Central London,1.0,495
+WC2R,Central London,1.0,404
+WC99,Central London,1.0,2
+WD1,South West Herts,1.0,2243
+WD17,South West Herts,1.0,915
+WD18,South West Herts,1.0,1425
+WD19,South West Herts,1.0,805
+WD2,South West Herts,0.9990384615384615,2080
+WD23,South West Herts,0.9974489795918368,1176
+WD24,South West Herts,1.0,784
+WD25,South West Herts,1.0,843
+WD3,South West Herts,0.9807938540332907,2343
+WD4,South West Herts,1.0,578
+WD5,South West Herts,1.0,375
+WD6,South West Herts,0.9988551803091014,1747
+WD7,South West Herts,1.0,732
+WD99,South West Herts,1.0,22
+WF1,Wakefield,0.9756838905775076,1974
+WF10,Wakefield,0.9093298291721419,1522
+WF11,Wakefield,0.9725190839694656,655
+WF12,Kirklees,0.9884393063583815,1038
+WF13,Kirklees,1.0,1074
+WF14,Kirklees,1.0,740
+WF15,Kirklees,1.0,594
+WF16,Kirklees,1.0,456
+WF17,Kirklees,0.9972565157750343,1458
+WF2,Wakefield,0.9975354282193469,1623
+WF3,Leeds,0.6457789382071366,1149
+WF4,Wakefield,0.9308996088657105,1534
+WF5,Wakefield,0.9964071856287425,835
+WF6,Wakefield,1.0,676
+WF7,Wakefield,1.0,658
+WF8,Wakefield,0.9778963414634146,1312
+WF9,Wakefield,1.0,1322
+WF90,Wakefield,1.0,6
+WN1,Wigan,0.9992138364779874,1272
+WN2,Wigan,0.9993197278911564,1470
+WN3,Wigan,1.0,914
+WN4,Wigan,0.842456608811749,749
+WN5,Wigan,0.8733705772811918,1074
+WN6,Wigan,0.9981768459434822,1097
+WN7,Wigan,1.0,1504
+WN8,Wigan,0.9991974317817014,1246
+WR1,Worcester South,1.0,833
+WR10,Worcester South,1.0,897
+WR11,Worcester South,0.9430514237144071,2353
+WR12,Cheltenham,0.84765625,256
+WR13,Worcester South,0.9752252252252253,444
+WR14,Worcester South,1.0,1507
+WR15,Worcester North,0.9847094801223242,327
+WR2,Worcester South,1.0,966
+WR3,Worcester South,1.0,689
+WR4,Worcester South,1.0,912
+WR5,Worcester South,1.0,1026
+WR6,Worcester South,0.8120063191153238,633
+WR7,Worcester South,0.7323420074349443,269
+WR78,Worcester South,1.0,15
+WR8,Worcester South,0.9818181818181818,440
+WR9,Worcester South,0.9704142011834319,1183
+WR99,Worcester South,1.0,28
+WS1,Black Country,1.0,1292
+WS10,Black Country,1.0,1253
+WS11,Mid Staffs,1.0,1942
+WS12,Mid Staffs,1.0,1378
+WS13,Mid Staffs,1.0,1028
+WS14,Mid Staffs,0.9931584948688712,877
+WS15,Mid Staffs,0.9225614296351452,1343
+WS2,Black Country,1.0,983
+WS3,Black Country,0.9899581589958159,1195
+WS4,Black Country,1.0,418
+WS5,Black Country,1.0,499
+WS6,Mid Staffs,0.9952941176470588,425
+WS7,Mid Staffs,1.0,1159
+WS8,Black Country,0.9778325123152709,406
+WS9,Black Country,0.8888888888888888,918
+WV1,Black Country,1.0,1494
+WV10,Black Country,0.9917976760082023,1463
+WV11,Black Country,1.0,857
+WV12,Black Country,1.0,599
+WV13,Black Country,1.0,742
+WV14,Black Country,1.0,1363
+WV15,Shropshire,1.0,369
+WV16,Shropshire,0.9987261146496815,785
+WV2,Black Country,1.0,735
+WV3,Black Country,1.0,920
+WV4,Black Country,1.0,929
+WV5,Black Country,0.8952702702702703,592
+WV6,Black Country,0.9797843665768194,1484
+WV7,Shropshire,0.9305019305019305,259
+WV8,Black Country,0.9923809523809524,525
+WV9,Black Country,1.0,233
+WV98,Worcester North,0.8225,400
+WV99,Shropshire,1.0,520
+YO1,York,1.0,2298
+YO10,York,1.0,784
+YO11,Scarborough,0.9991666666666666,1200
+YO12,Scarborough,1.0,1117
+YO13,Scarborough,1.0,466
+YO14,Scarborough,1.0,507
+YO15,Hull & East Riding,1.0,713
+YO16,Hull & East Riding,1.0,1149
+YO17,York,0.838957055214724,1304
+YO18,Scarborough,1.0,538
+YO19,York,1.0,568
+YO2,York,1.0,1699
+YO21,Scarborough,0.9812967581047382,802
+YO22,Scarborough,1.0,484
+YO23,York,1.0,693
+YO24,York,1.0,836
+YO25,Hull & East Riding,0.9804270462633452,2248
+YO26,York,0.9355670103092784,1164
+YO3,York,1.0,2400
+YO30,York,1.0,872
+YO31,York,1.0,1040
+YO32,York,1.0,912
+YO4,York,0.8204964990451942,1571
+YO41,York,1.0,515
+YO42,York,0.9795673076923077,832
+YO43,Hull & East Riding,0.7362637362637363,546
+YO5,York,0.5084745762711864,531
+YO51,Harrogate,0.9761194029850746,335
+YO6,York,0.6341772151898735,1580
+YO60,York,1.0,311
+YO61,York,0.9017264276228419,753
+YO62,Scarborough,0.8972895863052782,701
+YO7,Richmond & Hambleton,0.9759862778730704,1166
+YO8,York,0.9995579133510168,2262
+YO90,York,1.0,18
+YO91,York,1.0,10
+YO95,York,1.0,1

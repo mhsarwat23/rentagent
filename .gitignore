@@ -14,3 +14,5 @@ data/processed/*
 chroma_db/
 
 !data/raw/README.md
+
+!data/processed/district_brma.csv

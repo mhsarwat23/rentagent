@@ -43,6 +43,33 @@ def load_lha_rates():
     market = pd.read_excel(LHA_FILE, 'Table 2', header=1).set_index('BRMA')
     return lha, market
 
+def load_district_brma():
+    """
+    Load the district-to-BRMA mapping derived in notebooks/03_brma_lookup.ipynb.
+
+    Returns a DataFrame indexed by postcode district, with the assigned BRMA
+    and the modal share recording how much of that district the BRMA covers.
+    """
+    path = PROJECT_ROOT / 'data' / 'processed' / 'district_brma.csv'
+    return pd.read_csv(path).set_index('district')
+
+DISTRICT_BRMA = load_district_brma()
+
+def brma_for_district(district):
+    """
+    Find the BRMA covering a postcode district.
+
+    Returns (brma_name, modal_share). The modal share indicates confidence:
+    1.0 means the district lies wholly within that BRMA, lower values mean
+    the district spans more than one and the rate may not apply to every
+    address within it.
+    """
+    if district not in DISTRICT_BRMA.index:
+        return None, 0.0
+
+    row = DISTRICT_BRMA.loc[district]
+    return row['brma'], float(row['modal_share'])
+
 # Loaded once at import; the published rates are fixed for the year
 LHA_RATES, MARKET_30TH = load_lha_rates()
 
@@ -50,18 +77,28 @@ def weekly_to_monthly(weekly):
     """Convert a weekly rate to its monthly equivalent."""
     return weekly * WEEKS_PER_MONTH
 
-def assess_affordability(constraints, rent, brma):
+def assess_affordability(constraints, rent):
     """
     Assess whether a property is affordable against the household's budget.
 
     constraints: the sanitised constraint object from the Profile agent
     rent:        monthly rent for the property
-    brma:        Broad Rental Market Area the property sits in
 
-    Returns a dict describing the assessment.
+    The BRMA is derived from the constraint object's area. The returned
+    assessment includes the mapping confidence so that a benchmark drawn from
+    a district spanning multiple areas can be identified as such.
     """
-    category = LHA_CATEGORY.get(min(constraints['min_bedrooms'], 4), 'CAT E')
+    brma, confidence = brma_for_district(constraints['area'])
 
+    if brma is None:
+        return {
+            'rent': rent,
+            'within_budget': bool(rent <= constraints['budget_max']),
+            'benchmark_available': False,
+            'reason': f"No BRMA mapping for district {constraints['area']}",
+        }
+
+    category = LHA_CATEGORY.get(min(constraints['min_bedrooms'], 4), 'CAT E')
     lha_monthly = weekly_to_monthly(LHA_RATES.loc[brma, category])
     market_monthly = weekly_to_monthly(MARKET_30TH.loc[brma, category])
 
@@ -69,10 +106,13 @@ def assess_affordability(constraints, rent, brma):
         'rent': rent,
         'budget_max': constraints['budget_max'],
         'within_budget': bool(rent <= constraints['budget_max']),
+        'brma': brma,
+        'brma_confidence': round(confidence, 3),
         'lha_benchmark': round(lha_monthly),
         'market_30th_percentile': round(market_monthly),
         'above_market_30th': bool(rent > market_monthly),
         'lha_shortfall': round(max(0, rent - lha_monthly)),
+        'benchmark_available': True,
     }
 
 lha, market = load_lha_rates()
@@ -92,4 +132,8 @@ constraints = {
 }
 
 print()
-print(assess_affordability(constraints, rent=2400, brma='Inner South East London'))
+print(assess_affordability(constraints, rent=2400))
+
+print(brma_for_district('SE13'))
+print(brma_for_district('N4'))
+print(brma_for_district('ZZ99'))

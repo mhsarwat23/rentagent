@@ -1,0 +1,2401 @@
+subdistrict_code,rent,Let type,Furnish Type,PROPERTY TYPE,BEDROOMS,BATHROOMS,avg_distance_to_nearest_station,rent_log,is_shared
+SW1V,1983,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.592366128519796,0
+N7,1800,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.495541943884256,0
+HA3,2700,Long term,Unfurnished,End of Terrace,3.0,2.0,0.4,7.90100705199242,0
+W1T,3500,Long term,Furnished,Flat,2.0,1.0,0.2,8.160518247477505,0
+SW6,4000,Long term,Furnished,Flat,2.0,2.0,0.6,8.294049640102028,0
+SE11,2990,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,8.003028666384733,0
+W11,2700,Long term,Furnished,Maisonette,2.0,1.0,0.3,7.90100705199242,0
+SE11,3467,Long term,Furnished,Flat,2.0,2.0,0.4,8.151044945685024,0
+NW6,4333,Long term,Unfurnished,Flat,4.0,2.0,0.3,8.374015421739909,0
+W1H,2817,Long term,Furnished,Flat,2.0,1.0,0.3,7.943427767876373,0
+N22,3000,Long term,Unfurnished,Maisonette,4.0,2.0,0.8,8.006367567650246,0
+WC2E,4984,Long term,Furnished,Flat,2.0,2.0,0.2,8.51398806046729,0
+W12,1250,Long term,Furnished,Studio,0.0,1.0,0.2,7.1308988302963465,0
+NW10,1746,Long term,Ask agent,Flat,1.0,,0.6,7.465082736399547,0
+SW10,4312,Long term,Furnished,Flat,2.0,2.0,0.6,8.369157112588834,0
+N7,2150,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.673223121121708,0
+SW3,3294,Long term,Furnished,Flat,2.0,1.0,0.4,8.099857910737585,0
+SW3,2579,Long term,Furnished,Studio,0.0,1.0,0.4,7.8551570058813445,0
+NW6,2578,Long term,Ask agent,Flat,2.0,1.0,0.3,7.8547691834991324,0
+W2,2708,Long term,Ask agent,Flat,1.0,1.0,0.3,7.903965634032166,0
+W8,4225,Long term,Ask agent,Flat,2.0,2.0,0.4,8.348774539791274,0
+SW10,3497,Long term,Ask agent,Flat,3.0,1.0,0.7,8.159660737063376,0
+N8,1000,Long term,Furnished,House Share,1.0,,0.4,6.907755278982137,1
+W6,2150,Long term,Furnished,Flat,1.0,1.0,0.2,7.673223121121708,0
+NW9,1750,Long term,Unfurnished,Flat,1.0,1.0,0.8,7.4673710669175595,0
+SW15,2950,Long term,Part furnished,Flat,2.0,2.0,0.3,7.989560449333865,0
+SW11,4680,Long term,Furnished,Flat,2.0,2.0,0.4,8.451053388911692,0
+SW8,3142,Long term,Furnished,Flat,1.0,1.0,0.6,8.052614818815567,0
+W2,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+N2,2175,Long term,Part furnished,Flat,2.0,1.0,0.9,7.684783943522785,0
+SW11,6873,Long term,Furnished,Flat,3.0,2.0,0.4,8.835355971121606,0
+SW11,4290,Long term,Furnished,Flat,2.0,2.0,0.4,8.364042011922063,0
+NW3,3250,Long term,Furnished,Flat,2.0,2.0,0.3,8.086410275323782,0
+W1G,2535,Long term,Ask agent,Flat,1.0,1.0,0.4,7.837948916025283,0
+W1H,2297,Long term,Ask agent,Flat,1.0,1.0,0.3,7.739359202689098,0
+W1H,2427,Long term,Ask agent,Flat,1.0,1.0,0.3,7.794411205726601,0
+NW8,2492,Long term,Ask agent,Flat,1.0,1.0,0.4,7.820840879907344,0
+N7,1668,Long term,Furnished,Flat,1.0,1.0,0.5,7.419380582918692,0
+SW1W,7150,Long term,Furnished,Flat,3.0,2.0,0.4,8.874867635688053,0
+SE1,3463,Long term,Part furnished,Flat,2.0,2.0,0.3,8.149890544402423,0
+EN5,1700,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.438383530044307,0
+W1H,5200,Long term,Unfurnished,Flat,3.0,3.0,0.3,8.556413904569519,0
+W1H,3502,Long term,Part furnished,Flat,3.0,1.0,0.3,8.161089512845797,0
+SW1Y,1950,Long term,Furnished,Studio,0.0,1.0,0.3,7.575584651557793,0
+SE1,3640,Long term,Furnished,Flat,2.0,2.0,0.3,8.199738960630786,0
+UB2,1550,Long term,Furnished,Flat,1.0,1.0,1.2,7.346010209913293,0
+W9,3033,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.017307507688582,0
+SW10,4117,Long term,Furnished,Flat,2.0,2.0,0.5,8.322880021769905,0
+W9,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+W7,3700,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.6,8.216088098632316,0
+NW10,2300,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.7406644019172415,0
+W4,8502,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,4.0,3.0,0.5,9.048056708918736,0
+NW2,1523,Long term,Furnished,Studio,0.0,1.0,0.5,7.328437352895162,0
+NW2,1472,Long term,Furnished,Studio,0.0,1.0,0.5,7.294377299288821,0
+NW2,1460,Long term,Furnished,Studio,0.0,1.0,0.5,7.286191714702382,0
+SW11,2200,Long term,Part furnished,Flat,1.0,1.0,0.2,7.696212639346407,0
+SW7,2350,Long term,Furnished,Flat,1.0,1.0,0.3,7.762170607138205,0
+HA9,3500,Long term,Part furnished,Semi-Detached,6.0,3.0,0.5,8.160518247477505,0
+UB2,1900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,1.2,7.549609165154532,0
+W9,2000,Long term,Part furnished,Flat,1.0,1.0,0.4,7.600902459542082,0
+SW1V,5308,Long term,Furnished,Flat,3.0,2.0,0.4,8.576970395452099,0
+N4,3380,Long term,Furnished,Flat,2.0,,0.4,8.125630988477065,0
+SE1,2200,Long term,Furnished,Flat,2.0,1.0,0.3,7.696212639346407,0
+N8,2200,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.696212639346407,0
+SE1,1950,Long term,Furnished,Flat,2.0,1.0,0.2,7.575584651557793,0
+NW8,2850,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,7.955074273262696,0
+EC2A,2200,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.696212639346407,0
+N17,1900,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.549609165154532,0
+SW11,4225,Long term,Furnished,Flat,2.0,2.0,0.2,8.348774539791274,0
+SW6,2700,Long term,Furnished,Flat,1.0,1.0,0.4,7.90100705199242,0
+TW1,2950,Long term,Unfurnished,House,3.0,2.0,0.6,7.989560449333865,0
+SW6,5300,Long term,Unfurnished,Maisonette,3.0,2.0,0.5,8.575462099540212,0
+NW8,2200,Long term,Furnished,Flat,1.0,1.0,0.6,7.696212639346407,0
+N14,1378,Long term,Furnished,Flat,1.0,1.0,0.7,7.228388451573604,0
+N18,1350,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.9,7.2078598714324755,0
+N11,2200,Long term,Unfurnished,Maisonette,3.0,2.0,0.4,7.696212639346407,0
+TW3,1400,Long term,Furnished,Studio,0.0,1.0,0.6,7.24422751560335,0
+N5,1712,,Ask agent,Flat,1.0,,0.6,7.445417556701687,0
+SW1A,3467,Long term,Furnished,Flat,1.0,1.0,0.2,8.151044945685024,0
+E8,1600,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.3777589082278725,0
+WC2A,4140,,Furnished,Flat,1.0,1.0,0.3,8.32845106681936,0
+NW2,1395,Long term,Furnished,Flat,1.0,1.0,0.9,7.240649694255466,0
+N8,1475,Long term,Unfurnished,Studio,0.0,1.0,0.5,7.29641326877392,0
+NW2,3500,Long term,Unfurnished,Flat,3.0,2.0,0.4,8.160518247477505,0
+SW11,4750,Long term,Part furnished,House,4.0,2.0,0.6,8.465899897028686,0
+W4,2500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,,0.5,7.824046010856292,0
+W8,17333,Long term,Furnished,Flat,3.0,3.0,0.5,9.76036747794131,0
+SW3,2450,Long term,Furnished,Flat,1.0,1.0,0.8,7.803843303538772,0
+SW6,3033,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.017307507688582,0
+N10,2300,Long term,Part furnished,Flat,2.0,1.0,1.1,7.7406644019172415,0
+WC1B,8000,Long term,Furnished,Flat,3.0,3.0,0.3,8.987196820661973,0
+N6,2799,Long term,Unfurnished,Terraced,2.0,2.0,0.7,7.937017489515454,0
+E5,1650,,Unfurnished,Flat,1.0,1.0,0.5,7.408530566894626,0
+UB7,1450,Long term,Furnished,Flat,1.0,1.0,1.4,7.27931883541462,0
+NW8,52000,Long term,"Furnished or unfurnished, landlord is flexible",Detached,4.0,2.0,0.4,10.858998997563564,0
+SW11,8880,,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.2,9.091556835986216,0
+EC2A,2201,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.696667081526462,0
+NW1,2500,Long term,Part furnished,Flat,2.0,1.0,0.4,7.824046010856292,0
+SW7,5499,Long term,Unfurnished,Flat,3.0,2.0,0.4,8.612321536507814,0
+SW6,7000,Long term,Unfurnished,Terraced,5.0,4.0,0.4,8.85366542803745,0
+UB1,1450,Long term,Furnished,Flat,1.0,1.0,1.3,7.27931883541462,0
+N1,4465,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.7,8.4040244933106,0
+EC3N,4500,Long term,Unfurnished,Flat,2.0,2.0,0.2,8.411832675758411,0
+HA0,2500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.6,7.824046010856292,0
+SW11,4247,Long term,Furnished,Flat,2.0,2.0,0.4,8.353968130313271,0
+EN4,3500,Long term,Unfurnished,Flat,3.0,3.0,0.9,8.160518247477505,0
+SW5,2652,,Furnished,Flat,1.0,1.0,0.4,7.883069351305753,0
+SW12,3000,Long term,Part furnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+NW8,2300,Long term,Furnished,Flat,1.0,1.0,0.5,7.7406644019172415,0
+SE1,4117,Long term,Furnished,Flat,1.0,1.0,0.3,8.322880021769905,0
+KT2,3790,Long term,Unfurnished,Detached,3.0,2.0,0.7,8.240121298076472,0
+SW1X,23833,Long term,Furnished,Town House,3.0,3.0,0.4,10.078826453902199,0
+W11,2650,Long term,Part furnished,Flat,1.0,1.0,0.4,7.882314918980268,0
+SW7,3000,Long term,Part furnished,Flat,1.0,1.0,0.4,8.006367567650246,0
+SW11,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+NW3,3878,Long term,Ask agent,Flat,3.0,2.0,0.4,8.263074835802596,0
+W6,2015,Long term,Furnished,Flat,1.0,1.0,0.2,7.608374474380783,0
+SW1P,4745,Long term,Furnished,Flat,2.0,2.0,0.3,8.464846711044029,0
+NW1,7000,Long term,Furnished,Flat,3.0,2.0,0.2,8.85366542803745,0
+N7,2950,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,1.0,0.5,7.989560449333865,0
+SW8,6500,Long term,Furnished,Flat,3.0,2.0,0.3,8.779557455883728,0
+W4,1798,Long term,Ask agent,Flat,1.0,1.0,0.4,7.494430215031565,0
+SW1P,4550,Long term,Furnished,Flat,2.0,2.0,0.3,8.422882511944996,0
+SE17,1842,Long term,Furnished,Flat,1.0,1.0,0.4,7.518607216815252,0
+EN4,2300,Long term,Ask agent,Terraced,2.0,1.0,0.6,7.7406644019172415,0
+SW6,2817,Long term,Furnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+W12,3800,Long term,Furnished,Flat,2.0,2.0,0.2,8.242756345714477,0
+N8,2300,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.7406644019172415,0
+N12,1900,Long term,Furnished,Flat,2.0,1.0,0.9,7.549609165154532,0
+E1,2920,Long term,Part furnished,Flat,1.0,1.0,0.3,7.979338895262328,0
+SW1W,4199,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.342601680684194,0
+W10,2600,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.8632667240095735,0
+EN6,1495,,Furnished,Cottage,2.0,,2.0,7.3098814858247865,0
+UB6,1782,Long term,Furnished,Flat,1.0,1.0,0.6,7.485491608030754,0
+TW8,3250,Long term,Unfurnished,Flat,3.0,3.0,0.6,8.086410275323782,0
+NW3,1950,Long term,Part furnished,Flat,1.0,1.0,0.2,7.575584651557793,0
+UB5,1695,Long term,Unfurnished,Flat,2.0,1.0,1.7,7.43543801981455,0
+KT1,1750,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.4673710669175595,0
+SW8,3235,Long term,Furnished,Flat,1.0,1.0,0.3,8.081784206935001,0
+EC2A,5499,Long term,Part furnished,Flat,2.0,2.0,0.3,8.612321536507814,0
+UB6,2317,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.748028524432376,0
+SW8,3399,Long term,Furnished,Flat,2.0,2.0,0.3,8.131236549696116,0
+N13,1900,Long term,Unfurnished,Flat,2.0,1.0,0.6,7.549609165154532,0
+UB8,1176,Long term,Furnished,Studio,0.0,1.0,1.2,7.069874128458572,0
+W5,1500,Long term,Furnished,Studio,0.0,,0.4,7.313220387090301,0
+E1,3300,Long term,Part furnished,Flat,2.0,2.0,0.3,8.101677747454572,0
+NW1,2300,Long term,Furnished,Flat,1.0,1.0,0.4,7.7406644019172415,0
+SW1X,9512,Long term,Furnished,Flat,2.0,2.0,0.4,9.160309438370618,0
+SW3,3445,Long term,Ask agent,Flat,1.0,1.0,0.4,8.144679183447758,0
+NW10,1925,Long term,Part furnished,Flat,2.0,2.0,0.6,7.562681246721884,0
+E5,1850,Long term,Part furnished,Flat,1.0,1.0,0.7,7.52294091807237,0
+SW1W,11050,Long term,Ask agent,Terraced,4.0,3.0,0.4,9.3101857069459,0
+TW3,1600,Long term,Furnished,Flat,1.0,1.0,0.5,7.3777589082278725,0
+UB3,1750,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,1.4,7.4673710669175595,0
+SW8,3499,Long term,Furnished,Flat,2.0,2.0,0.3,8.160232492367689,0
+W3,3500,Long term,Unfurnished,Semi-Detached,4.0,2.0,0.4,8.160518247477505,0
+NW2,2250,Long term,Furnished,Flat,2.0,1.0,0.5,7.718685495198466,0
+N7,2000,Long term,Ask agent,Flat,1.0,1.0,0.6,7.600902459542082,0
+UB4,2400,Long term,Ask agent,Semi-Detached,3.0,2.0,1.6,7.783224016336037,0
+SW1P,2817,Long term,Furnished,Flat,2.0,1.0,0.4,7.943427767876373,0
+N7,4000,Long term,Furnished,Flat,4.0,2.0,0.3,8.294049640102028,0
+NW2,2700,Long term,Unfurnished,Flat,2.0,1.0,0.3,7.90100705199242,0
+HA8,2300,Long term,Unfurnished,Flat,3.0,2.0,0.7,7.7406644019172415,0
+NW4,1100,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.8,7.003065458786462,0
+NW3,3650,Long term,Furnished,Flat,4.0,2.0,0.2,8.202482446576537,0
+W2,2492,Long term,Furnished,Flat,1.0,,0.3,7.820840879907344,0
+NW2,1582,Long term,Furnished,Ground Flat,1.0,1.0,0.4,7.366445148327599,0
+SW8,3649,Long term,Furnished,Flat,2.0,2.0,0.3,8.202208436436448,0
+SW6,3012,Long term,Furnished,Flat,2.0,2.0,0.6,8.010359588919783,0
+W6,1700,Long term,Furnished,Flat,1.0,1.0,0.3,7.438383530044307,0
+HA2,2300,Long term,Part furnished,Semi-Detached,3.0,1.0,0.6,7.7406644019172415,0
+N19,1192,Long term,Furnished,Studio,0.0,1.0,0.5,7.083387847625295,0
+N7,2750,Long term,Furnished,Flat,2.0,2.0,0.5,7.919356190660617,0
+W8,7367,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.904765846682814,0
+N15,1350,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.2078598714324755,0
+SW6,3501,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.6,8.160803920954665,0
+EC1M,2950,Long term,Furnished,Flat,2.0,2.0,0.3,7.989560449333865,0
+N7,2500,Long term,Part furnished,Flat,2.0,1.0,0.6,7.824046010856292,0
+N7,1825,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.509335266016592,0
+NW5,2145,Long term,Part furnished,Maisonette,2.0,1.0,0.3,7.6708948313621175,0
+SE17,3467,Long term,Furnished,Flat,2.0,2.0,0.3,8.151044945685024,0
+SW11,3012,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,8.010359588919783,0
+W14,2100,Long term,Furnished,Flat,2.0,1.0,0.4,7.649692623711514,0
+W1K,5090,Long term,Furnished,Flat,2.0,1.0,0.3,8.53503310954457,0
+EC2A,1775,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.4815557019095165,0
+N1,3800,Long term,Unfurnished,Flat,2.0,2.0,0.2,8.242756345714477,0
+NW1,4550,Long term,Furnished,Flat,3.0,2.0,0.3,8.422882511944996,0
+W12,850,Long term,Furnished,Flat Share,1.0,,0.4,6.745236349484363,1
+TW13,2000,Long term,Unfurnished,Terraced,3.0,2.0,1.1,7.600902459542082,0
+HA9,2450,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.4,7.803843303538772,0
+NW2,5975,Long term,Furnished,Flat,3.0,2.0,0.4,8.695339376799712,0
+NW10,4996,Long term,Ask agent,Terraced,4.0,2.0,0.5,8.516392871245468,0
+EC3N,4498,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.411388132519262,0
+SW11,4000,Long term,Furnished,Flat,2.0,2.0,0.4,8.294049640102028,0
+SW5,3298,Long term,Furnished,Flat,2.0,1.0,0.3,8.101071503119543,0
+N3,1900,Long term,Part furnished,Flat,2.0,1.0,0.5,7.549609165154532,0
+N7,1550,Long term,Part furnished,Flat,1.0,1.0,0.5,7.346010209913293,0
+UB8,1195,Long term,Furnished,Studio,0.0,1.0,1.2,7.085901464365611,0
+W5,1875,Long term,Furnished,Studio,0.0,1.0,0.4,7.536363938404511,0
+SE1,2600,Long term,Furnished,Flat,2.0,2.0,0.1,7.8632667240095735,0
+UB8,1900,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,4.0,1.0,1.5,7.549609165154532,0
+SW18,3650,Long term,Furnished,Semi-Detached,4.0,2.0,0.6,8.202482446576537,0
+NW2,4000,Long term,Furnished,Flat,4.0,2.0,0.7,8.294049640102028,0
+NW3,3432,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.7,8.140898460607852,0
+SW7,8450,Long term,Unfurnished,Flat,3.0,2.0,0.4,9.041921720351219,0
+EC3N,4500,Long term,Furnished,Flat,2.0,2.0,0.2,8.411832675758411,0
+NW1,5633,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.3,8.636397438894713,0
+WC2N,1842,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,7.518607216815252,0
+UB4,1700,Long term,"Furnished or unfurnished, landlord is flexible",Semi-Detached,4.0,2.0,1.8,7.438383530044307,0
+NW10,1050,Long term,Furnished,Studio,0.0,1.0,0.3,6.956545443151569,0
+UB3,2700,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,4.0,,1.5,7.90100705199242,0
+NW8,7410,,Furnished,Flat,5.0,3.0,0.5,8.910585718290132,0
+NW1,3467,Long term,Ask agent,Flat,3.0,1.0,0.3,8.151044945685024,0
+W5,4700,Long term,Ask agent,Flat,3.0,2.0,0.6,8.45531778769815,0
+UB3,2000,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,3.0,,1.9,7.600902459542082,0
+NW3,3000,Long term,Part furnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+EC2Y,3750,Long term,Furnished,Flat,2.0,2.0,0.2,8.229511118964457,0
+E2,2000,Long term,Furnished,Flat,1.0,1.0,0.4,7.600902459542082,0
+N7,1750,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.4673710669175595,0
+W2,2383,Long term,Furnished,Flat,1.0,1.0,0.2,7.776115477098742,0
+UB10,1700,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,,1.4,7.438383530044307,0
+UB8,1550,Long term,"Furnished or unfurnished, landlord is flexible",Maisonette,2.0,,1.5,7.346010209913293,0
+NW8,10010,,Furnished,Flat,4.0,3.0,0.5,9.211339872309265,0
+UB7,1600,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,,1.3,7.3777589082278725,0
+SE1,3700,Long term,Furnished,Flat,2.0,2.0,0.3,8.216088098632316,0
+N7,2500,Long term,Unfurnished,Flat,2.0,1.0,0.3,7.824046010856292,0
+N7,3445,Long term,Furnished,Flat,3.0,2.0,0.3,8.144679183447758,0
+SW4,1993,Long term,Furnished,Maisonette,2.0,1.0,0.7,7.597396320212795,0
+SW11,2149,Long term,Furnished,Flat,1.0,1.0,0.7,7.67275789664251,0
+TW10,2650,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.8,7.882314918980268,0
+N7,2297,Long term,Ask agent,Flat,1.0,1.0,0.5,7.739359202689098,0
+UB3,1200,Long term,"Furnished or unfurnished, landlord is flexible",Ground Flat,1.0,,1.6,7.090076835776092,0
+EC2A,3500,Long term,Part furnished,Flat,2.0,2.0,0.3,8.160518247477505,0
+UB8,1200,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,,1.8,7.090076835776092,0
+N10,1400,Long term,Unfurnished,Flat,1.0,1.0,0.9,7.24422751560335,0
+WC2B,2300,Long term,Furnished,Flat,1.0,1.0,0.2,7.7406644019172415,0
+UB3,1100,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,,1.9,7.003065458786462,0
+NW3,3792,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.3,8.240648863374913,0
+E8,2700,Long term,Part furnished,Flat,3.0,1.0,0.3,7.90100705199242,0
+W4,2300,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.7406644019172415,0
+UB10,1000,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,,0.8,6.907755278982137,0
+SW6,4200,Long term,Ask agent,Flat,2.0,2.0,0.4,8.34283980427146,0
+WC2R,4767,Long term,Part furnished,Flat,1.0,1.0,0.3,8.469472455204826,0
+NW6,1300,Long term,Ask agent,Studio,0.0,,0.2,7.170119543449628,0
+EN2,1600,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.3777589082278725,0
+WC2H,2700,,Part furnished,Flat,1.0,1.0,0.1,7.90100705199242,0
+SW11,3250,Long term,Furnished,Flat,2.0,2.0,0.3,8.086410275323782,0
+HA8,1650,Long term,Unfurnished,Flat,2.0,1.0,0.6,7.408530566894626,0
+W1F,9997,Long term,Unfurnished,Semi-Detached,4.0,4.0,0.2,9.210040326967182,0
+WC2H,3467,Long term,Furnished,Flat,1.0,1.0,0.2,8.151044945685024,0
+NW9,2100,Long term,Furnished,Flat,2.0,2.0,0.7,7.649692623711514,0
+UB3,750,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,,1.9,6.620073206530356,0
+NW1,4498,,Ask agent,Flat,4.0,2.0,0.3,8.411388132519262,0
+SW8,4000,Long term,Furnished,Flat,2.0,2.0,0.2,8.294049640102028,0
+NW1,4498,Long term,Ask agent,Flat,4.0,2.0,0.3,8.411388132519262,0
+SW11,2750,Long term,Furnished,Flat,3.0,1.0,0.7,7.919356190660617,0
+SW11,1895,Long term,Furnished,Flat,1.0,1.0,0.7,7.546974117516527,0
+SW1P,2747,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,7.918264686095274,0
+TW3,2200,Long term,Furnished,Semi-Detached,3.0,1.0,0.6,7.696212639346407,0
+NW3,2200,Long term,Furnished,Block of Apartments,1.0,1.0,0.3,7.696212639346407,0
+N1,7615,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.6,8.937875265329263,0
+NW11,2350,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.762170607138205,0
+SE1,2400,,Unfurnished,Flat,1.0,1.0,0.6,7.783224016336037,0
+SW6,3077,Long term,Furnished,Flat,2.0,2.0,0.6,8.031710375322042,0
+NW8,14083,Long term,Unfurnished,Flat,4.0,3.0,0.5,9.55272367519805,0
+W8,2492,Long term,Furnished,Flat,1.0,,0.3,7.820840879907344,0
+W13,1196,Long term,Furnished,Studio,0.0,1.0,0.5,7.086737934510577,0
+SE1,2097,,Furnished,Flat,2.0,2.0,0.1,7.64826303090192,0
+N14,1950,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.7,7.575584651557793,0
+N21,2200,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.9,7.696212639346407,0
+UB6,2977,Long term,Unfurnished,Flat,3.0,2.0,0.6,7.998671361015776,0
+NW1,3900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,,0.2,8.268731832117737,0
+NW1,3770,,Furnished,Flat,3.0,,0.8,8.234830280442056,0
+SW4,1668,Long term,Furnished,Flat,1.0,1.0,0.4,7.419380582918692,0
+NW3,2100,Long term,Furnished,Flat,1.0,1.0,0.4,7.649692623711514,0
+NW1,2250,Long term,Furnished,Flat,1.0,1.0,0.4,7.718685495198466,0
+W2,2500,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.824046010856292,0
+N7,1798,Long term,Ask agent,Flat,1.0,1.0,0.5,7.494430215031565,0
+NW7,2800,Long term,"Furnished or unfurnished, landlord is flexible",Semi-Detached,3.0,2.0,1.2,7.937374696163295,0
+SE1,4500,Long term,Furnished,Flat,2.0,2.0,0.2,8.411832675758411,0
+W11,1200,Long term,Furnished,Studio,0.0,1.0,0.3,7.090076835776092,0
+N11,3800,Long term,Furnished,Flat,2.0,2.0,0.7,8.242756345714477,0
+NW9,1850,Long term,Unfurnished,Flat,1.0,1.0,0.7,7.52294091807237,0
+NW1,3250,Long term,Furnished,Flat,2.0,1.0,0.4,8.086410275323782,0
+N1,1820,Long term,Furnished,Flat,1.0,,0.1,7.506591780070841,0
+NW9,2500,Long term,Unfurnished,Flat,2.0,2.0,0.7,7.824046010856292,0
+NW9,1900,Long term,Unfurnished,Flat,1.0,,0.8,7.549609165154532,0
+SW7,4009,Long term,Furnished,Flat,3.0,2.0,0.4,8.296297112642508,0
+SW1V,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+HA9,2600,Long term,Furnished,Flat,2.0,2.0,0.5,7.8632667240095735,0
+W14,2340,Long term,Furnished,Flat,1.0,1.0,0.3,7.757906208351747,0
+N17,2600,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.8632667240095735,0
+W12,1350,Long term,Part furnished,Studio,0.0,1.0,0.2,7.2078598714324755,0
+W6,2300,Long term,Part furnished,Flat,2.0,1.0,0.4,7.7406644019172415,0
+HA8,1600,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.3777589082278725,0
+EN2,1650,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.408530566894626,0
+W2,6067,Long term,Unfurnished,House,4.0,2.0,0.3,8.710619527942297,0
+W1K,16683,Long term,Ask agent,Flat,3.0,2.0,0.4,9.722145515855674,0
+W14,3095,Long term,Furnished,Flat,2.0,2.0,0.3,8.037543185118697,0
+TW8,1647,Long term,Part furnished,Flat,2.0,1.0,0.5,7.4067107301776405,0
+N19,2100,Long term,Furnished,Flat,3.0,1.0,0.6,7.649692623711514,0
+W1G,2210,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,7.700747794511798,0
+W1U,13000,Long term,Part furnished,Flat,5.0,3.0,0.3,9.472704636443673,0
+SW8,1500,Long term,Furnished,Studio,0.0,1.0,0.4,7.313220387090301,0
+W2,2579,Long term,Furnished,Flat,1.0,1.0,0.3,7.8551570058813445,0
+SE1,4333,Long term,Furnished,Flat,2.0,2.0,1.8,8.374015421739909,0
+SW6,2700,,Unfurnished,Flat,3.0,1.0,0.4,7.90100705199242,0
+NW8,6500,Long term,Furnished,Flat,2.0,2.0,0.4,8.779557455883728,0
+SW1W,2665,Long term,Furnished,Flat,1.0,1.0,0.6,7.887959336599945,0
+UB3,1740,Long term,Furnished,Flat,1.0,1.0,1.4,7.461640392208575,0
+SW8,1400,Long term,Furnished,Studio,0.0,1.0,0.4,7.24422751560335,0
+N1,4380,Long term,Furnished,Flat,2.0,2.0,0.5,8.384804003370492,0
+NW9,1733,Long term,"Furnished or unfurnished, landlord is flexible",End of Terrace,3.0,,0.6,7.457609289715606,0
+SW6,1500,Long term,Furnished,Flat,1.0,1.0,0.4,7.313220387090301,0
+SW6,2449,Long term,Furnished,Flat,1.0,1.0,0.4,7.803435056952168,0
+SE1,7421,Long term,Furnished,Flat,2.0,2.0,0.3,8.912069097970134,0
+W2,12783,Long term,Furnished,Flat,5.0,3.0,0.3,9.455871442168021,0
+SW8,1290,Long term,Furnished,Studio,0.0,1.0,0.4,7.162397497355718,0
+EC1V,4000,Long term,Furnished,Flat,2.0,2.0,0.5,8.294049640102028,0
+SW10,2492,Long term,Furnished,Flat,1.0,1.0,0.3,7.820840879907344,0
+W5,3250,Long term,Unfurnished,Semi-Detached,2.0,1.0,0.6,8.086410275323782,0
+W3,2000,Long term,Furnished,Flat,1.0,1.0,0.5,7.600902459542082,0
+W3,2450,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.803843303538772,0
+SW7,2150,Long term,Furnished,Flat,1.0,1.0,0.4,7.673223121121708,0
+W3,1100,Long term,Ask agent,Studio,0.0,1.0,0.4,7.003065458786462,0
+NW6,2275,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.5,7.729735331385051,0
+W3,2500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.6,7.824046010856292,0
+N19,1600,Long term,Furnished,Studio,0.0,1.0,0.3,7.3777589082278725,0
+W1W,10400,Long term,Furnished,Flat,3.0,2.0,0.2,9.249561085129464,0
+NW4,1350,Long term,Furnished,Flat,1.0,1.0,0.8,7.2078598714324755,0
+NW4,1995,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.9,7.598399329323964,0
+W12,1850,Long term,Furnished,Flat,2.0,1.0,0.2,7.52294091807237,0
+W13,2550,Long term,Unfurnished,Maisonette,3.0,2.0,0.5,7.843848638152472,0
+E8,3350,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.2,8.116715624819111,0
+W2,2492,Long term,Furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+SE1,5200,Long term,Ask agent,Flat,2.0,2.0,0.5,8.556413904569519,0
+SE1,3485,Long term,Furnished,Flat,1.0,1.0,0.2,8.156223323194624,0
+NW6,2000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,7.600902459542082,0
+SE1,3958,Long term,Furnished,Flat,1.0,1.0,0.3,8.28349412616251,0
+SW4,2500,Long term,Unfurnished,Flat,2.0,1.0,0.6,7.824046010856292,0
+W4,9500,Long term,"Furnished or unfurnished, landlord is flexible",End of Terrace,5.0,5.0,0.4,9.159047077588632,0
+N3,1900,Long term,Part furnished,Ground Flat,2.0,1.0,0.5,7.549609165154532,0
+SW8,2500,Long term,Furnished,Flat,1.0,1.0,0.3,7.824046010856292,0
+N5,2500,Long term,Part furnished,Flat,2.0,1.0,0.6,7.824046010856292,0
+W2,3100,Long term,Furnished,Flat,1.0,1.0,0.3,8.039157390473237,0
+W6,1875,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.536363938404511,0
+NW7,2500,Long term,Unfurnished,Semi-Detached,3.0,1.0,1.1,7.824046010856292,0
+SW6,4800,Long term,Unfurnished,Terraced,4.0,2.0,0.4,8.476371196895983,0
+HA6,3500,Long term,Unfurnished,Detached,4.0,1.0,0.8,8.160518247477505,0
+UB8,1230,Long term,Furnished,Studio,0.0,1.0,1.2,7.114769448366463,0
+UB8,1220,Long term,Furnished,Studio,0.0,1.0,1.2,7.106606137727303,0
+W2,5980,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.3,8.696175846944678,0
+WC2R,3250,Long term,Furnished,Flat,1.0,1.0,0.2,8.086410275323782,0
+W10,10833,Long term,Unfurnished,Terraced,4.0,3.0,0.5,9.290352309945568,0
+NW8,3250,Long term,Furnished,Flat,2.0,2.0,0.6,8.086410275323782,0
+W2,5620,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.634086942887738,0
+NW8,2492,Long term,Furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+WC1X,4600,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.433811582477187,0
+SW11,2688,Long term,Unfurnished,Studio,0.0,1.0,0.4,7.89655270164304,0
+NW3,4498,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.411388132519262,0
+SW8,12497,Long term,Furnished,Flat,3.0,3.0,0.3,9.433243894485784,0
+W5,1350,Long term,Furnished,Studio,0.0,1.0,0.4,7.2078598714324755,0
+NW3,2250,Long term,Furnished,Flat,1.0,1.0,0.3,7.718685495198466,0
+W8,6500,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.779557455883728,0
+HA2,1850,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.52294091807237,0
+NW10,1200,Long term,Furnished,House Share,1.0,,0.7,7.090076835776092,1
+NW9,1500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.7,7.313220387090301,0
+SW11,2650,Long term,Furnished,Flat,1.0,1.0,0.2,7.882314918980268,0
+SE1,2500,Long term,Furnished,Flat,1.0,1.0,0.3,7.824046010856292,0
+E2,2500,Long term,Furnished,Flat,2.0,1.0,0.4,7.824046010856292,0
+N7,5000,Long term,Unfurnished,Maisonette,4.0,2.0,0.4,8.517193191416238,0
+N16,1725,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.45298232946546,0
+W3,2100,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.6,7.649692623711514,0
+W9,2340,Long term,Furnished,Flat,1.0,1.0,0.4,7.757906208351747,0
+SE1,3098,,Ask agent,Flat,3.0,,0.3,8.038512020976814,0
+SW1H,3450,Long term,Furnished,Flat,1.0,1.0,0.3,8.146129510025405,0
+W2,5503,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.613048677059759,0
+N22,2643,Long term,"Furnished or unfurnished, landlord is flexible",Flat,4.0,2.0,0.4,7.879669914604289,0
+NW6,1387,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.2,7.234898420314831,0
+SW8,2925,Long term,Furnished,Flat,1.0,1.0,0.4,7.981049759665957,0
+SW15,1595,Long term,Furnished,Studio,0.0,1.0,0.3,7.374629015218945,0
+SW5,1500,Long term,Furnished,Flat,1.0,1.0,0.3,7.313220387090301,0
+W1H,5417,Long term,Furnished,Flat,3.0,2.0,0.2,8.597297435657898,0
+SW5,4000,Long term,Furnished,Penthouse,3.0,2.0,0.3,8.294049640102028,0
+NW11,1250,Long term,Ask agent,Flat,1.0,1.0,0.7,7.1308988302963465,0
+SW1W,6197,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.6,8.731820582962108,0
+SW12,2297,Long term,Furnished,Flat,2.0,1.0,0.5,7.739359202689098,0
+W3,2350,Long term,Furnished,Flat,1.0,1.0,0.5,7.762170607138205,0
+W12,1150,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.6,7.047517221357296,0
+SE1,2100,Long term,Furnished,Flat,2.0,1.0,0.3,7.649692623711514,0
+TW12,2700,Long term,Unfurnished,Terraced,3.0,3.0,1.1,7.90100705199242,0
+SW11,8667,Long term,Furnished,Flat,3.0,3.0,0.9,9.067277989134345,0
+NW6,1600,Long term,Furnished,Flat,1.0,1.0,0.4,7.3777589082278725,0
+W2,3354,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,8.117908942383155,0
+EC1V,2950,Long term,Furnished,Flat,1.0,1.0,0.4,7.989560449333865,0
+SE1,3250,Long term,Furnished,Flat,3.0,2.0,0.2,8.086410275323782,0
+UB6,1583,Long term,Furnished,Studio,0.0,1.0,0.6,7.367077059881012,0
+HA2,2750,Long term,"Furnished or unfurnished, landlord is flexible",Penthouse,2.0,2.0,0.7,7.919356190660617,0
+SW13,3650,Long term,Unfurnished,Flat,2.0,2.0,0.7,8.202482446576537,0
+SW1W,4199,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.6,8.342601680684194,0
+N1,2750,Long term,Part furnished,Flat,2.0,,0.4,7.919356190660617,0
+N1,5200,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.556413904569519,0
+HA9,2095,Long term,Furnished,Flat,1.0,,0.6,7.647308832356238,0
+NW3,3900,Long term,Ask agent,Flat,3.0,2.0,0.6,8.268731832117737,0
+SW4,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+HA9,2275,Long term,Ask agent,Flat,3.0,3.0,0.4,7.729735331385051,0
+SW8,3120,Long term,Furnished,Flat,1.0,1.0,0.3,8.045588280803528,0
+SW5,2250,Long term,Furnished,Flat,1.0,1.0,0.3,7.718685495198466,0
+HA9,3033,Long term,Ask agent,Flat,4.0,4.0,0.4,8.017307507688582,0
+NW3,2850,Long term,Unfurnished,End of Terrace,2.0,1.0,0.5,7.955074273262696,0
+W1K,2925,Long term,Furnished,Flat,1.0,1.0,0.3,7.981049759665957,0
+UB3,1900,Long term,Unfurnished,Flat,2.0,2.0,1.4,7.549609165154532,0
+NW10,2200,Long term,Furnished,Flat,2.0,1.0,0.4,7.696212639346407,0
+SW1P,3200,Long term,Furnished,Flat,1.0,1.0,0.3,8.070906088787819,0
+W12,2817,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.6,7.943427767876373,0
+KT1,2995,Long term,Furnished,Flat,2.0,2.0,0.6,8.00469951054955,0
+NW3,2850,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.955074273262696,0
+N6,2150,Long term,Part furnished,Flat,1.0,1.0,0.6,7.673223121121708,0
+N7,2750,Long term,Furnished,Flat,2.0,1.0,0.3,7.919356190660617,0
+WC1X,3358,Long term,Furnished,Duplex,2.0,1.0,0.2,8.119100837637486,0
+NW11,3000,Long term,Unfurnished,Flat,3.0,1.0,0.8,8.006367567650246,0
+NW10,1894,Long term,Ask agent,Flat,2.0,1.0,0.5,7.546446273746024,0
+WC1X,1300,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.3,7.170119543449628,0
+SW6,5997,Long term,Furnished,Flat,3.0,3.0,0.6,8.69901462316851,0
+SW1P,5850,Long term,Part furnished,Flat,3.0,3.0,0.4,8.674196940225903,0
+NW2,1400,Long term,Furnished,Studio,0.0,1.0,0.4,7.24422751560335,0
+SW7,3683,Long term,Furnished,Flat,2.0,2.0,0.4,8.211482916445066,0
+SW1P,1800,Long term,Part furnished,Flat,1.0,1.0,0.4,7.495541943884256,0
+KT2,4000,Long term,Ask agent,Flat,2.0,2.0,0.5,8.294049640102028,0
+W2,4800,Long term,Furnished,Flat,2.0,2.0,0.2,8.476371196895983,0
+N1,2600,Long term,Furnished,Duplex,2.0,2.0,0.3,7.8632667240095735,0
+NW2,2000,Long term,Furnished,Flat,1.0,1.0,0.8,7.600902459542082,0
+NW1,4350,,Furnished,Flat,4.0,1.0,0.3,8.37793112408273,0
+W2,2773,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,7.927685045615778,0
+N7,2817,Long term,Furnished,Flat,2.0,2.0,0.5,7.943427767876373,0
+HA9,1695,Long term,Furnished,Studio,0.0,,0.6,7.43543801981455,0
+WC1N,3250,,Furnished,Flat,2.0,1.0,0.3,8.086410275323782,0
+NW11,2000,Long term,Unfurnished,Flat,3.0,1.0,1.1,7.600902459542082,0
+TW8,2350,Long term,Furnished,Flat,2.0,2.0,0.6,7.762170607138205,0
+W3,800,Long term,Furnished,House Share,1.0,,0.5,6.684611727667927,1
+W12,2800,Long term,Part furnished,Penthouse,2.0,2.0,0.4,7.937374696163295,0
+N1,2102,Long term,Part furnished,Flat,2.0,1.0,0.4,7.650644551436897,0
+NW8,2747,Long term,Part furnished,Flat,2.0,2.0,0.6,7.918264686095274,0
+SW7,2999,Long term,Furnished,Flat,2.0,1.0,0.4,8.00603417874901,0
+N5,2000,Long term,Part furnished,Flat,1.0,1.0,0.3,7.600902459542082,0
+TW9,2300,Long term,Furnished,Flat,2.0,1.0,0.6,7.7406644019172415,0
+NW3,1750,Long term,Furnished,Flat,1.0,1.0,0.4,7.4673710669175595,0
+HA9,1995,Long term,Furnished,Flat,1.0,1.0,0.6,7.598399329323964,0
+E2,3000,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+SW6,2050,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.6255950721324535,0
+W14,6300,Long term,Furnished,Flat,3.0,3.0,0.3,8.748304912379623,0
+W4,2500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.6,7.824046010856292,0
+SW14,4500,Long term,Unfurnished,Flat,3.0,3.0,0.5,8.411832675758411,0
+SW1W,5958,Long term,Furnished,Flat,2.0,2.0,0.4,8.692490133273228,0
+SW11,1800,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.6,7.495541943884256,0
+N7,2492,Long term,Ask agent,Flat,2.0,2.0,0.5,7.820840879907344,0
+NW1,2700,Long term,Furnished,Flat,1.0,1.0,0.2,7.90100705199242,0
+W14,2100,Long term,Unfurnished,Flat,2.0,1.0,0.3,7.649692623711514,0
+SW5,3965,Long term,Part furnished,Flat,2.0,2.0,0.4,8.285261134068948,0
+N1,3450,Long term,Furnished,Flat,2.0,2.0,0.5,8.146129510025405,0
+NW2,1625,Long term,Part furnished,Flat,1.0,1.0,0.5,7.393263094763838,0
+W3,1150,Long term,Ask agent,Flat,1.0,1.0,0.5,7.047517221357296,0
+HA9,1895,Long term,Furnished,Flat,1.0,,0.6,7.546974117516527,0
+SW18,1445,Long term,Furnished,Studio,0.0,1.0,0.5,7.275864600546533,0
+HA9,2045,Long term,Furnished,Flat,1.0,,0.6,7.623153068476902,0
+SW3,4550,Long term,Furnished,Flat,2.0,1.0,2.1,8.422882511944996,0
+SW1V,5417,Long term,Ask agent,Flat,4.0,,0.4,8.597297435657898,0
+TW3,1500,Long term,Furnished,Flat,1.0,1.0,0.5,7.313220387090301,0
+N12,2300,Long term,Ask agent,Maisonette,3.0,2.0,0.6,7.7406644019172415,0
+UB1,2200,Long term,Furnished,Flat,2.0,2.0,1.3,7.696212639346407,0
+SW11,3000,Long term,Part furnished,Flat,2.0,2.0,0.4,8.006367567650246,0
+W2,1245,Long term,Furnished,Studio,0.0,1.0,0.3,7.126890808898808,0
+WC1X,2995,Long term,Unfurnished,Flat,2.0,1.0,0.3,8.00469951054955,0
+NW2,1300,Long term,Furnished,Studio,0.0,1.0,0.5,7.170119543449628,0
+N15,3300,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,3.0,1.0,0.4,8.101677747454572,0
+N6,3500,Long term,Furnished,Flat,2.0,1.0,0.6,8.160518247477505,0
+W14,2097,Long term,Furnished,Flat,2.0,1.0,0.3,7.64826303090192,0
+W5,2500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,7.824046010856292,0
+W1K,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+TW10,2300,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.7406644019172415,0
+N7,1450,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.4,7.27931883541462,0
+EN5,625,Long term,Furnished,House Share,1.0,,0.9,6.437751649736401,1
+N21,1500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.7,7.313220387090301,0
+HA9,1845,Long term,Furnished,Flat,1.0,1.0,0.6,7.520234556474628,0
+KT2,4000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.294049640102028,0
+NW2,3800,Long term,Furnished,Flat,5.0,2.0,0.6,8.242756345714477,0
+WC1X,2000,Long term,Furnished,Flat,1.0,1.0,0.5,7.600902459542082,0
+N17,2300,Long term,Furnished,Flat,3.0,1.0,0.7,7.7406644019172415,0
+SW10,6500,Long term,Furnished,Flat,2.0,2.0,0.6,8.779557455883728,0
+EC1V,2200,Long term,Furnished,Flat,1.0,1.0,0.6,7.696212639346407,0
+WC2A,6500,Long term,Furnished,Flat,2.0,2.0,0.3,8.779557455883728,0
+TW5,2200,Long term,Ask agent,Semi-Detached,3.0,2.0,0.7,7.696212639346407,0
+W1G,5000,Long term,Furnished,Flat,2.0,1.0,0.2,8.517193191416238,0
+HA9,1950,Long term,Ask agent,Flat,2.0,2.0,0.5,7.575584651557793,0
+EC1V,3900,Long term,Furnished,Flat,2.0,2.0,0.5,8.268731832117737,0
+EC1V,2375,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.772752716468742,0
+HA9,1984,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.592870287844818,0
+W6,4312,Long term,Furnished,Flat,2.0,2.0,0.7,8.369157112588834,0
+W6,6153,Long term,Furnished,Flat,2.0,2.0,0.7,8.724695046740491,0
+W6,8428,Long term,Furnished,Flat,3.0,3.0,0.7,9.03931477492408,0
+EC2A,2200,Long term,Unfurnished,Flat,1.0,,0.3,7.696212639346407,0
+SW10,2058,Long term,Part furnished,Flat,1.0,1.0,0.5,7.629489916393995,0
+W5,2100,Long term,Furnished,Flat,1.0,1.0,0.5,7.649692623711514,0
+W13,880,Long term,Furnished,House Share,1.0,,0.4,6.779921907472252,1
+TW9,1950,Long term,Furnished,House,1.0,1.0,0.6,7.575584651557793,0
+W2,3120,Long term,Furnished,Flat,1.0,1.0,0.2,8.045588280803528,0
+W9,1785,Long term,Furnished,Flat,1.0,1.0,0.4,7.487173694213739,0
+W12,3200,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.070906088787819,0
+W12,3730,,Furnished,Flat,1.0,1.0,0.3,8.224163512637862,0
+N1C,3350,Long term,Furnished,Flat,1.0,1.0,0.4,8.116715624819111,0
+UB1,725,Long term,Furnished,House Share,1.0,,1.4,6.586171654854675,1
+N19,725,Long term,Furnished,Flat Share,1.0,,0.4,6.586171654854675,1
+EC1V,2747,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.918264686095274,0
+UB6,1096,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.6,6.999422467507961,0
+W1T,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+NW8,2492,Long term,Furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+SW3,3900,Long term,Furnished,Flat,2.0,1.0,0.4,8.268731832117737,0
+W9,3410,Long term,Furnished,Flat,2.0,2.0,0.5,8.134467570277563,0
+W6,3033,Long term,Unfurnished,Flat,1.0,1.0,0.4,8.017307507688582,0
+W11,4333,Long term,Furnished,Flat,2.0,1.0,0.3,8.374015421739909,0
+SW11,5200,Long term,Furnished,Flat,2.0,2.0,0.4,8.556413904569519,0
+N1,3000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.006367567650246,0
+SW18,2771,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.7,7.9269635448629785,0
+SW6,2200,Long term,Furnished,Flat,1.0,1.0,0.6,7.696212639346407,0
+SW3,6500,Long term,Furnished,Flat,2.0,2.0,0.5,8.779557455883728,0
+SW8,5200,Long term,Furnished,Flat,2.0,2.0,0.3,8.556413904569519,0
+SW14,1599,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.377133712833954,0
+SW6,3500,,Furnished,Flat,2.0,2.0,0.5,8.160518247477505,0
+HA0,2300,Long term,Unfurnished,Flat,3.0,1.0,0.5,7.7406644019172415,0
+N7,1885,Long term,Furnished,Flat,1.0,1.0,0.2,7.541683099882111,0
+N1,2000,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.600902459542082,0
+SW3,5417,Long term,Part furnished,Flat,2.0,1.0,0.7,8.597297435657898,0
+HA1,2600,Long term,Furnished,Detached,3.0,,0.5,7.8632667240095735,0
+SW7,4225,Long term,Unfurnished,Flat,1.0,1.0,0.4,8.348774539791274,0
+W8,5633,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.636397438894713,0
+W8,8667,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,9.067277989134345,0
+SW7,3000,Long term,Part furnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+SW10,3748,Long term,Furnished,Flat,3.0,2.0,0.6,8.228977643358313,0
+TW10,5500,Long term,Ask agent,Terraced,2.0,2.0,0.7,8.612503371220562,0
+N4,1750,Long term,Ask agent,Flat,2.0,1.0,0.3,7.4673710669175595,0
+TW9,3050,,Furnished,Flat,2.0,2.0,0.5,8.022896869601457,0
+HA1,2600,Long term,Part furnished,Maisonette,3.0,1.0,0.5,7.8632667240095735,0
+SW19,2000,Long term,Part furnished,Flat,2.0,1.0,0.6,7.600902459542082,0
+NW4,1600,,Unfurnished,Flat,2.0,1.0,0.8,7.3777589082278725,0
+N7,1595,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.6,7.374629015218945,0
+N22,1950,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.575584651557793,0
+W1H,6500,Long term,Furnished,End of Terrace,2.0,1.0,0.4,8.779557455883728,0
+W9,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+N17,950,Long term,Ask agent,Studio,0.0,1.0,0.7,6.856461984594587,0
+WC1R,4500,Long term,Unfurnished,Flat,2.0,,0.3,8.411832675758411,0
+EC1V,2375,Long term,Furnished,Flat,1.0,1.0,0.6,7.772752716468742,0
+W1H,1998,Long term,Furnished,Flat,1.0,1.0,0.2,7.599901959208498,0
+N22,2643,Long term,"Furnished or unfurnished, landlord is flexible",Flat,4.0,2.0,0.4,7.879669914604289,0
+EN5,2750,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.7,7.919356190660617,0
+W12,9967,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.2,9.207034914967457,0
+NW3,3600,Long term,Unfurnished,Flat,3.0,2.0,0.4,8.1886891244442,0
+SW11,2578,Long term,Furnished,Flat,1.0,1.0,0.4,7.8547691834991324,0
+N8,2000,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.600902459542082,0
+SW11,3033,Long term,Furnished,Flat,2.0,2.0,0.4,8.017307507688582,0
+W2,4537,,Furnished,Flat,2.0,1.0,0.2,8.420021279663963,0
+W1D,1582,Long term,Ask agent,Studio,0.0,1.0,0.2,7.366445148327599,0
+W2,5997,Long term,Furnished,Flat,3.0,3.0,0.2,8.69901462316851,0
+N17,2200,Long term,Furnished,Flat,1.0,1.0,0.4,7.696212639346407,0
+NW3,3467,Long term,Part furnished,Flat,2.0,1.0,0.3,8.151044945685024,0
+SW11,2349,Long term,Furnished,Flat,1.0,1.0,0.4,7.761744984658913,0
+SW6,1975,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.5883236773352225,0
+TW7,1795,Long term,Part furnished,Flat,2.0,1.0,0.5,7.492760300922379,0
+EC2Y,2600,,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+NW5,3200,,Furnished,House,4.0,1.0,0.4,8.070906088787819,0
+HA9,3250,Long term,Furnished,Penthouse,3.0,3.0,0.4,8.086410275323782,0
+NW8,17117,Long term,Unfurnished,Terraced,4.0,3.0,0.4,9.747827400695664,0
+NW1,2300,,Part furnished,Flat,1.0,1.0,0.3,7.7406644019172415,0
+SW1P,2747,Long term,Furnished,Flat,1.0,1.0,0.4,7.918264686095274,0
+SW10,3683,Long term,Furnished,Ground Flat,2.0,2.0,0.5,8.211482916445066,0
+SW1W,4984,Long term,Furnished,Flat,2.0,2.0,0.4,8.51398806046729,0
+NW4,1750,Long term,Part furnished,Flat,2.0,1.0,0.9,7.4673710669175595,0
+SW10,2362,Long term,Furnished,Flat,1.0,1.0,0.5,7.767263996757308,0
+UB6,2972,Long term,Furnished,Flat,3.0,2.0,0.6,7.99699040583765,0
+SW1V,5000,Long term,Unfurnished,House,4.0,3.0,0.5,8.517193191416238,0
+HA9,1625,Long term,Ask agent,Flat,2.0,1.0,0.8,7.393263094763838,0
+SW12,4500,Long term,"Furnished or unfurnished, landlord is flexible",Mews,2.0,2.0,0.4,8.411832675758411,0
+N7,1600,Long term,Part furnished,Flat,1.0,1.0,0.6,7.3777589082278725,0
+W2,5980,Long term,Furnished,Flat,3.0,3.0,0.3,8.696175846944678,0
+SW10,3683,Long term,Ask agent,Flat,2.0,2.0,0.5,8.211482916445066,0
+N9,1400,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.24422751560335,0
+NW1,1525,,Furnished,Flat,1.0,1.0,0.3,7.329749689041512,0
+SW1P,5490,Long term,Part furnished,Flat,3.0,3.0,0.4,8.610683534503575,0
+SW11,1495,Long term,Furnished,Studio,0.0,1.0,0.3,7.3098814858247865,0
+UB2,3115,Long term,Furnished,Flat,3.0,2.0,1.2,8.043984431221553,0
+W1H,3500,Long term,Furnished,Flat,3.0,1.0,0.3,8.160518247477505,0
+N1,2495,Long term,Part furnished,Flat,2.0,,0.5,7.822044008185619,0
+W12,7995,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.2,8.986571625268054,0
+EC2A,2145,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.6708948313621175,0
+UB2,1740,Long term,Furnished,Flat,1.0,1.0,1.2,7.461640392208575,0
+SE1,3590,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,8.185907481482324,0
+N19,1600,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.3777589082278725,0
+N1,2167,,Furnished,Flat,2.0,2.0,0.5,7.681099001536359,0
+SW3,27083,Long term,Unfurnished,Flat,3.0,3.0,0.7,10.206661503755827,0
+HA9,953,Long term,Furnished,House Share,1.0,,0.7,6.859614903654202,1
+UB2,2300,Long term,Furnished,Flat,2.0,2.0,1.2,7.7406644019172415,0
+UB2,2050,Long term,Unfurnished,Flat,2.0,2.0,1.2,7.6255950721324535,0
+SW3,4030,Long term,Furnished,Flat,2.0,2.0,0.4,8.301521654940728,0
+SW1P,3200,Long term,Furnished,Flat,1.0,1.0,0.6,8.070906088787819,0
+SW3,4333,Long term,Furnished,Flat,2.0,2.0,0.7,8.374015421739909,0
+NW8,2150,Long term,Furnished,Flat,1.0,1.0,0.4,7.673223121121708,0
+NW1,4600,,Ask agent,Flat,4.0,2.0,0.3,8.433811582477187,0
+W14,2500,Long term,Furnished,Flat,2.0,1.0,0.4,7.824046010856292,0
+W3,2000,Long term,Furnished,Flat,1.0,1.0,0.6,7.600902459542082,0
+E8,3500,Long term,Part furnished,Flat,2.0,1.0,0.4,8.160518247477505,0
+E8,2500,Long term,Furnished,Flat,2.0,1.0,0.4,7.824046010856292,0
+NW5,3358,Long term,Ask agent,Flat,3.0,1.0,0.3,8.119100837637486,0
+SE1,2300,Long term,Furnished,Flat,2.0,1.0,0.3,7.7406644019172415,0
+SW6,6000,Long term,Unfurnished,Maisonette,4.0,3.0,0.5,8.699514748210191,0
+NW5,1585,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.368339686311381,0
+W6,3700,Long term,Furnished,Flat,2.0,2.0,0.5,8.216088098632316,0
+WC2B,2232,,Unfurnished,Flat,1.0,1.0,0.3,7.710653323501202,0
+NW8,3250,Long term,Part furnished,Flat,2.0,1.0,0.7,8.086410275323782,0
+NW3,3878,Long term,Unfurnished,Terraced,2.0,2.0,0.4,8.263074835802596,0
+UB8,1450,Long term,Part furnished,Flat,1.0,1.0,1.2,7.27931883541462,0
+W8,5893,Long term,Unfurnished,Flat,3.0,3.0,0.4,8.681520484837913,0
+SW7,8212,Long term,Furnished,Flat,3.0,3.0,0.4,9.013351778138825,0
+WC1X,1777,Long term,Furnished,Flat,1.0,1.0,0.4,7.482681828154651,0
+SW5,1650,Long term,Furnished,Studio,0.0,1.0,0.3,7.408530566894626,0
+HA1,2684,Long term,Furnished,Flat,2.0,2.0,0.5,7.895063498091573,0
+SW6,6000,Long term,Furnished,Flat,3.0,3.0,0.5,8.699514748210191,0
+TW1,4750,Long term,Unfurnished,Flat,2.0,,0.8,8.465899897028686,0
+SW10,2999,Long term,Unfurnished,Flat,2.0,1.0,0.5,8.00603417874901,0
+SW11,3142,Long term,Furnished,House,3.0,1.0,0.7,8.052614818815567,0
+W1K,28166,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.2,10.245870855757996,0
+SW7,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+SW19,2250,Long term,Furnished,Flat,2.0,1.0,0.5,7.718685495198466,0
+W3,2400,Long term,Furnished,Flat,2.0,2.0,0.5,7.783224016336037,0
+HA6,1600,Long term,Unfurnished,Maisonette,2.0,1.0,0.8,7.3777589082278725,0
+N3,1800,Long term,Furnished,Flat,2.0,1.0,0.8,7.495541943884256,0
+SW5,4350,Long term,Furnished,Flat,2.0,2.0,0.3,8.37793112408273,0
+W8,3000,Long term,Furnished,Flat,1.0,1.0,0.5,8.006367567650246,0
+SW1H,2795,Long term,Furnished,Flat,1.0,1.0,0.3,7.9355873855892,0
+NW3,2150,Long term,Part furnished,Flat,1.0,1.0,0.4,7.673223121121708,0
+W12,2000,Long term,Ask agent,Flat,1.0,1.0,0.2,7.600902459542082,0
+SW11,2201,Long term,Furnished,Flat,1.0,1.0,0.6,7.696667081526462,0
+SW5,1680,Long term,Furnished,Studio,0.0,1.0,0.3,7.426549072397305,0
+TW11,4015,Long term,Unfurnished,Flat,3.0,2.0,0.9,8.297792626380861,0
+SW11,3358,Long term,Furnished,Flat,2.0,1.0,0.4,8.119100837637486,0
+SW7,16445,Long term,Furnished,Mews,5.0,5.0,0.5,9.707776758623158,0
+NW4,1990,Long term,Unfurnished,Flat,2.0,2.0,1.0,7.595889917718538,0
+WC1X,4280,,Furnished,Flat,1.0,1.0,0.3,8.361708288575842,0
+N1,2500,Long term,Furnished,Flat,2.0,,0.4,7.824046010856292,0
+SW18,2700,,Furnished,Flat,2.0,2.0,0.6,7.90100705199242,0
+E8,3250,Long term,Unfurnished,Duplex,2.0,1.0,0.4,8.086410275323782,0
+W8,5980,Long term,Ask agent,Flat,4.0,2.0,0.4,8.696175846944678,0
+N7,2680,Long term,Part furnished,Flat,2.0,2.0,0.3,7.893572073504902,0
+HA1,1850,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.52294091807237,0
+KT2,1798,Long term,Furnished,Studio,0.0,1.0,0.5,7.494430215031565,0
+HA4,1300,Long term,Unfurnished,End of Terrace,1.0,1.0,1.2,7.170119543449628,0
+NW1,2500,Long term,Furnished,Flat,2.0,1.0,0.3,7.824046010856292,0
+W1H,6500,Long term,Ask agent,Flat,2.0,1.0,0.4,8.779557455883728,0
+W5,1700,Long term,Furnished,Flat,1.0,1.0,0.6,7.438383530044307,0
+HA8,1975,Long term,Furnished,Flat,2.0,2.0,0.9,7.5883236773352225,0
+WC2B,2232,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.710653323501202,0
+N1,3000,Long term,Ask agent,Flat,2.0,1.0,0.6,8.006367567650246,0
+NW9,2115,Long term,Unfurnished,Flat,1.0,1.0,0.7,7.656810091480378,0
+NW8,12000,Long term,Part furnished,Detached,4.0,3.0,0.3,9.392661928770137,0
+SW6,1900,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.549609165154532,0
+E6,800,Long term,Furnished,House Share,1.0,,0.4,6.684611727667927,1
+E14,3400,Long term,Furnished,Flat,2.0,2.0,0.2,8.131530710604252,0
+E14,1900,Long term,Furnished,Flat,1.0,1.0,0.3,7.549609165154532,0
+SE22,1950,Long term,Furnished,Flat,2.0,1.0,0.9,7.575584651557793,0
+E14,2249,Long term,Ask agent,Flat,1.0,1.0,0.3,7.718240951959316,0
+SE8,4250,,Part furnished,Town House,4.0,2.0,0.2,8.354674261918463,0
+SE16,1950,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.7,7.575584651557793,0
+SE23,3000,Long term,Part furnished,Semi-Detached,5.0,2.0,0.8,8.006367567650246,0
+BR7,1850,Long term,Unfurnished,Flat,2.0,1.0,1.3,7.52294091807237,0
+E14,2300,Long term,Furnished,Flat,1.0,1.0,0.3,7.7406644019172415,0
+SE1,1500,Long term,Furnished,Flat,1.0,1.0,0.8,7.313220387090301,0
+E14,2200,Long term,Ask agent,Flat,1.0,1.0,0.2,7.696212639346407,0
+SE8,1400,Long term,Part furnished,Flat,1.0,1.0,0.2,7.24422751560335,0
+E9,2000,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.600902459542082,0
+E14,1777,Long term,Furnished,Studio,0.0,1.0,0.3,7.482681828154651,0
+E14,2100,Long term,Furnished,Flat,2.0,1.0,0.3,7.649692623711514,0
+E14,2934,Long term,Furnished,Flat,2.0,2.0,0.3,7.984121958702927,0
+SE1,1650,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.6,7.408530566894626,0
+SE1,1500,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.8,7.313220387090301,0
+E14,1625,Long term,Part furnished,Flat,1.0,1.0,0.5,7.393263094763838,0
+E1,4790,Long term,Furnished,Flat,2.0,2.0,0.3,8.474285690404962,0
+E1,4190,Long term,Furnished,Flat,2.0,1.0,0.2,8.340456012916183,0
+E14,2750,Long term,Furnished,Flat,1.0,1.0,0.3,7.919356190660617,0
+E1,3450,Long term,Furnished,Flat,2.0,2.0,0.3,8.146129510025405,0
+E1,2850,Long term,Furnished,Flat,3.0,1.0,0.3,7.955074273262696,0
+E1,3240,Long term,Furnished,Flat,2.0,2.0,0.4,8.083328608786376,0
+E1,2430,Long term,Furnished,Flat,1.0,1.0,0.4,7.795646536334594,0
+E1,2540,Long term,Furnished,Flat,1.0,1.0,0.4,7.8399193600125825,0
+SE1,2990,Long term,Furnished,Flat,2.0,2.0,0.8,8.003028666384733,0
+E1,4540,Long term,Furnished,Flat,3.0,2.0,0.2,8.420682291035394,0
+E14,4390,Long term,Furnished,Flat,2.0,2.0,0.2,8.387084506069217,0
+E14,4060,Long term,Furnished,Flat,2.0,2.0,0.3,8.308938252595778,0
+E20,2750,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.5,7.919356190660617,0
+E14,4397,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,8.388677769180811,0
+E14,2903,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,7.97349996402463,0
+E14,3250,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,8.086410275323782,0
+IG11,2800,Long term,Furnished,Terraced,4.0,2.0,0.9,7.937374696163295,0
+E14,2860,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.958576903813898,0
+E14,4052,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,8.306965865368573,0
+E14,4000,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,8.294049640102028,0
+E14,3500,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,8.160518247477505,0
+E20,3300,,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.5,8.101677747454572,0
+E14,7390,,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.2,8.907883013942248,0
+E14,2200,Long term,Furnished,Flat,2.0,1.0,0.4,7.696212639346407,0
+SE16,2000,Long term,Part furnished,Flat,2.0,2.0,0.5,7.600902459542082,0
+DA17,2150,Long term,Unfurnished,Terraced,3.0,1.0,1.1,7.673223121121708,0
+SE22,2700,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.9,7.90100705199242,0
+E14,3140,Long term,Furnished,Flat,2.0,2.0,0.1,8.0519780789023,0
+E3,2270,Long term,Furnished,Flat,1.0,1.0,0.3,7.727535110475448,0
+E14,3400,Long term,Furnished,Flat,2.0,2.0,0.2,8.131530710604252,0
+SE16,1200,Long term,Furnished,Studio,0.0,1.0,0.5,7.090076835776092,0
+E13,1250,Long term,Furnished,Flat Share,1.0,,0.7,7.1308988302963465,1
+SE10,1850,Long term,Furnished,Flat,1.0,1.0,0.3,7.52294091807237,0
+SE1,3240,Long term,Furnished,Flat,2.0,2.0,0.6,8.083328608786376,0
+E2,2500,Long term,Ask agent,Flat,2.0,2.0,0.4,7.824046010856292,0
+SE16,4000,Long term,Furnished,Town House,4.0,2.0,0.6,8.294049640102028,0
+SE28,1725,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,2.0,1.0,0.4,7.45298232946546,0
+SE16,1300,Long term,Furnished,Flat Share,1.0,,0.6,7.170119543449628,1
+SE16,950,Long term,"Furnished or unfurnished, landlord is flexible",Flat Share,1.0,,0.6,6.856461984594587,1
+SE16,3200,Long term,Furnished,Flat,3.0,2.0,0.8,8.070906088787819,0
+SE12,1850,Long term,Unfurnished,Maisonette,2.0,1.0,0.6,7.52294091807237,0
+E14,2200,Long term,Furnished,Flat,2.0,2.0,0.5,7.696212639346407,0
+E7,2500,Long term,Unfurnished,Terraced,4.0,1.0,0.5,7.824046010856292,0
+RM9,1725,Long term,Unfurnished,Terraced,2.0,1.0,0.7,7.45298232946546,0
+SE13,2000,Long term,Ask agent,Flat,2.0,2.0,0.2,7.600902459542082,0
+E14,3400,Long term,Furnished,Flat,2.0,2.0,0.2,8.131530710604252,0
+E3,2260,Long term,Furnished,Flat,1.0,1.0,0.3,7.723120092266331,0
+SE3,2150,Long term,Ask agent,Flat,2.0,1.0,0.6,7.673223121121708,0
+IG3,1950,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.575584651557793,0
+SE18,1800,Long term,Unfurnished,Flat,2.0,2.0,1.1,7.495541943884256,0
+SE7,2200,Long term,Unfurnished,Terraced,2.0,1.0,0.6,7.696212639346407,0
+SE22,4750,Long term,Unfurnished,Terraced,5.0,2.0,0.9,8.465899897028686,0
+E3,2100,Long term,Furnished,Flat,1.0,1.0,0.5,7.649692623711514,0
+E14,2300,Long term,Furnished,Flat,1.0,1.0,0.2,7.7406644019172415,0
+SE13,4000,Long term,Unfurnished,Terraced,5.0,3.0,0.4,8.294049640102028,0
+SE13,1500,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.313220387090301,0
+E15,2250,Long term,Furnished,House,2.0,1.0,0.4,7.718685495198466,0
+E1,5700,Long term,Unfurnished,Terraced,6.0,3.0,0.4,8.648221453822641,0
+E2,2600,Long term,Furnished,Flat,2.0,2.0,0.5,7.8632667240095735,0
+E1,2650,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.882314918980268,0
+E14,4030,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.301521654940728,0
+SE8,2350,Long term,Furnished,Flat,2.0,2.0,0.6,7.762170607138205,0
+E14,2995,Long term,Part furnished,Flat,2.0,2.0,0.4,8.00469951054955,0
+E14,3987,Long term,Furnished,Flat,2.0,2.0,0.3,8.290794347381356,0
+SE13,1500,Long term,Furnished,Flat,1.0,,0.2,7.313220387090301,0
+SE10,2300,Long term,Unfurnished,Terraced,3.0,1.0,0.5,7.7406644019172415,0
+SE4,1600,Long term,Furnished,Flat,1.0,1.0,0.4,7.3777589082278725,0
+E14,950,Long term,Furnished,House Share,1.0,,0.4,6.856461984594587,1
+E6,1750,Long term,Unfurnished,Maisonette,2.0,1.0,0.8,7.4673710669175595,0
+SE8,2050,Long term,Furnished,Flat,1.0,1.0,0.8,7.6255950721324535,0
+EC3N,4333,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.374015421739909,0
+SE4,2400,Long term,Furnished,Flat,2.0,1.0,0.4,7.783224016336037,0
+E14,1798,Long term,Furnished,Studio,0.0,1.0,0.3,7.494430215031565,0
+E1,3000,Long term,Furnished,Flat,2.0,2.0,0.3,8.006367567650246,0
+IG1,1700,Long term,Ask agent,Flat,2.0,1.0,0.8,7.438383530044307,0
+SE14,1350,Long term,Furnished,Flat,1.0,1.0,0.5,7.2078598714324755,0
+SE13,1500,Long term,Furnished,Flat,1.0,1.0,0.3,7.313220387090301,0
+E1,2817,Long term,Furnished,Flat,3.0,1.0,0.4,7.943427767876373,0
+E14,2200,Long term,Furnished,Flat,1.0,1.0,0.2,7.696212639346407,0
+E2,1452,Long term,Furnished,Studio,0.0,1.0,0.4,7.280697195384741,0
+E15,2150,Long term,Furnished,Flat,1.0,1.0,0.4,7.673223121121708,0
+SE10,795,Long term,Furnished,Flat Share,1.0,,0.6,6.678342114654332,1
+E12,1350,Long term,Unfurnished,Studio,0.0,1.0,0.5,7.2078598714324755,0
+E14,2450,Long term,Furnished,Terraced,3.0,2.0,0.3,7.803843303538772,0
+SE26,1950,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.575584651557793,0
+SE6,2250,,Unfurnished,Terraced,3.0,1.0,0.8,7.718685495198466,0
+E16,1850,Long term,Furnished,Flat,1.0,1.0,0.4,7.52294091807237,0
+IG11,1798,Long term,Part furnished,Flat,1.0,1.0,0.8,7.494430215031565,0
+E16,1875,Long term,Furnished,Flat,1.0,1.0,0.4,7.536363938404511,0
+E11,2899,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,3.0,1.0,0.6,7.972121128921655,0
+SE18,2500,Long term,Unfurnished,Detached,4.0,2.0,1.2,7.824046010856292,0
+E16,2450,Long term,Furnished,Flat,2.0,2.0,0.2,7.803843303538772,0
+DA15,2200,Long term,Ask agent,End of Terrace,3.0,1.0,1.0,7.696212639346407,0
+BR2,2200,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.696212639346407,0
+SE10,4250,Long term,Unfurnished,End of Terrace,4.0,2.0,0.5,8.354674261918463,0
+E14,2000,Long term,Furnished,Flat,1.0,1.0,0.3,7.600902459542082,0
+E1,3390,Long term,Furnished,Flat,1.0,1.0,0.2,8.128585200374497,0
+E1W,1993,Long term,Furnished,Flat,1.0,1.0,0.4,7.597396320212795,0
+E14,1800,Long term,Furnished,Flat,1.0,1.0,0.3,7.495541943884256,0
+E1,2600,Long term,Furnished,Flat,2.0,1.0,0.3,7.8632667240095735,0
+E14,2500,Long term,Furnished,Flat,3.0,2.0,0.5,7.824046010856292,0
+E3,1850,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.52294091807237,0
+SE3,997,Long term,Furnished,House Share,1.0,,0.5,6.904750769961838,1
+SE12,1300,Long term,Unfurnished,Flat,1.0,1.0,0.8,7.170119543449628,0
+SE3,1040,Long term,Furnished,House Share,1.0,,0.5,6.946975992135418,1
+E16,2450,Long term,Furnished,Flat,2.0,2.0,0.2,7.803843303538772,0
+E15,2100,Long term,Unfurnished,Flat,3.0,1.0,0.3,7.649692623711514,0
+SE3,1170,Long term,Furnished,House Share,1.0,,0.5,7.064759027791802,1
+SE13,1250,Long term,Unfurnished,Studio,0.0,1.0,0.6,7.1308988302963465,0
+E14,1599,Long term,Furnished,Flat,1.0,,0.4,7.377133712833954,0
+E14,3850,Long term,Furnished,Flat,2.0,2.0,0.2,8.25582842728183,0
+SE18,1700,Long term,Furnished,Flat,2.0,2.0,0.3,7.438383530044307,0
+E3,1800,Long term,Furnished,Flat,1.0,,0.4,7.495541943884256,0
+SE18,1500,Long term,Furnished,Flat,1.0,1.0,0.7,7.313220387090301,0
+SE12,2400,Long term,Unfurnished,Flat,3.0,2.0,0.6,7.783224016336037,0
+E16,2195,Long term,Furnished,Flat,1.0,1.0,0.5,7.693937325509272,0
+E1,2920,Long term,Furnished,Flat,2.0,1.0,0.3,7.979338895262328,0
+E16,2050,Long term,Ask agent,Flat,2.0,2.0,0.4,7.6255950721324535,0
+E13,1750,Long term,Furnished,Flat,2.0,1.0,0.6,7.4673710669175595,0
+E16,1825,Long term,Furnished,Flat,1.0,1.0,0.4,7.509335266016592,0
+E14,2899,Long term,Furnished,Flat,1.0,1.0,0.2,7.972121128921655,0
+IG11,1535,Long term,Furnished,Flat,1.0,1.0,1.0,7.336285660021297,0
+E16,1950,Long term,Furnished,Flat,1.0,,0.4,7.575584651557793,0
+E15,2100,Long term,Furnished,Flat,2.0,1.0,0.4,7.649692623711514,0
+SE10,1750,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.4673710669175595,0
+SE18,2375,Long term,Part furnished,Flat,3.0,3.0,0.3,7.772752716468742,0
+E1W,2817,Long term,Furnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+SE10,2050,Long term,Furnished,Flat,1.0,1.0,0.3,7.6255950721324535,0
+E14,2730,Long term,Furnished,Flat,1.0,1.0,0.3,7.912056888179006,0
+E16,2800,Long term,Furnished,Flat,3.0,2.0,0.4,7.937374696163295,0
+E7,1750,Long term,Ask agent,Semi-Detached,2.0,1.0,0.4,7.4673710669175595,0
+E3,2300,Long term,Furnished,Flat,2.0,2.0,0.5,7.7406644019172415,0
+E7,2495,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,1.0,0.5,7.822044008185619,0
+E1W,4498,Long term,Unfurnished,Flat,3.0,3.0,0.4,8.411388132519262,0
+SE10,2350,Long term,Furnished,Flat,2.0,2.0,0.4,7.762170607138205,0
+E2,1750,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.4673710669175595,0
+E1,2600,Long term,Ask agent,Flat,1.0,1.0,0.3,7.8632667240095735,0
+DA7,3350,Long term,Unfurnished,Semi-Detached,4.0,2.0,1.1,8.116715624819111,0
+E16,2999,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.00603417874901,0
+E1W,3900,Long term,Furnished,Flat,2.0,2.0,0.3,8.268731832117737,0
+E14,4000,Long term,Furnished,Flat,2.0,1.0,0.3,8.294049640102028,0
+E11,1400,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.24422751560335,0
+RM8,1950,Long term,Unfurnished,Terraced,3.0,1.0,1.0,7.575584651557793,0
+E14,1885,Long term,Furnished,Studio,0.0,1.0,0.2,7.541683099882111,0
+SE18,1850,Long term,Furnished,Flat,1.0,1.0,0.3,7.52294091807237,0
+E14,2500,Long term,Furnished,Flat,1.0,1.0,0.2,7.824046010856292,0
+EC3N,3200,Long term,Furnished,Flat,1.0,1.0,0.2,8.070906088787819,0
+SE18,2250,Long term,Part furnished,Flat,2.0,2.0,0.3,7.718685495198466,0
+E14,1500,Long term,Furnished,Flat,1.0,,0.4,7.313220387090301,0
+E15,1500,Long term,Ask agent,Flat,1.0,1.0,0.4,7.313220387090301,0
+SE10,800,Long term,Ask agent,House Share,1.0,,0.3,6.684611727667927,1
+E3,1900,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.549609165154532,0
+E2,1950,Long term,Part furnished,Flat,1.0,,0.2,7.575584651557793,0
+E2,3800,Long term,Furnished,Flat,3.0,2.0,0.2,8.242756345714477,0
+SE9,1500,Long term,Unfurnished,Maisonette,2.0,2.0,0.9,7.313220387090301,0
+E15,1875,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.536363938404511,0
+E14,2400,Long term,Furnished,Flat,1.0,1.0,0.3,7.783224016336037,0
+E1,3500,Long term,Part furnished,Flat,2.0,2.0,0.3,8.160518247477505,0
+E1,2400,Long term,Part furnished,Flat,1.0,1.0,0.3,7.783224016336037,0
+SE3,2700,Long term,Furnished,Terraced,3.0,3.0,0.7,7.90100705199242,0
+SE3,1750,,Furnished,Flat,1.0,1.0,0.6,7.4673710669175595,0
+E14,1700,Long term,Furnished,Studio,0.0,1.0,0.3,7.438383530044307,0
+E16,2650,Long term,Furnished,Flat,2.0,2.0,0.4,7.882314918980268,0
+SE8,1900,Long term,Furnished,Flat,1.0,1.0,0.5,7.549609165154532,0
+E14,2500,Long term,Furnished,Flat,2.0,2.0,0.2,7.824046010856292,0
+E14,2500,Long term,Furnished,Flat,2.0,2.0,0.2,7.824046010856292,0
+SE13,950,Long term,Unfurnished,Studio,0.0,1.0,0.6,6.856461984594587,0
+IG2,1950,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.575584651557793,0
+BR5,950,Long term,Unfurnished,Studio,0.0,1.0,1.4,6.856461984594587,0
+E16,1650,Long term,Furnished,Flat,1.0,1.0,0.1,7.408530566894626,0
+E14,2200,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.696212639346407,0
+E14,3750,Long term,Furnished,Flat,2.0,2.0,0.2,8.229511118964457,0
+E3,1650,Long term,Furnished,Flat,1.0,1.0,0.4,7.408530566894626,0
+E3,1550,Long term,Furnished,Flat,1.0,1.0,0.4,7.346010209913293,0
+E14,2500,Long term,Part furnished,Studio,0.0,1.0,0.2,7.824046010856292,0
+SE18,2097,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.64826303090192,0
+E14,1972,Long term,Furnished,Flat,1.0,1.0,0.3,7.586803535162581,0
+SE3,1950,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.575584651557793,0
+DA6,1750,Long term,Unfurnished,Flat,2.0,1.0,0.9,7.4673710669175595,0
+E3,2445,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.801800401908973,0
+E14,2652,Long term,Furnished,Flat,1.0,1.0,0.2,7.883069351305753,0
+E14,3200,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,8.070906088787819,0
+E16,3285,Long term,Furnished,Flat,3.0,2.0,0.3,8.09712193091871,0
+DA15,1200,Long term,Unfurnished,Flat,1.0,1.0,1.0,7.090076835776092,0
+E1,900,Long term,Furnished,Flat Share,1.0,,0.4,6.802394763324311,1
+E14,3600,Long term,Furnished,Flat,2.0,2.0,0.3,8.1886891244442,0
+E14,1846,Long term,Furnished,Flat,1.0,1.0,0.3,7.520776415062797,0
+E1,2773,Long term,Furnished,Flat,1.0,1.0,0.3,7.927685045615778,0
+E16,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+E14,2750,Long term,Furnished,Flat,1.0,1.0,0.3,7.919356190660617,0
+SE22,1800,Long term,Unfurnished,Flat,1.0,1.0,0.7,7.495541943884256,0
+SE16,1105,Long term,Furnished,House Share,1.0,,0.5,7.007600613951853,1
+E14,2650,Long term,Furnished,Flat,1.0,1.0,0.2,7.882314918980268,0
+BR1,1750,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.4673710669175595,0
+E1,3000,Long term,Furnished,Flat,2.0,2.0,0.4,8.006367567650246,0
+E3,2815,Long term,Furnished,Flat,2.0,2.0,0.3,7.942717540573791,0
+E14,2250,Long term,Furnished,Flat,2.0,1.0,1.8,7.718685495198466,0
+E1,2750,Long term,Furnished,Flat,1.0,1.0,0.3,7.919356190660617,0
+SE22,2250,Long term,Furnished,Flat,2.0,2.0,0.5,7.718685495198466,0
+SE10,2200,Long term,Unfurnished,Flat,2.0,2.0,0.2,7.696212639346407,0
+E3,1599,Long term,Furnished,Flat,1.0,,0.2,7.377133712833954,0
+SE13,2000,Long term,Furnished,Flat,1.0,1.0,0.2,7.600902459542082,0
+SE9,1450,Long term,Furnished,Maisonette,1.0,1.0,0.9,7.27931883541462,0
+E14,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+E1,2000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.600902459542082,0
+E16,1740,Long term,Furnished,Studio,0.0,1.0,0.3,7.461640392208575,0
+SE14,1400,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.24422751560335,0
+E14,3650,,Ask agent,Flat,2.0,2.0,0.3,8.202482446576537,0
+E14,1842,Long term,Furnished,Studio,0.0,1.0,0.2,7.518607216815252,0
+E14,2149,Long term,Part furnished,Flat,2.0,1.0,0.4,7.67275789664251,0
+SE13,1700,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.438383530044307,0
+E1,3100,Long term,Furnished,Flat,2.0,2.0,0.3,8.039157390473237,0
+E1,4983,Long term,Furnished,Flat,2.0,2.0,0.3,8.513787398281405,0
+SE28,2400,Long term,Ask agent,Town House,4.0,3.0,1.2,7.783224016336037,0
+E3,2830,Long term,Furnished,Flat,2.0,2.0,0.3,7.948031990637284,0
+E3,2270,Long term,Furnished,Flat,1.0,1.0,0.3,7.727535110475448,0
+E9,2900,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.9724660159745655,0
+E1,4500,Long term,Furnished,Flat,2.0,2.0,0.3,8.411832675758411,0
+SE15,2350,Long term,Unfurnished,Terraced,3.0,1.0,0.6,7.762170607138205,0
+E14,1600,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.2,7.3777589082278725,0
+EC1V,3950,Long term,Furnished,Flat,2.0,3.0,3.7,8.281470857895167,0
+SE15,1700,Long term,Unfurnished,Flat,2.0,1.0,0.6,7.438383530044307,0
+SE14,2000,Long term,Furnished,Flat,2.0,1.0,0.3,7.600902459542082,0
+SE10,3120,Long term,Furnished,Flat,2.0,1.0,0.3,8.045588280803528,0
+SE18,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+E14,2383,Long term,Furnished,Flat,1.0,1.0,0.2,7.776115477098742,0
+E14,2300,Long term,Ask agent,Flat,1.0,1.0,0.3,7.7406644019172415,0
+EC3N,4333,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.374015421739909,0
+E7,3350,Long term,Unfurnished,End of Terrace,5.0,2.0,0.4,8.116715624819111,0
+SE5,1075,Long term,Furnished,House Share,1.0,,0.6,6.980075940561763,1
+E16,1695,Long term,Furnished,Flat,1.0,1.0,0.1,7.43543801981455,0
+E16,2496,Long term,Furnished,Flat,2.0,2.0,0.5,7.822444729489319,0
+SE13,1500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.313220387090301,0
+SE16,3500,Long term,Furnished,Flat,3.0,2.0,0.4,8.160518247477505,0
+E14,1750,Long term,Furnished,Flat,1.0,1.0,0.3,7.4673710669175595,0
+E16,3300,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.5,8.101677747454572,0
+E16,3500,Long term,Furnished,Flat,3.0,2.0,0.5,8.160518247477505,0
+SE1,2297,Long term,Furnished,Flat,2.0,1.0,0.6,7.739359202689098,0
+E16,3500,Long term,Furnished,Flat,3.0,2.0,0.5,8.160518247477505,0
+E14,2100,Long term,Furnished,Flat,2.0,1.0,0.4,7.649692623711514,0
+SE18,1350,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.2078598714324755,0
+SE18,2450,Long term,Furnished,Flat,2.0,2.0,0.3,7.803843303538772,0
+E16,1725,Long term,Furnished,Flat,1.0,1.0,0.3,7.45298232946546,0
+DA8,1650,Long term,Unfurnished,Terraced,2.0,1.0,1.2,7.408530566894626,0
+E14,2600,Long term,Ask agent,Flat,1.0,1.0,0.3,7.8632667240095735,0
+E15,2200,Long term,Furnished,Flat,1.0,1.0,0.3,7.696212639346407,0
+E7,2500,Long term,Ask agent,Flat,3.0,,0.5,7.824046010856292,0
+E14,2650,Long term,Ask agent,Flat,1.0,1.0,0.2,7.882314918980268,0
+E14,845,Long term,Furnished,House Share,1.0,,0.3,6.739336627357174,1
+E1,2665,Long term,Furnished,Flat,1.0,1.0,0.4,7.887959336599945,0
+SE16,1950,Long term,Furnished,Flat,1.0,1.0,0.7,7.575584651557793,0
+SE1,1703,Long term,"Furnished or unfurnished, landlord is flexible",Duplex,2.0,1.0,0.9,7.440146680662688,0
+E16,2200,Long term,Furnished,Flat,2.0,1.0,0.5,7.696212639346407,0
+E15,1850,Long term,Furnished,Flat,2.0,1.0,0.5,7.52294091807237,0
+SE1,7200,Long term,Furnished,Flat,3.0,3.0,0.4,8.881836305004146,0
+E6,1350,Long term,Furnished,Flat,1.0,1.0,0.5,7.2078598714324755,0
+E20,2925,Long term,Furnished,Flat,2.0,2.0,0.3,7.981049759665957,0
+SE15,1100,Long term,Furnished,Flat Share,1.0,,0.4,7.003065458786462,1
+E1,3100,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.4,8.039157390473237,0
+E1,1950,Long term,Furnished,Flat,1.0,1.0,0.5,7.575584651557793,0
+E1,2950,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.4,7.989560449333865,0
+E1,2400,,Furnished,Flat,2.0,2.0,0.4,7.783224016336037,0
+E15,2050,Long term,"Furnished or unfurnished, landlord is flexible",Ground Flat,1.0,1.0,0.4,7.6255950721324535,0
+SE16,2167,Long term,Ask agent,Flat,1.0,1.0,0.5,7.681099001536359,0
+E1,2708,Long term,Furnished,Maisonette,3.0,1.0,0.4,7.903965634032166,0
+SE10,2350,Long term,Furnished,Flat,1.0,1.0,0.5,7.762170607138205,0
+E15,1950,Long term,Furnished,Flat,2.0,1.0,0.4,7.575584651557793,0
+E1,4400,Long term,"Furnished or unfurnished, landlord is flexible",Flat,4.0,3.0,0.3,8.389359819906353,0
+E14,2700,Long term,Ask agent,Flat,1.0,1.0,0.2,7.90100705199242,0
+SE10,2700,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.90100705199242,0
+SE16,2100,Long term,Furnished,Flat,1.0,1.0,0.6,7.649692623711514,0
+BR7,5950,Long term,Unfurnished,Detached,4.0,3.0,0.5,8.691146498539675,0
+SE3,1800,Long term,Furnished,Flat,2.0,1.0,0.5,7.495541943884256,0
+DA16,1700,Long term,Ask agent,Flat,2.0,1.0,1.0,7.438383530044307,0
+E7,2500,Long term,Part furnished,Flat,3.0,1.0,0.5,7.824046010856292,0
+SE23,900,Long term,Furnished,House Share,1.0,,0.7,6.802394763324311,1
+E3,1750,Long term,Furnished,Flat,2.0,1.0,0.5,7.4673710669175595,0
+E14,2687,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.8961806086154915,0
+E1,3141,Long term,Furnished,Flat,1.0,1.0,0.2,8.052296499538647,0
+BR1,1400,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.24422751560335,0
+E14,3200,Long term,Furnished,Flat,3.0,2.0,0.4,8.070906088787819,0
+E15,1550,Long term,Furnished,Flat,1.0,1.0,0.5,7.346010209913293,0
+E16,2600,Long term,Furnished,Flat,2.0,2.0,0.4,7.8632667240095735,0
+SE13,1560,Long term,Furnished,Flat,1.0,1.0,0.3,7.352441100243583,0
+SE14,2740,Long term,Furnished,Flat,3.0,2.0,0.3,7.9157131993821155,0
+SE14,2197,Long term,Unfurnished,Flat,2.0,2.0,0.3,7.69484807238461,0
+E1,910,Long term,Part furnished,Flat Share,1.0,,0.4,6.813444599510896,1
+SE14,2170,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.682482446534506,0
+E14,4008,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,,0.3,8.2960476427647,0
+E14,1950,Long term,Furnished,Studio,0.0,1.0,0.4,7.575584651557793,0
+SE14,1998,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.599901959208498,0
+SE14,1865,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.5310163320779155,0
+E2,2150,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.673223121121708,0
+E1,2800,Long term,Furnished,Flat,1.0,1.0,0.3,7.937374696163295,0
+E14,3003,,Furnished,Flat,4.0,1.0,0.4,8.00736706798333,0
+E1,6000,Long term,Furnished,Flat,3.0,3.0,0.3,8.699514748210191,0
+E3,2100,Long term,Ask agent,Flat,2.0,,0.4,7.649692623711514,0
+E14,4680,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.451053388911692,0
+E14,3016,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,8.011686729127847,0
+E13,2275,Long term,Part furnished,House,3.0,2.0,0.8,7.729735331385051,0
+E14,4000,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.294049640102028,0
+SE13,2300,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.7406644019172415,0
+E14,3792,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,,0.3,8.240648863374913,0
+E14,3618,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.193676665955241,0
+E6,1850,Long term,Unfurnished,House,2.0,1.0,0.9,7.52294091807237,0
+E14,2350,,Part furnished,Flat,2.0,1.0,0.4,7.762170607138205,0
+E14,2817,,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,7.943427767876373,0
+E1,1750,Long term,Furnished,Flat,1.0,1.0,0.4,7.4673710669175595,0
+E14,2600,Long term,Furnished,Flat,1.0,1.0,0.2,7.8632667240095735,0
+SE18,2492,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.820840879907344,0
+E16,1950,Long term,Furnished,Ground Flat,1.0,1.0,0.5,7.575584651557793,0
+E14,4312,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,,0.3,8.369157112588834,0
+E14,3792,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,8.240648863374913,0
+E3,3495,Long term,Furnished,Maisonette,4.0,1.0,0.4,8.15908865466791,0
+E14,6906,,"Furnished or unfurnished, landlord is flexible",Flat,3.0,1.0,0.2,8.840145877949938,0
+E20,2550,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.5,7.843848638152472,0
+E16,2400,Long term,Furnished,Flat,2.0,2.0,0.5,7.783224016336037,0
+E14,1907,Long term,Furnished,Flat,1.0,1.0,0.5,7.553286605600419,0
+E14,4312,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.369157112588834,0
+E20,3400,,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.5,8.131530710604252,0
+E14,4450,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.400659375160286,0
+SE15,1400,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.24422751560335,0
+E14,2800,Long term,Furnished,Flat,2.0,2.0,0.3,7.937374696163295,0
+E14,1695,Long term,Furnished,Studio,0.0,1.0,0.2,7.43543801981455,0
+E16,2500,,Furnished,Flat,2.0,2.0,0.5,7.824046010856292,0
+SE16,2450,Long term,Furnished,Flat,2.0,2.0,0.3,7.803843303538772,0
+SE18,2000,Long term,Unfurnished,Semi-Detached,3.0,1.0,1.0,7.600902459542082,0
+E16,2575,Long term,Furnished,Flat,2.0,2.0,0.5,7.853604813097837,0
+SE23,1400,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.24422751560335,0
+E6,4300,Long term,Furnished,Detached,6.0,4.0,0.6,8.366370301681654,0
+E14,3600,Long term,Furnished,Duplex,1.0,2.0,0.2,8.1886891244442,0
+E14,2752,Long term,Furnished,Flat,2.0,2.0,0.4,7.920083199053234,0
+SE8,4475,Long term,Furnished,Flat,4.0,2.0,0.7,8.406261630708956,0
+SE8,3325,Long term,Furnished,Flat,3.0,2.0,0.7,8.109224953089955,0
+E14,2990,Long term,Furnished,Flat,1.0,1.0,0.2,8.003028666384733,0
+E16,2000,,Furnished,Flat,2.0,2.0,0.3,7.600902459542082,0
+E14,2383,Long term,Furnished,Flat,1.0,1.0,0.3,7.776115477098742,0
+SE1,3683,Long term,Part furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+E1,2210,Long term,Furnished,Flat,1.0,1.0,0.4,7.700747794511798,0
+E14,4290,Long term,Furnished,Flat,2.0,2.0,0.2,8.364042011922063,0
+E14,3500,Long term,Furnished,Flat,2.0,2.0,0.3,8.160518247477505,0
+SE16,2250,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.718685495198466,0
+E11,1600,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.3777589082278725,0
+E14,1575,,Unfurnished,Flat,1.0,1.0,0.3,7.362010551259734,0
+E16,2350,,Part furnished,Flat,2.0,2.0,0.4,7.762170607138205,0
+E3,1749,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.466799475018602,0
+E16,2099,Long term,Furnished,Flat,2.0,1.0,0.4,7.649216319820633,0
+SE23,1300,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.170119543449628,0
+E20,3595,Long term,Furnished,Flat,2.0,,0.2,8.187299270155147,0
+E3,1650,Long term,Furnished,Flat,1.0,1.0,0.4,7.408530566894626,0
+E20,3645,Long term,Unfurnished,Flat,3.0,2.0,0.2,8.201111644442758,0
+E16,2560,Long term,Furnished,Flat,2.0,2.0,0.4,7.847762537473608,0
+E6,1500,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.313220387090301,0
+E14,1900,Long term,Furnished,Flat,1.0,1.0,0.4,7.549609165154532,0
+E20,2785,Long term,Furnished,Flat,1.0,1.0,0.2,7.932003152361385,0
+E20,2688,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.89655270164304,0
+SE10,2100,Long term,Unfurnished,Terraced,2.0,1.0,0.4,7.649692623711514,0
+E20,2495,Long term,Furnished,Flat,1.0,1.0,0.2,7.822044008185619,0
+SE14,1375,Long term,Furnished,Flat,1.0,1.0,0.6,7.226209010100671,0
+SE18,1550,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.346010209913293,0
+BR2,1850,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.5,7.52294091807237,0
+E3,1899,Long term,Furnished,Flat,1.0,1.0,0.3,7.549082710812286,0
+SE15,2500,,Unfurnished,Flat,3.0,2.0,0.4,7.824046010856292,0
+E14,1650,,Furnished,Flat,1.0,1.0,0.3,7.408530566894626,0
+E14,1798,Long term,Furnished,Flat,1.0,1.0,0.4,7.494430215031565,0
+EC3N,2800,Long term,Furnished,Studio,0.0,1.0,0.2,7.937374696163295,0
+SE1,2250,Long term,Furnished,Flat,2.0,2.0,0.5,7.718685495198466,0
+SE1,8697,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,3.0,0.4,9.070733417589766,0
+E14,2050,Long term,Furnished,Terraced,2.0,1.0,0.5,7.6255950721324535,0
+E16,1800,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.495541943884256,0
+E14,1800,Long term,Furnished,Flat,1.0,,0.3,7.495541943884256,0
+SE18,1550,Long term,Furnished,Flat,1.0,1.0,0.3,7.346010209913293,0
+SE12,2000,Long term,Furnished,Flat,2.0,1.0,0.8,7.600902459542082,0
+BR1,1450,Long term,Unfurnished,Flat,1.0,1.0,1.0,7.27931883541462,0
+E16,2500,Long term,Ask agent,Terraced,3.0,1.0,0.4,7.824046010856292,0
+E14,2200,Long term,Furnished,Flat,1.0,1.0,0.3,7.696212639346407,0
+E14,2500,Long term,Furnished,Terraced,2.0,2.0,0.2,7.824046010856292,0
+E14,4030,Long term,Furnished,Flat,2.0,2.0,0.3,8.301521654940728,0
+E14,3400,Long term,Furnished,Flat,1.0,1.0,0.2,8.131530710604252,0
+SE18,1750,Long term,Furnished,Flat,1.0,1.0,0.3,7.4673710669175595,0
+E1,1550,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.346010209913293,0
+SE13,1700,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.438383530044307,0
+E14,2600,Long term,Furnished,Flat,2.0,3.0,0.3,7.8632667240095735,0
+E15,2200,Long term,Unfurnished,Flat,2.0,,0.3,7.696212639346407,0
+E16,2350,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,7.762170607138205,0
+E1,2600,Long term,Part furnished,Flat,2.0,1.0,0.4,7.8632667240095735,0
+SE5,1700,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.438383530044307,0
+E16,1998,Long term,Furnished,Flat,2.0,1.0,0.3,7.599901959208498,0
+E15,1600,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.3777589082278725,0
+IG11,1450,Long term,Ask agent,Studio,0.0,,0.8,7.27931883541462,0
+SE5,1700,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.438383530044307,0
+IG11,1300,Long term,Unfurnished,Flat,1.0,1.0,0.8,7.170119543449628,0
+E1,2384,Long term,Part furnished,Studio,0.0,1.0,0.3,7.776535028185241,0
+SE2,1399,Long term,Furnished,Flat,1.0,1.0,1.0,7.243512974665482,0
+SE15,1900,Long term,Unfurnished,Flat,2.0,2.0,0.5,7.549609165154532,0
+E14,2903,Long term,Ask agent,Flat,1.0,1.0,0.3,7.97349996402463,0
+E14,2903,Long term,Furnished,Flat,1.0,1.0,0.3,7.97349996402463,0
+SE8,2450,Long term,Furnished,Flat,2.0,2.0,0.3,7.803843303538772,0
+E1W,2600,Long term,Furnished,Flat,3.0,1.0,0.4,7.8632667240095735,0
+SE26,2000,Long term,Furnished,Flat,2.0,1.0,0.6,7.600902459542082,0
+E14,2401,Long term,Furnished,Flat,1.0,1.0,0.2,7.783640596221253,0
+E14,4500,Long term,Furnished,Terraced,6.0,5.0,0.4,8.411832675758411,0
+SE12,2500,Long term,Furnished,Semi-Detached,3.0,1.0,0.8,7.824046010856292,0
+E1,2600,Long term,Furnished,Flat,1.0,1.0,0.5,7.8632667240095735,0
+E14,4117,Long term,Furnished,Flat,2.0,2.0,0.2,8.322880021769905,0
+E14,6933,Long term,Furnished,Flat,3.0,3.0,0.2,8.84404789894249,0
+E14,3467,Long term,Furnished,Flat,2.0,2.0,0.3,8.151044945685024,0
+SE28,1495,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.3098814858247865,0
+E16,3397,Long term,Unfurnished,Flat,3.0,2.0,0.5,8.130647968160584,0
+E14,3000,Long term,Furnished,Flat,2.0,2.0,0.4,8.006367567650246,0
+SE1,3467,Long term,Furnished,Detached,4.0,2.0,0.9,8.151044945685024,0
+SE1,2350,Long term,Furnished,Flat,2.0,1.0,0.8,7.762170607138205,0
+E16,1825,Long term,Furnished,Flat,1.0,1.0,0.4,7.509335266016592,0
+SE3,3600,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,1.1,8.1886891244442,0
+SE3,2800,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,1.1,7.937374696163295,0
+SE3,3000,Long term,"Furnished or unfurnished, landlord is flexible",Maisonette,2.0,1.0,1.1,8.006367567650246,0
+E14,3990,Long term,Furnished,Flat,2.0,2.0,0.2,8.29154650988391,0
+SE9,2350,Long term,Unfurnished,Flat,3.0,2.0,0.7,7.762170607138205,0
+E14,2492,Long term,Furnished,Flat,2.0,2.0,0.2,7.820840879907344,0
+E15,2000,Long term,Furnished,Flat,2.0,2.0,0.4,7.600902459542082,0
+E14,1950,Long term,Furnished,Flat,1.0,1.0,0.4,7.575584651557793,0
+SE23,1800,,Unfurnished,Ground Maisonette,2.0,1.0,0.7,7.495541943884256,0
+DA18,1300,Long term,Unfurnished,Flat,1.0,1.0,1.1,7.170119543449628,0
+IG11,1750,Long term,Unfurnished,Flat,2.0,1.0,1.1,7.4673710669175595,0
+E14,3000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.3,8.006367567650246,0
+SE1,3250,Long term,Ask agent,Flat,3.0,2.0,1.0,8.086410275323782,0
+E14,2323,Long term,Furnished,Studio,0.0,1.0,0.3,7.750614732770409,0
+E1W,3250,Long term,Furnished,Flat,3.0,2.0,0.4,8.086410275323782,0
+SE18,1100,Long term,Unfurnished,Studio,0.0,1.0,0.6,7.003065458786462,0
+E1,2400,Long term,Furnished,Flat,2.0,1.0,0.2,7.783224016336037,0
+E1W,3250,Long term,Furnished,Flat,3.0,2.0,0.4,8.086410275323782,0
+E2,1800,Long term,Furnished,Flat,2.0,1.0,0.4,7.495541943884256,0
+SE10,2000,Long term,Unfurnished,Terraced,2.0,1.0,0.4,7.600902459542082,0
+E1W,4700,Long term,Furnished,Flat,2.0,2.0,0.4,8.45531778769815,0
+SE3,2100,Long term,Unfurnished,Flat,2.0,1.0,0.6,7.649692623711514,0
+E14,2100,Long term,Ask agent,Flat,2.0,2.0,0.3,7.649692623711514,0
+SE16,1798,Long term,Furnished,Maisonette,2.0,1.0,0.7,7.494430215031565,0
+E14,4117,Long term,Furnished,Flat,2.0,2.0,0.3,8.322880021769905,0
+E14,2650,Long term,Furnished,Flat,1.0,1.0,0.2,7.882314918980268,0
+E3,2370,Long term,Furnished,Flat,1.0,1.0,0.3,7.7706452341291765,0
+IG11,1900,Long term,Furnished,Flat,2.0,1.0,0.8,7.549609165154532,0
+SE13,4500,Long term,Unfurnished,Semi-Detached,6.0,3.0,0.5,8.411832675758411,0
+SE28,1750,Long term,Unfurnished,Terraced,2.0,1.0,0.6,7.4673710669175595,0
+SE13,1500,Long term,Unfurnished,Flat,1.0,1.0,0.6,7.313220387090301,0
+E15,2375,Long term,Furnished,Flat,2.0,2.0,0.4,7.772752716468742,0
+E16,2450,Long term,Furnished,Flat,2.0,2.0,0.2,7.803843303538772,0
+E3,2850,Long term,Furnished,Flat,3.0,,1.8,7.955074273262696,0
+E15,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+BR1,1950,Long term,Unfurnished,Terraced,3.0,1.0,1.0,7.575584651557793,0
+E1,1700,Long term,Furnished,Flat,1.0,1.0,0.4,7.438383530044307,0
+SE13,1900,Long term,Furnished,Flat,2.0,,0.3,7.549609165154532,0
+E14,4095,Long term,Furnished,Flat,2.0,2.0,0.3,8.31752199628717,0
+SE1,1650,Long term,Furnished,Maisonette,1.0,1.0,0.9,7.408530566894626,0
+E1,3300,Long term,Furnished,Flat,3.0,1.0,0.3,8.101677747454572,0
+E14,4073,Long term,Furnished,Flat,2.0,2.0,0.3,8.312135107648412,0
+E9,2250,Long term,Ask agent,Flat,1.0,1.0,0.6,7.718685495198466,0
+E14,1700,Long term,Furnished,Studio,0.0,1.0,0.3,7.438383530044307,0
+SE16,2100,Long term,Furnished,Flat,1.0,1.0,0.2,7.649692623711514,0
+RM9,2300,Long term,Unfurnished,End of Terrace,3.0,1.0,1.0,7.7406644019172415,0
+SE16,2500,Long term,Furnished,Flat,2.0,2.0,0.7,7.824046010856292,0
+E1,1650,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.408530566894626,0
+E14,4000,Long term,Furnished,Flat,1.0,1.0,0.2,8.294049640102028,0
+E15,2300,Long term,Furnished,Flat,2.0,1.0,0.5,7.7406644019172415,0
+E1,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+SE4,1800,Long term,Furnished,Flat,2.0,1.0,0.5,7.495541943884256,0
+SE18,850,Long term,Furnished,House Share,1.0,,0.9,6.745236349484363,1
+E15,3500,Long term,Furnished,Flat,3.0,2.0,0.4,8.160518247477505,0
+E3,1650,Long term,Furnished,Flat,2.0,1.0,0.3,7.408530566894626,0
+SE13,1650,Long term,Furnished,Flat,1.0,1.0,0.3,7.408530566894626,0
+SE13,656,Long term,Furnished,Flat Share,1.0,,0.3,6.486160788944089,1
+IG11,1900,Long term,Furnished,Flat,2.0,2.0,1.7,7.549609165154532,0
+SE1,4333,Long term,Unfurnished,Flat,3.0,2.0,0.8,8.374015421739909,0
+RM9,2300,Long term,Unfurnished,Semi-Detached,3.0,1.0,1.0,7.7406644019172415,0
+SE3,1900,Long term,Unfurnished,Flat,2.0,1.0,0.8,7.549609165154532,0
+IG2,1250,Long term,Unfurnished,Flat,1.0,1.0,0.7,7.1308988302963465,0
+SE8,2000,Long term,Furnished,Flat,1.0,1.0,0.6,7.600902459542082,0
+SE6,1250,Long term,Part furnished,Flat,1.0,1.0,0.5,7.1308988302963465,0
+SE13,1900,Long term,Furnished,Flat,2.0,,0.3,7.549609165154532,0
+E14,2097,Long term,Furnished,Flat,1.0,1.0,0.4,7.64826303090192,0
+SE13,1500,,Unfurnished,Flat,1.0,1.0,0.2,7.313220387090301,0
+E6,2600,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,5.0,2.0,0.9,7.8632667240095735,0
+SE10,2800,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.937374696163295,0
+SE10,3000,Long term,Furnished,Flat,2.0,2.0,0.3,8.006367567650246,0
+E14,1750,Long term,Furnished,Studio,0.0,1.0,0.3,7.4673710669175595,0
+E15,1062,Long term,Furnished,House Share,1.0,,0.5,6.967909201801884,1
+E14,1170,Long term,Furnished,House Share,1.0,,0.4,7.064759027791802,1
+E14,4073,Long term,Furnished,Flat,2.0,2.0,0.3,8.312135107648412,0
+E16,2200,Long term,Furnished,Flat,2.0,1.0,0.5,7.696212639346407,0
+E14,2000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,7.600902459542082,0
+SE1,2350,Long term,Furnished,Flat,1.0,1.0,0.8,7.762170607138205,0
+SE15,1400,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.24422751560335,0
+E14,2280,Long term,Furnished,Flat,2.0,1.0,0.3,7.731930721948486,0
+E14,1754,Long term,Furnished,Studio,0.0,,0.3,7.469654172932128,0
+SE18,1750,Long term,Part furnished,Flat,2.0,1.0,0.6,7.4673710669175595,0
+SE8,1550,Long term,Unfurnished,Flat,1.0,1.0,0.2,7.346010209913293,0
+SE16,1950,Long term,Ask agent,Terraced,2.0,1.0,0.4,7.575584651557793,0
+SE14,2500,Long term,Part furnished,Flat,2.0,1.0,0.5,7.824046010856292,0
+IG1,1400,,Furnished,Flat,1.0,1.0,0.7,7.24422751560335,0
+E3,2000,Long term,Ask agent,Flat,2.0,,0.4,7.600902459542082,0
+E14,1890,Long term,Ask agent,Flat,1.0,1.0,0.5,7.5443321080536885,0
+E14,2150,Long term,Furnished,Flat,2.0,1.0,0.3,7.673223121121708,0
+E15,1500,Long term,Furnished,Flat,1.0,1.0,0.5,7.313220387090301,0
+E14,2400,Long term,Furnished,Flat,2.0,2.0,0.3,7.783224016336037,0
+SE18,1600,Long term,Furnished,Flat,1.0,1.0,0.5,7.3777589082278725,0
+E14,4983,,Furnished,Town House,5.0,5.0,0.3,8.513787398281405,0
+SE1,2800,Long term,Ask agent,Flat,2.0,2.0,0.5,7.937374696163295,0
+E14,2249,Long term,Furnished,Flat,1.0,1.0,0.3,7.718240951959316,0
+SE3,1450,Long term,Ask agent,Flat,1.0,,0.7,7.27931883541462,0
+E16,2970,Long term,Furnished,Flat,3.0,2.0,0.4,7.996317231796746,0
+SE8,1800,Long term,Furnished,Flat,1.0,1.0,0.7,7.495541943884256,0
+E14,1720,Long term,Furnished,Flat,1.0,1.0,0.3,7.450079569807499,0
+SE18,2000,Long term,Furnished,Flat,2.0,2.0,0.3,7.600902459542082,0
+SE10,1650,,Part furnished,Flat,1.0,1.0,0.6,7.408530566894626,0
+E7,2995,Long term,Part furnished,Semi-Detached,4.0,2.0,0.4,8.00469951054955,0
+E14,2495,Long term,Unfurnished,Flat,2.0,2.0,0.1,7.822044008185619,0
+E14,3200,Long term,Furnished,Flat,3.0,2.0,0.5,8.070906088787819,0
+E16,1800,Long term,Furnished,Flat,1.0,1.0,0.2,7.495541943884256,0
+E16,2167,Long term,Part furnished,Flat,1.0,1.0,0.4,7.681099001536359,0
+E14,3400,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.2,8.131530710604252,0
+E14,4300,Long term,Furnished,Flat,3.0,2.0,0.3,8.366370301681654,0
+E14,2400,Long term,Furnished,Flat,1.0,1.0,0.3,7.783224016336037,0
+E1,2648,Long term,Part furnished,Maisonette,4.0,2.0,0.5,7.881559917056899,0
+E3,1733,Long term,Furnished,Flat,1.0,1.0,0.4,7.457609289715606,0
+E14,1733,Long term,Furnished,Studio,0.0,1.0,0.2,7.457609289715606,0
+E14,1850,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.52294091807237,0
+E14,3000,Long term,Ask agent,Flat,1.0,1.0,0.2,8.006367567650246,0
+SE22,2250,Long term,Part furnished,Flat,2.0,1.0,0.9,7.718685495198466,0
+SE23,1800,Long term,Furnished,Flat,2.0,2.0,0.6,7.495541943884256,0
+SE10,1850,Long term,Furnished,Flat,2.0,1.0,0.6,7.52294091807237,0
+E20,3302,Long term,Furnished,Flat,2.0,,0.2,8.102283624480073,0
+E14,2708,Long term,Furnished,Flat,2.0,2.0,0.3,7.903965634032166,0
+E14,4030,Long term,Furnished,Flat,2.0,2.0,0.3,8.301521654940728,0
+E14,3500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,4.0,2.0,0.3,8.160518247477505,0
+E16,2000,Long term,Ask agent,Flat,2.0,2.0,0.5,7.600902459542082,0
+SE15,1650,Long term,Unfurnished,Flat,2.0,,0.4,7.408530566894626,0
+SE15,1995,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.598399329323964,0
+E16,2500,Long term,Furnished,Flat,2.0,2.0,0.3,7.824046010856292,0
+E14,2500,Long term,Furnished,Flat,2.0,2.0,0.2,7.824046010856292,0
+E13,1800,Long term,Part furnished,Flat,2.0,1.0,0.6,7.495541943884256,0
+E15,2700,Long term,Ask agent,Flat,2.0,2.0,0.3,7.90100705199242,0
+SE18,2600,Long term,Furnished,Flat,2.0,2.0,0.4,7.8632667240095735,0
+E1,3467,Long term,Furnished,Flat,4.0,2.0,0.4,8.151044945685024,0
+E2,1800,Long term,Furnished,Flat,2.0,1.0,0.4,7.495541943884256,0
+E13,1550,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.7,7.346010209913293,0
+IG11,3300,Long term,Unfurnished,Town House,4.0,2.0,0.9,8.101677747454572,0
+SE3,2300,Long term,Furnished,Flat,2.0,1.0,0.7,7.7406644019172415,0
+SE13,1861,Long term,Furnished,Flat,1.0,1.0,0.3,7.528869256642251,0
+E1W,2500,Long term,Furnished,Flat,3.0,1.0,0.4,7.824046010856292,0
+SE10,1500,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.313220387090301,0
+E14,2650,Long term,Furnished,Flat,2.0,2.0,0.2,7.882314918980268,0
+E1,2500,Long term,Ask agent,Flat,1.0,1.0,0.4,7.824046010856292,0
+E14,2700,Long term,Furnished,Flat,2.0,2.0,0.4,7.90100705199242,0
+SE16,1950,Long term,Furnished,Flat,1.0,1.0,0.6,7.575584651557793,0
+SE22,2000,Long term,Furnished,Flat,2.0,1.0,0.9,7.600902459542082,0
+E14,4030,Long term,Furnished,Flat,2.0,2.0,0.3,8.301521654940728,0
+E14,2490,Long term,Furnished,Flat,1.0,1.0,0.4,7.820037989458753,0
+E14,1647,Long term,Furnished,Flat,1.0,1.0,0.5,7.4067107301776405,0
+SE13,1750,Long term,Furnished,Flat,1.0,,0.2,7.4673710669175595,0
+E16,1800,Long term,Furnished,Flat,1.0,1.0,0.3,7.495541943884256,0
+DA14,2800,,Unfurnished,Chalet,5.0,2.0,0.8,7.937374696163295,0
+SE3,2500,Long term,Furnished,Flat,2.0,2.0,0.6,7.824046010856292,0
+SE16,2400,Long term,Furnished,Flat,1.0,1.0,0.2,7.783224016336037,0
+E1,1000,Long term,Furnished,Flat Share,1.0,,0.4,6.907755278982137,1
+SE16,2750,Long term,Furnished,Semi-Detached,2.0,2.0,0.5,7.919356190660617,0
+E14,2800,Long term,Furnished,Flat,1.0,1.0,0.2,7.937374696163295,0
+E3,2905,Long term,Unfurnished,Flat,2.0,2.0,0.3,7.974188669286011,0
+E14,2400,Long term,Furnished,Flat,1.0,1.0,0.2,7.783224016336037,0
+SE10,2200,,Furnished,Flat,2.0,2.0,0.6,7.696212639346407,0
+SE8,2200,Long term,Ask agent,Flat,2.0,2.0,0.6,7.696212639346407,0
+E14,1750,Long term,Furnished,Studio,0.0,1.0,0.3,7.4673710669175595,0
+IG11,2100,Long term,Unfurnished,End of Terrace,3.0,1.0,1.0,7.649692623711514,0
+DA7,3350,Long term,Part furnished,Semi-Detached,4.0,2.0,1.0,8.116715624819111,0
+E1,3000,Long term,Furnished,Flat,1.0,1.0,0.2,8.006367567650246,0
+E15,925,Long term,Part furnished,House Share,1.0,,0.5,6.829793737512425,1
+E16,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+E15,1600,Long term,Part furnished,Flat,1.0,1.0,0.3,7.3777589082278725,0
+IG1,2050,Long term,Furnished,Flat,2.0,2.0,0.7,7.6255950721324535,0
+E1,6150,Long term,Furnished,Penthouse,3.0,2.0,0.2,8.724207360800564,0
+SE10,2400,Long term,Furnished,Flat,2.0,2.0,0.3,7.783224016336037,0
+E14,2750,Long term,Furnished,Flat,2.0,1.0,0.2,7.919356190660617,0
+IG1,2100,Long term,Furnished,Flat,2.0,2.0,0.7,7.649692623711514,0
+IG1,2050,Long term,Furnished,Flat,2.0,2.0,0.7,7.6255950721324535,0
+IG1,1899,Long term,Unfurnished,Flat,2.0,2.0,0.7,7.549082710812286,0
+E14,3650,Long term,Furnished,Flat,2.0,2.0,0.2,8.202482446576537,0
+E14,2450,Long term,Furnished,Flat,2.0,2.0,0.5,7.803843303538772,0
+E1,3200,Long term,Ask agent,Flat,2.0,2.0,0.4,8.070906088787819,0
+SE10,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+E14,2990,,Furnished,Flat,3.0,1.0,0.6,8.003028666384733,0
+E14,6110,,Furnished,Town House,6.0,8.0,0.3,8.71768205216564,0
+E15,2700,Long term,Furnished,Flat,3.0,2.0,0.3,7.90100705199242,0
+E3,2750,Long term,Furnished,Flat,2.0,2.0,0.3,7.919356190660617,0
+SE16,2448,Long term,Furnished,Flat,2.0,2.0,0.5,7.803026643632217,0
+SE16,4117,Long term,Furnished,Flat,3.0,3.0,0.5,8.322880021769905,0
+E14,3640,Long term,Part furnished,Flat,3.0,2.0,0.2,8.199738960630786,0
+E14,3400,Long term,Part furnished,Flat,3.0,2.0,0.2,8.131530710604252,0
+E1,3170,Long term,Furnished,Flat,2.0,1.0,0.4,8.061486866871327,0
+E1,1950,Long term,Furnished,Flat,2.0,1.0,0.4,7.575584651557793,0
+E14,1825,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.509335266016592,0
+E2,2691,Long term,Furnished,Flat,2.0,1.0,0.2,7.897668150726906,0
+E14,2400,Long term,Ask agent,Studio,0.0,1.0,0.2,7.783224016336037,0
+SE28,1550,Long term,Unfurnished,Flat,2.0,2.0,0.9,7.346010209913293,0
+E14,1895,Long term,Furnished,Flat,1.0,1.0,0.3,7.546974117516527,0
+SE4,1600,Long term,Furnished,Flat,2.0,1.0,0.4,7.3777589082278725,0
+SE3,2800,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,3.0,2.0,0.6,7.937374696163295,0
+SE8,2200,Long term,Furnished,Flat,2.0,2.0,0.7,7.696212639346407,0
+E14,4983,,Furnished,Semi-Detached,5.0,4.0,0.4,8.513787398281405,0
+SE1,2750,Long term,Furnished,Terraced,3.0,1.0,0.9,7.919356190660617,0
+E14,4983,,Furnished,Terraced,5.0,4.0,0.2,8.513787398281405,0
+E14,2150,Long term,Furnished,Flat,2.0,2.0,0.4,7.673223121121708,0
+E1W,2545,,Furnished,Flat,1.0,1.0,0.4,7.841885928984623,0
+SE1,2095,Long term,Furnished,Flat,2.0,1.0,0.9,7.647308832356238,0
+E1,2950,Long term,Unfurnished,Maisonette,3.0,1.0,0.4,7.989560449333865,0
+SE2,2400,Long term,Ask agent,Town House,3.0,2.0,1.1,7.783224016336037,0
+E16,2150,Long term,Part furnished,Terraced,2.0,1.0,0.4,7.673223121121708,0
+SE18,2350,Long term,Unfurnished,Semi-Detached,3.0,1.0,1.2,7.762170607138205,0
+E1,1842,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.518607216815252,0
+SE1,3150,Long term,Part furnished,Flat,3.0,2.0,0.6,8.055157731819678,0
+SE10,1850,Long term,Unfurnished,Flat,2.0,1.0,0.1,7.52294091807237,0
+E14,1842,Long term,Part furnished,Flat,1.0,1.0,0.5,7.518607216815252,0
+E16,2400,Long term,Furnished,Flat,1.0,,0.3,7.783224016336037,0
+E16,1750,Long term,Unfurnished,Studio,0.0,1.0,0.2,7.4673710669175595,0
+SE12,2300,Long term,Unfurnished,Semi-Detached,3.0,1.0,0.8,7.7406644019172415,0
+BR1,2500,Long term,Unfurnished,House,3.0,1.0,0.7,7.824046010856292,0
+SE14,2000,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.600902459542082,0
+SE18,1500,Long term,Furnished,Flat,1.0,,1.3,7.313220387090301,0
+SE10,2500,Long term,Unfurnished,Flat,2.0,1.0,0.7,7.824046010856292,0
+SE14,2195,Long term,Ask agent,End of Terrace,2.0,1.0,0.2,7.693937325509272,0
+SE14,1400,Long term,Part furnished,Studio,0.0,1.0,0.2,7.24422751560335,0
+SE14,1200,Long term,Ask agent,Studio,0.0,1.0,0.6,7.090076835776092,0
+SE6,1595,Long term,Unfurnished,House,2.0,1.0,0.5,7.374629015218945,0
+E14,2903,Long term,Furnished,Flat,1.0,1.0,0.3,7.97349996402463,0
+SE1,2968,Long term,Furnished,Flat,2.0,2.0,0.7,7.995643604287271,0
+E16,2383,Long term,Furnished,Flat,2.0,2.0,0.5,7.776115477098742,0
+E3,1600,Long term,Unfurnished,Flat,1.0,1.0,0.3,7.3777589082278725,0
+E16,2300,Long term,Part furnished,Flat,2.0,2.0,0.5,7.7406644019172415,0
+SE13,1395,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.240649694255466,0
+SE16,2200,Long term,Furnished,Flat,3.0,1.0,0.3,7.696212639346407,0
+E14,1675,Long term,Furnished,Flat,1.0,1.0,0.1,7.423568444259167,0
+E14,2550,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.843848638152472,0
+SE9,1850,Long term,Ask agent,Flat,3.0,1.0,1.0,7.52294091807237,0
+SE15,1550,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.346010209913293,0
+SE8,2400,Long term,Ask agent,Flat,2.0,2.0,0.3,7.783224016336037,0
+EC3N,6000,Long term,Ask agent,Flat,2.0,2.0,0.2,8.699514748210191,0
+E14,3250,Long term,Furnished,Flat,2.0,1.0,0.3,8.086410275323782,0
+E15,2000,Long term,Furnished,Flat,1.0,1.0,0.3,7.600902459542082,0
+SE18,2850,Long term,Furnished,House,2.0,3.0,0.3,7.955074273262696,0
+SE6,1850,Long term,Unfurnished,Flat,2.0,2.0,0.3,7.52294091807237,0
+SE15,1550,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.346010209913293,0
+RM13,2200,Long term,"Furnished or unfurnished, landlord is flexible",Ground Flat,3.0,,1.1,7.696212639346407,0
+RM13,1750,Long term,Ask agent,Flat,2.0,,1.1,7.4673710669175595,0
+RM13,2150,Long term,"Furnished or unfurnished, landlord is flexible",Ground Flat,3.0,,1.1,7.673223121121708,0
+RM13,2100,Long term,Ask agent,Ground Flat,3.0,,1.1,7.649692623711514,0
+E14,1750,Long term,Furnished,Flat,1.0,1.0,0.5,7.4673710669175595,0
+E16,1950,Long term,Furnished,Flat,1.0,1.0,0.4,7.575584651557793,0
+E16,1200,Long term,Furnished,Flat Share,1.0,,0.4,7.090076835776092,1
+SE4,2200,Long term,Furnished,Flat,3.0,1.0,0.5,7.696212639346407,0
+E14,2450,Long term,Furnished,Flat,2.0,2.0,0.2,7.803843303538772,0
+SE18,2050,Long term,Furnished,Flat,1.0,1.0,0.4,7.6255950721324535,0
+SE13,775,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.6,6.652863029353347,1
+E14,3000,Long term,Furnished,Flat,2.0,2.0,0.3,8.006367567650246,0
+SE16,4225,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.348774539791274,0
+DA14,1750,Long term,Unfurnished,Flat,2.0,1.0,1.1,7.4673710669175595,0
+SE23,2000,Long term,Ask agent,Flat,2.0,2.0,0.6,7.600902459542082,0
+SE15,2500,Long term,Unfurnished,House,2.0,1.0,0.5,7.824046010856292,0
+SE15,1450,Long term,Part furnished,Flat,1.0,1.0,0.4,7.27931883541462,0
+E16,2500,Long term,Furnished,Flat,2.0,2.0,0.3,7.824046010856292,0
+E16,2650,Long term,Furnished,Flat,2.0,2.0,0.5,7.882314918980268,0
+E14,3683,Long term,Furnished,Flat,2.0,2.0,0.3,8.211482916445066,0
+E16,2100,Long term,Ask agent,Flat,2.0,1.0,0.3,7.649692623711514,0
+SE15,2100,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.649692623711514,0
+SE16,1650,Long term,Ask agent,Studio,0.0,1.0,0.5,7.408530566894626,0
+E1,3198,Long term,Furnished,Flat,2.0,2.0,0.4,8.0702808933939,0
+BR3,1650,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.408530566894626,0
+E14,2578,Long term,Unfurnished,Flat,2.0,2.0,0.2,7.8547691834991324,0
+E6,2250,Long term,Furnished,Flat,2.0,2.0,0.6,7.718685495198466,0
+E16,1900,Long term,Furnished,Terraced,2.0,1.0,0.2,7.549609165154532,0
+SE1,3500,Long term,Unfurnished,Duplex,2.0,2.0,0.5,8.160518247477505,0
+E14,2000,Long term,Ask agent,Flat,1.0,1.0,0.3,7.600902459542082,0
+SE7,3200,Long term,Unfurnished,Semi-Detached,3.0,3.0,0.8,8.070906088787819,0
+DA7,1999,Long term,Ask agent,Bungalow,4.0,1.0,0.9,7.6004023345004,0
+IG11,800,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.8,6.684611727667927,1
+E14,1725,Long term,Furnished,Flat,1.0,1.0,0.3,7.45298232946546,0
+DA16,1650,Long term,Ask agent,Semi-Detached,2.0,1.0,1.0,7.408530566894626,0
+DA7,1800,Long term,Furnished,Semi-Detached,2.0,1.0,0.9,7.495541943884256,0
+SE16,2600,Long term,Furnished,Flat,2.0,2.0,0.2,7.8632667240095735,0
+E13,875,Long term,Furnished,House Share,1.0,,0.9,6.774223886357614,1
+E14,3200,Long term,Furnished,Flat,1.0,1.0,0.3,8.070906088787819,0
+E1,5500,,Part furnished,House,6.0,2.0,0.4,8.612503371220562,0
+SE18,1795,Long term,Furnished,Flat,2.0,1.0,1.1,7.492760300922379,0
+E2,3050,Long term,Furnished,Maisonette,3.0,1.0,0.4,8.022896869601457,0
+E14,1895,Long term,Furnished,Flat,1.0,1.0,0.3,7.546974117516527,0
+E11,1600,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.3777589082278725,0
+E14,2490,Long term,Furnished,Flat,1.0,1.0,0.2,7.820037989458753,0
+RM9,2100,Long term,Unfurnished,Semi-Detached,3.0,,0.8,7.649692623711514,0
+SE10,1750,Long term,Furnished,Flat,1.0,1.0,0.3,7.4673710669175595,0
+E16,1733,Long term,Furnished,Flat,1.0,1.0,0.3,7.457609289715606,0
+SE10,2600,Long term,Furnished,Flat,2.0,2.0,0.6,7.8632667240095735,0
+E6,750,Long term,Furnished,House Share,1.0,,0.4,6.620073206530356,1
+E3,2800,Long term,Part furnished,Duplex,3.0,2.0,0.6,7.937374696163295,0
+SE16,2600,Long term,Furnished,Flat,2.0,2.0,0.7,7.8632667240095735,0
+SE2,1850,Long term,Unfurnished,Terraced,3.0,1.0,1.1,7.52294091807237,0
+E14,1850,Long term,Furnished,Flat,2.0,2.0,0.4,7.52294091807237,0
+E14,2297,Long term,Part furnished,Flat,3.0,1.0,0.4,7.739359202689098,0
+E1,3500,Long term,Furnished,Flat,2.0,2.0,0.2,8.160518247477505,0
+E14,2250,,Furnished,Flat,1.0,1.0,0.3,7.718685495198466,0
+SE1,1800,Long term,Ask agent,Flat,1.0,,0.6,7.495541943884256,0
+E14,2999,Long term,Furnished,Flat,2.0,2.0,0.2,8.00603417874901,0
+SE8,1800,Long term,Furnished,Flat,1.0,1.0,0.7,7.495541943884256,0
+SE18,2000,Long term,Part furnished,Flat,1.0,1.0,0.3,7.600902459542082,0
+E14,2197,Long term,Furnished,Flat,2.0,2.0,0.5,7.69484807238461,0
+SE23,2000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,1.0,0.7,7.600902459542082,0
+IG11,1800,Long term,Ask agent,Flat,2.0,,0.9,7.495541943884256,0
+E14,1850,Long term,Furnished,Flat,1.0,,0.3,7.52294091807237,0
+SE3,1700,Long term,Unfurnished,Flat,1.0,1.0,0.7,7.438383530044307,0
+SE16,2300,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.2,7.7406644019172415,0
+IG11,1625,,Unfurnished,Flat,2.0,2.0,0.9,7.393263094763838,0
+SE1,1650,Long term,Furnished,Flat,1.0,1.0,0.7,7.408530566894626,0
+SE13,1600,Long term,Furnished,Flat,1.0,1.0,0.3,7.3777589082278725,0
+E15,1550,Long term,Part furnished,Flat,1.0,1.0,0.4,7.346010209913293,0
+E1,3700,Long term,Furnished,Flat,2.0,2.0,0.3,8.216088098632316,0
+E16,1998,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.599901959208498,0
+E1,3850,Long term,Furnished,Flat,2.0,,0.3,8.25582842728183,0
+SE14,2000,Long term,Furnished,Maisonette,3.0,1.0,0.3,7.600902459542082,0
+BR3,1900,Long term,Unfurnished,Flat,2.0,2.0,0.6,7.549609165154532,0
+E16,2050,Long term,Furnished,Flat,1.0,1.0,0.5,7.6255950721324535,0
+IG11,1875,Long term,Furnished,Flat,2.0,1.0,0.8,7.536363938404511,0
+E3,2200,Long term,Furnished,Flat,1.0,1.0,0.4,7.696212639346407,0
+E7,3000,Long term,Part furnished,Ground Flat,3.0,1.0,0.6,8.006367567650246,0
+E14,2708,Long term,Furnished,Flat,2.0,2.0,0.8,7.903965634032166,0
+E14,2250,Long term,Furnished,Flat,2.0,1.0,0.4,7.718685495198466,0
+E15,2000,Long term,Furnished,Flat,2.0,2.0,0.4,7.600902459542082,0
+E15,2325,Long term,Furnished,Flat,2.0,2.0,0.4,7.751475318021456,0
+DA7,3350,Long term,Part furnished,Semi-Detached,4.0,3.0,1.1,8.116715624819111,0
+E14,2037,Long term,Furnished,Flat,1.0,1.0,0.5,7.619233416226805,0
+SE16,2100,Long term,Furnished,Flat,1.0,1.0,0.6,7.649692623711514,0
+E14,2999,Long term,Furnished,Flat,2.0,2.0,0.5,8.00603417874901,0
+E14,1690,Long term,Part furnished,Flat,1.0,1.0,0.3,7.432483807917119,0
+E14,2600,Long term,Furnished,Flat,2.0,2.0,0.2,7.8632667240095735,0
+E1,5997,Long term,Furnished,Flat,3.0,2.0,0.2,8.69901462316851,0
+BR1,2250,Long term,Unfurnished,End of Terrace,3.0,1.0,0.6,7.718685495198466,0
+E3,2200,Long term,Furnished,Flat,1.0,1.0,0.4,7.696212639346407,0
+E1,4350,Long term,Furnished,Flat,2.0,2.0,0.3,8.37793112408273,0
+E14,1650,Long term,Furnished,Flat,1.0,1.0,0.2,7.408530566894626,0
+SE6,1500,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.313220387090301,0
+E1,2250,Long term,Furnished,Flat,2.0,2.0,0.4,7.718685495198466,0
+SE17,1750,Long term,Unfurnished,Flat,1.0,1.0,1.0,7.4673710669175595,0
+SE14,1500,Long term,Furnished,Flat,1.0,1.0,0.6,7.313220387090301,0
+SE16,2000,Long term,Furnished,Flat,1.0,1.0,0.2,7.600902459542082,0
+BR2,1950,Long term,Part furnished,Flat,2.0,2.0,0.6,7.575584651557793,0
+SE15,2250,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.718685495198466,0
+SE15,1850,Long term,Furnished,Flat,1.0,1.0,0.4,7.52294091807237,0
+SE1,3200,Long term,Furnished,Flat,2.0,2.0,0.6,8.070906088787819,0
+SE3,1600,Long term,Ask agent,Flat,1.0,,0.7,7.3777589082278725,0
+E14,2200,Long term,Furnished,Flat,1.0,1.0,0.2,7.696212639346407,0
+E16,1650,Long term,Furnished,Flat,1.0,1.0,0.5,7.408530566894626,0
+SE16,2500,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+E3,1600,Long term,Ask agent,Flat,1.0,,0.3,7.3777589082278725,0
+SE6,2300,Long term,Unfurnished,House,3.0,1.0,0.9,7.7406644019172415,0
+E6,2250,Long term,Ask agent,End of Terrace,3.0,2.0,0.9,7.718685495198466,0
+E14,2500,Long term,Ask agent,Flat,2.0,2.0,0.4,7.824046010856292,0
+E14,1975,Long term,Furnished,Flat,1.0,1.0,0.2,7.5883236773352225,0
+E14,2197,Long term,Furnished,Flat,1.0,1.0,0.4,7.69484807238461,0
+E14,2750,Long term,Furnished,Flat,1.0,1.0,0.5,7.919356190660617,0
+E6,1850,Long term,Ask agent,House,2.0,1.0,0.8,7.52294091807237,0
+SE6,1575,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.362010551259734,0
+SE16,2600,Long term,Furnished,Terraced,2.0,1.0,0.4,7.8632667240095735,0
+SE18,3200,Long term,Furnished,Flat,2.0,2.0,1.2,8.070906088787819,0
+E1,2600,,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+SE1,3497,Long term,Furnished,Detached,4.0,2.0,0.9,8.159660737063376,0
+HA9,2581,,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,7.855932199718614,0
+SW7,4736,Long term,Furnished,Flat,1.0,1.0,0.3,8.462948176563842,0
+N13,449,Long term,Furnished,House Share,1.0,,0.8,6.1070228877422545,1
+N8,499,Long term,Furnished,House Share,1.0,,0.4,6.212606095751519,1
+TW4,500,Long term,Furnished,Flat Share,1.0,,1.0,6.214608098422191,1
+SM4,500,Long term,Unfurnished,Mobile Home,1.0,1.0,0.3,6.214608098422191,0
+SE18,550,Long term,Furnished,Flat Share,1.0,,0.5,6.309918278226516,1
+SE20,567,Long term,Unfurnished,Flat,2.0,2.0,0.4,6.340359303727752,0
+HA1,575,Long term,Furnished,Flat Share,1.0,,0.5,6.354370040797351,1
+N11,575,Long term,Furnished,House Share,1.0,,0.4,6.354370040797351,1
+N9,590,Long term,Furnished,House Share,1.0,,0.7,6.380122536899765,1
+N15,599,Long term,Furnished,House Share,1.0,,0.3,6.395261598115449,1
+UB4,600,Long term,Furnished,Flat Share,1.0,,1.9,6.396929655216146,1
+W1W,4290,Long term,Furnished,Flat,1.0,1.0,0.3,8.364042011922063,0
+NW4,600,,Furnished,Semi-Detached,5.0,1.0,0.9,6.396929655216146,0
+UB4,600,Long term,Furnished,House Share,1.0,,1.8,6.396929655216146,1
+E9,625,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.6,6.437751649736401,1
+HA0,625,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.4,6.437751649736401,1
+SE8,645,Long term,Furnished,House Share,1.0,,0.6,6.4692503167957724,1
+UB4,650,Long term,Furnished,House of Multiple Occupation,1.0,,1.9,6.476972362889683,1
+W7,650,Long term,Ask agent,House Share,1.0,,0.5,6.476972362889683,1
+KT1,650,Long term,Furnished,House Share,1.0,,0.6,6.476972362889683,1
+N6,650,Long term,Furnished,House Share,1.0,,0.8,6.476972362889683,1
+N20,650,,Furnished,Flat Share,1.0,,0.7,6.476972362889683,1
+HA1,650,Long term,Part furnished,House Share,1.0,,0.6,6.476972362889683,1
+SE6,650,Long term,Furnished,House Share,1.0,,0.5,6.476972362889683,1
+N22,650,Long term,Furnished,House Share,1.0,,0.5,6.476972362889683,1
+TW2,650,Long term,Furnished,House Share,1.0,,1.1,6.476972362889683,1
+SE8,650,Long term,Furnished,House Share,1.0,,0.6,6.476972362889683,1
+SE11,2780,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.2,7.930206206684683,0
+N8,669,Long term,Furnished,Flat Share,1.0,,0.7,6.505784060128229,1
+HA1,675,Long term,Furnished,Flat Share,1.0,,0.5,6.51471269087253,1
+SW15,675,Long term,Furnished,House Share,1.0,,1.9,6.51471269087253,1
+TW5,675,Long term,Furnished,House Share,1.0,,0.6,6.51471269087253,1
+UB4,675,Long term,Furnished,House of Multiple Occupation,1.0,,1.9,6.51471269087253,1
+NW4,685,Long term,Furnished,House Share,1.0,,0.5,6.529418838262226,1
+TW3,695,Long term,Furnished,House Share,1.0,,0.7,6.543911845564792,1
+UB6,695,Long term,Furnished,House Share,1.0,,0.5,6.543911845564792,1
+HA3,699,Long term,Furnished,House Share,1.0,,0.4,6.54965074223381,1
+TW5,699,Long term,Furnished,Studio,0.0,1.0,0.9,6.54965074223381,0
+N7,700,Long term,Furnished,House Share,1.0,,0.6,6.551080335043404,1
+E11,700,Long term,Furnished,House of Multiple Occupation,1.0,,0.4,6.551080335043404,1
+N16,700,Long term,Part furnished,Studio,0.0,,0.4,6.551080335043404,0
+SE25,700,Long term,Furnished,House Share,1.0,,0.4,6.551080335043404,1
+E15,700,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.5,6.551080335043404,1
+HA0,700,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.3,6.551080335043404,1
+E14,700,Long term,Furnished,Flat Share,1.0,,0.3,6.551080335043404,1
+SW15,2250,Long term,Unfurnished,Flat,2.0,2.0,0.7,7.718685495198466,0
+E4,700,Long term,Furnished,House Share,1.0,,1.1,6.551080335043404,1
+SE25,700,Long term,Ask agent,House Share,1.0,,0.4,6.551080335043404,1
+CR0,700,Long term,Furnished,House Share,1.0,,0.4,6.551080335043404,1
+SE25,700,Long term,Furnished,House Share,1.0,,0.4,6.551080335043404,1
+N17,700,Long term,Furnished,Flat Share,1.0,,0.9,6.551080335043404,1
+N4,710,Long term,Furnished,Flat Share,1.0,,0.3,6.565264970035361,1
+E14,710,Long term,Furnished,House Share,1.0,,0.4,6.565264970035361,1
+NW10,715,Long term,Furnished,House Share,1.0,,0.5,6.5722825426940075,1
+E7,720,Long term,Furnished,House Share,1.0,,0.6,6.579251212010101,1
+CR0,720,Long term,Furnished,House Share,1.0,,0.7,6.579251212010101,1
+EN3,720,Long term,Part furnished,House Share,1.0,,0.6,6.579251212010101,1
+E4,725,Long term,"Furnished or unfurnished, landlord is flexible",House of Multiple Occupation,1.0,,1.1,6.586171654854675,1
+TW5,725,Long term,Furnished,House Share,1.0,,0.6,6.586171654854675,1
+CR4,725,Long term,Furnished,House Share,1.0,,0.6,6.586171654854675,1
+SE27,730,Long term,Furnished,House Share,1.0,,0.5,6.593044534142437,1
+N1,3790,Long term,Furnished,Flat,2.0,2.0,0.5,8.240121298076472,0
+HA1,735,Long term,Furnished,Flat Share,1.0,,0.5,6.5998704992128365,1
+E3,737,Long term,Furnished,Flat Share,1.0,,0.2,6.602587892189336,1
+NW10,737,Long term,Furnished,House Share,1.0,,0.7,6.602587892189336,1
+TW7,737,Long term,Furnished,House Share,1.0,,0.5,6.602587892189336,1
+W7,737,Long term,Furnished,House Share,1.0,,0.4,6.602587892189336,1
+SE16,745,Long term,Furnished,House Share,1.0,,0.6,6.61338421837956,1
+UB6,745,Long term,Ask agent,House Share,1.0,,0.7,6.61338421837956,1
+N15,749,Long term,Furnished,House Share,1.0,,0.3,6.618738983517219,1
+N22,749,Long term,Furnished,House Share,1.0,,0.4,6.618738983517219,1
+HA8,750,Long term,Furnished,Flat Share,1.0,,0.6,6.620073206530356,1
+W12,750,Long term,Furnished,House Share,1.0,,0.6,6.620073206530356,1
+HA9,750,Long term,Ask agent,House Share,1.0,,0.5,6.620073206530356,1
+CR4,750,Long term,Ask agent,Studio,0.0,,0.6,6.620073206530356,0
+UB5,750,Long term,Furnished,House Share,1.0,,0.7,6.620073206530356,1
+W3,750,Long term,Furnished,House Share,1.0,,0.5,6.620073206530356,1
+UB3,750,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,1.6,6.620073206530356,1
+W5,1221,Long term,Furnished,Studio,0.0,1.0,0.4,7.107425474110705,0
+CR7,750,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.9,6.620073206530356,1
+UB5,750,,Furnished,House Share,1.0,,0.5,6.620073206530356,1
+SM5,750,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,,1.0,6.620073206530356,0
+SE23,750,Long term,Furnished,House Share,1.0,,0.7,6.620073206530356,1
+SW15,750,Long term,Furnished,Flat Share,1.0,,1.2,6.620073206530356,1
+E17,750,Long term,Unfurnished,House Share,1.0,,0.9,6.620073206530356,1
+E7,750,Long term,Furnished,House Share,1.0,,0.5,6.620073206530356,1
+HA3,750,Long term,Furnished,House Share,1.0,,0.5,6.620073206530356,1
+TW10,750,Long term,Furnished,House of Multiple Occupation,1.0,,0.7,6.620073206530356,1
+N18,750,Long term,Furnished,House Share,1.0,,0.9,6.620073206530356,1
+SE26,750,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.5,6.620073206530356,1
+N17,750,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.5,6.620073206530356,1
+SE16,750,Long term,Furnished,House Share,1.0,,0.6,6.620073206530356,1
+NW4,750,,Furnished,Flat,4.0,,1.1,6.620073206530356,0
+N8,750,Long term,Part furnished,House Share,1.0,,0.4,6.620073206530356,1
+E5,750,Long term,Furnished,House Share,1.0,,0.4,6.620073206530356,1
+N15,3300,Long term,Furnished,Flat,3.0,2.0,0.3,8.101677747454572,0
+NW4,750,,Furnished,Semi-Detached,7.0,4.0,1.0,6.620073206530356,0
+N10,750,,Furnished,House Share,1.0,,0.9,6.620073206530356,1
+SW16,750,Long term,Ask agent,House Share,1.0,,0.6,6.620073206530356,1
+SE10,750,Long term,Furnished,Flat Share,1.0,,0.5,6.620073206530356,1
+SM1,750,Long term,Furnished,House Share,1.0,,0.5,6.620073206530356,1
+SE25,750,Long term,Ask agent,House Share,1.0,,0.4,6.620073206530356,1
+SE18,750,Long term,Part furnished,House Share,1.0,,0.5,6.620073206530356,1
+HA8,750,Long term,Furnished,House Share,1.0,,0.7,6.620073206530356,1
+N9,750,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.8,6.620073206530356,1
+SW19,750,Long term,Furnished,House Share,1.0,,0.2,6.620073206530356,1
+E15,758,Long term,Furnished,House Share,1.0,,0.5,6.630683385642372,1
+E7,758,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.4,6.630683385642372,1
+E7,758,Long term,Furnished,House Share,1.0,,0.6,6.630683385642372,1
+E16,758,Long term,Furnished,House Share,1.0,,0.5,6.630683385642372,1
+E13,758,Long term,Furnished,House Share,1.0,,0.4,6.630683385642372,1
+SW17,760,Long term,Furnished,Flat Share,1.0,,0.5,6.633318433280377,1
+N22,765,Long term,Furnished,House Share,1.0,,0.7,6.639875833826536,1
+W5,775,Long term,Furnished,Flat Share,1.0,,0.5,6.652863029353347,1
+SW16,1950,Long term,Unfurnished,Terraced,2.0,1.0,0.5,7.575584651557793,0
+SE20,775,Long term,Furnished,Flat Share,1.0,,0.4,6.652863029353347,1
+UB5,775,Long term,Furnished,Flat Share,1.0,,1.5,6.652863029353347,1
+SE25,775,Long term,Furnished,House Share,1.0,,0.5,6.652863029353347,1
+SW19,775,Long term,Furnished,House Share,1.0,,0.5,6.652863029353347,1
+SE16,777,Long term,Furnished,House Share,1.0,,0.5,6.655440350367647,1
+E14,780,Long term,Furnished,House Share,1.0,,0.3,6.659293919683638,1
+W4,780,Long term,Furnished,House Share,1.0,,0.5,6.659293919683638,1
+SE23,780,Long term,Furnished,House Share,1.0,,0.6,6.659293919683638,1
+E14,780,Long term,Furnished,House Share,1.0,,0.4,6.659293919683638,1
+SE18,780,Long term,Furnished,House Share,1.0,,0.6,6.659293919683638,1
+HA8,780,Long term,Furnished,House Share,1.0,,0.7,6.659293919683638,1
+E14,780,Long term,Part furnished,Flat Share,1.0,,0.3,6.659293919683638,1
+E14,780,Long term,Furnished,House Share,1.0,,0.4,6.659293919683638,1
+E13,780,Long term,Furnished,House Share,1.0,,0.6,6.659293919683638,1
+NW10,780,Long term,Furnished,House Share,1.0,,0.6,6.659293919683638,1
+HA8,785,Long term,Furnished,Flat Share,1.0,,0.6,6.665683717782408,1
+SE27,795,Long term,Furnished,House Share,1.0,,0.5,6.678342114654332,1
+HA3,2200,Long term,Part furnished,Flat,2.0,2.0,0.9,7.696212639346407,0
+NW2,795,Long term,Furnished,Flat Share,1.0,,0.7,6.678342114654332,1
+TW3,795,Long term,Furnished,House Share,1.0,,0.4,6.678342114654332,1
+SW9,795,Long term,Furnished,Flat Share,1.0,,0.6,6.678342114654332,1
+SW19,795,Long term,Furnished,Flat Share,1.0,,0.8,6.678342114654332,1
+N19,795,Long term,Furnished,House Share,1.0,,0.4,6.678342114654332,1
+SW19,799,Long term,Furnished,House Share,1.0,,0.6,6.683360945766275,1
+E3,800,Long term,Furnished,Flat Share,1.0,,0.3,6.684611727667927,1
+SE6,800,Long term,Furnished,House Share,1.0,,0.4,6.684611727667927,1
+SE12,800,Long term,Unfurnished,House Share,1.0,,0.8,6.684611727667927,1
+N22,800,Long term,Furnished,House Share,1.0,,0.5,6.684611727667927,1
+HA3,800,Long term,Furnished,House Share,1.0,,0.8,6.684611727667927,1
+NW9,800,Long term,Furnished,House Share,1.0,,1.0,6.684611727667927,1
+E10,800,Long term,Furnished,House Share,1.0,,0.7,6.684611727667927,1
+CR4,800,Long term,Furnished,Flat Share,1.0,,0.4,6.684611727667927,1
+NW10,800,Long term,Furnished,House Share,1.0,,0.8,6.684611727667927,1
+BR3,800,Long term,Furnished,House Share,1.0,,0.2,6.684611727667927,1
+SE15,800,Long term,Furnished,House Share,1.0,,0.7,6.684611727667927,1
+SE26,800,Long term,Furnished,House Share,1.0,,0.6,6.684611727667927,1
+HA1,800,Long term,Ask agent,Studio,0.0,,0.6,6.684611727667927,0
+NW2,800,Long term,Furnished,House Share,1.0,,0.8,6.684611727667927,1
+HA7,800,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,,1.4,6.684611727667927,0
+SM4,800,Long term,Furnished,House Share,1.0,,1.1,6.684611727667927,1
+SE6,800,Long term,Furnished,House Share,1.0,,0.6,6.684611727667927,1
+SE1,800,Long term,Unfurnished,Flat Share,1.0,,0.8,6.684611727667927,1
+SW19,800,Long term,Furnished,House Share,1.0,,0.5,6.684611727667927,1
+SW15,7500,Long term,"Furnished or unfurnished, landlord is flexible",Detached,5.0,4.0,1.9,8.922658299524402,0
+CR0,800,Long term,Furnished,House Share,1.0,,0.1,6.684611727667927,1
+E1,800,Long term,Furnished,Flat Share,1.0,,0.3,6.684611727667927,1
+N22,800,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.4,6.684611727667927,1
+KT3,800,Long term,Furnished,House Share,1.0,,0.6,6.684611727667927,1
+N13,800,Long term,Furnished,Studio,0.0,,0.6,6.684611727667927,0
+NW2,800,,Furnished,Flat Share,1.0,,0.8,6.684611727667927,1
+N13,800,Long term,Furnished,House of Multiple Occupation,1.0,,0.6,6.684611727667927,1
+SM4,800,Long term,Furnished,Flat Share,1.0,,0.3,6.684611727667927,1
+SE13,800,Long term,Furnished,House Share,1.0,,0.2,6.684611727667927,1
+SE20,800,Long term,Furnished,Flat Share,1.0,,0.4,6.684611727667927,1
+HA8,800,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.7,6.684611727667927,1
+HA9,800,,Furnished,House Share,1.0,,0.6,6.684611727667927,1
+E1W,800,Long term,Furnished,Flat Share,1.0,,0.5,6.684611727667927,1
+TW3,800,Long term,Furnished,House Share,1.0,,0.4,6.684611727667927,1
+NW6,801,Long term,Furnished,House Share,1.0,,0.3,6.68586094706836,1
+W7,802,Long term,Furnished,House Share,1.0,,0.5,6.687108607866515,1
+E14,802,Long term,Furnished,House Share,1.0,,0.4,6.687108607866515,1
+E2,802,Long term,Furnished,House Share,1.0,,0.2,6.687108607866515,1
+E7,802,Long term,Furnished,House Share,1.0,,0.5,6.687108607866515,1
+N22,802,Long term,Furnished,House Share,1.0,,0.5,6.687108607866515,1
+E14,823,Long term,Furnished,Flat Share,1.0,,0.4,6.71295620067707,1
+E1,823,Long term,Furnished,House Share,1.0,,0.3,6.71295620067707,1
+W12,823,Long term,Furnished,House Share,1.0,,0.5,6.71295620067707,1
+E15,823,Long term,Furnished,House Share,1.0,,0.5,6.71295620067707,1
+SE24,823,Long term,Furnished,House Share,1.0,,0.5,6.71295620067707,1
+N7,823,Long term,Furnished,House Share,1.0,,0.6,6.71295620067707,1
+E3,823,Long term,Furnished,House Share,1.0,,0.3,6.71295620067707,1
+BR3,825,Long term,Unfurnished,House Share,1.0,,0.7,6.715383386334681,1
+CR4,825,Long term,Furnished,House Share,1.0,,0.6,6.715383386334681,1
+E14,3003,Long term,Furnished,Flat,2.0,2.0,0.2,8.00736706798333,0
+HA8,825,Long term,Furnished,House Share,1.0,,0.6,6.715383386334681,1
+CR0,825,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.5,6.715383386334681,1
+W1T,825,Long term,Furnished,House of Multiple Occupation,1.0,,0.2,6.715383386334681,1
+SE16,825,Long term,Furnished,House of Multiple Occupation,1.0,,0.6,6.715383386334681,1
+SE13,830,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.5,6.721425700790643,1
+N5,830,Long term,Furnished,Flat Share,1.0,,0.2,6.721425700790643,1
+SE13,830,Long term,Furnished,House Share,1.0,,0.5,6.721425700790643,1
+NW2,845,Long term,Furnished,House Share,1.0,,0.5,6.739336627357174,1
+E14,845,Long term,Furnished,House Share,1.0,,0.4,6.739336627357174,1
+NW11,845,Long term,Furnished,Flat Share,1.0,,0.7,6.739336627357174,1
+SE13,845,Long term,Furnished,House Share,1.0,,0.2,6.739336627357174,1
+E14,845,Long term,Furnished,House Share,1.0,,0.3,6.739336627357174,1
+KT2,846,,Furnished,House Share,1.0,,0.6,6.740519359606223,1
+UB3,1500,Long term,Furnished,Flat,1.0,1.0,1.5,7.313220387090301,0
+SE11,849,Long term,Furnished,Flat Share,1.0,,0.3,6.744059186311348,1
+N22,849,Long term,Furnished,House Share,1.0,,0.4,6.744059186311348,1
+E1,849,Long term,Furnished,Flat Share,1.0,,0.5,6.744059186311348,1
+W13,850,Long term,Ask agent,House Share,1.0,,0.6,6.745236349484363,1
+HA4,850,Long term,Furnished,House Share,1.0,,0.6,6.745236349484363,1
+CR0,850,Long term,Unfurnished,Terraced,1.0,3.0,0.7,6.745236349484363,0
+CR0,850,Long term,Furnished,House Share,1.0,,0.1,6.745236349484363,1
+UB5,850,Long term,Ask agent,Studio,0.0,1.0,1.2,6.745236349484363,0
+SW17,850,Long term,Furnished,House Share,1.0,,0.5,6.745236349484363,1
+SM5,850,Long term,Furnished,House Share,1.0,,0.7,6.745236349484363,1
+N11,850,,Furnished,Flat,1.0,1.0,0.6,6.745236349484363,0
+SW17,850,Long term,Ask agent,House Share,1.0,,0.5,6.745236349484363,1
+SW9,850,Long term,"Furnished or unfurnished, landlord is flexible",Flat Share,1.0,,0.4,6.745236349484363,1
+SE13,850,Long term,Furnished,House Share,1.0,,0.5,6.745236349484363,1
+NW10,850,Long term,Furnished,House of Multiple Occupation,1.0,,0.5,6.745236349484363,1
+N17,2500,Long term,Furnished,Flat,2.0,2.0,0.4,7.824046010856292,0
+E4,850,Long term,Furnished,House Share,1.0,,1.2,6.745236349484363,1
+KT1,850,Long term,Furnished,Flat Share,1.0,,0.6,6.745236349484363,1
+BR3,850,Long term,Unfurnished,House Share,1.0,,0.7,6.745236349484363,1
+HA9,850,Long term,Furnished,House Share,1.0,,0.6,6.745236349484363,1
+E1W,850,Long term,Furnished,End of Terrace,4.0,,0.3,6.745236349484363,0
+NW4,850,,Furnished,Semi-Detached,7.0,4.0,1.0,6.745236349484363,0
+N22,850,Long term,Part furnished,House Share,1.0,,0.4,6.745236349484363,1
+HA0,850,Long term,Furnished,House Share,1.0,,0.3,6.745236349484363,1
+SE8,850,Long term,Furnished,House Share,1.0,,0.6,6.745236349484363,1
+E3,850,Long term,Furnished,Flat Share,1.0,,0.2,6.745236349484363,1
+E1,850,Long term,Ask agent,House Share,1.0,,0.4,6.745236349484363,1
+SM5,850,Long term,Ask agent,House Share,1.0,,0.8,6.745236349484363,1
+NW4,850,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.8,6.745236349484363,0
+W1H,19933,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,4.0,4.0,0.4,9.900131928722766,0
+HA2,850,Long term,Furnished,House Share,1.0,,0.7,6.745236349484363,1
+SW20,850,Long term,Furnished,Flat Share,1.0,,0.5,6.745236349484363,1
+E6,850,Long term,Furnished,House Share,1.0,,0.8,6.745236349484363,1
+W12,850,Long term,Furnished,House Share,1.0,,0.3,6.745236349484363,1
+TW11,850,Long term,Unfurnished,House Share,1.0,,0.6,6.745236349484363,1
+SE16,850,Long term,Furnished,House Share,1.0,,0.3,6.745236349484363,1
+SE10,850,Long term,Furnished,Flat Share,1.0,,0.5,6.745236349484363,1
+TW3,850,Long term,Furnished,Flat Share,1.0,,0.4,6.745236349484363,1
+CR4,850,Long term,Furnished,House Share,1.0,,0.6,6.745236349484363,1
+E12,850,Long term,Furnished,Flat Share,1.0,,0.5,6.745236349484363,1
+NW9,850,Long term,Furnished,House Share,1.0,,0.7,6.745236349484363,1
+E1W,850,Long term,Furnished,House Share,1.0,,0.4,6.745236349484363,1
+SE20,850,Long term,Unfurnished,House Share,1.0,,0.3,6.745236349484363,1
+NW2,855,Long term,Furnished,House Share,1.0,,0.5,6.75110146893676,1
+SW17,860,Long term,Furnished,House Share,1.0,,0.6,6.756932389247553,1
+W1T,865,,Furnished,House of Multiple Occupation,1.0,,0.2,6.762729506931879,1
+SE23,867,Long term,Furnished,House Share,1.0,,0.6,6.7650389767805414,1
+SE10,867,Long term,Furnished,House Share,1.0,,0.6,6.7650389767805414,1
+SW8,3100,Long term,Furnished,Flat,2.0,2.0,0.3,8.039157390473237,0
+TW8,867,Long term,Furnished,House Share,1.0,,0.5,6.7650389767805414,1
+SE6,867,Long term,Furnished,Studio,0.0,1.0,0.3,6.7650389767805414,0
+E9,867,Long term,Furnished,House Share,1.0,,0.4,6.7650389767805414,1
+UB6,867,Long term,Furnished,House Share,1.0,,0.5,6.7650389767805414,1
+E11,867,Long term,Furnished,House Share,1.0,,0.5,6.7650389767805414,1
+E13,867,Long term,Furnished,House Share,1.0,,0.8,6.7650389767805414,1
+SM4,870,Long term,Furnished,House Share,1.0,,0.6,6.76849321164863,1
+SE1,875,Long term,Furnished,House Share,1.0,,0.6,6.774223886357614,1
+E1W,875,Long term,Ask agent,Flat Share,1.0,,0.5,6.774223886357614,1
+N8,875,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,,0.4,6.774223886357614,0
+E12,875,Long term,Furnished,Flat Share,1.0,,0.4,6.774223886357614,1
+UB5,875,Long term,Furnished,House Share,1.0,,0.9,6.774223886357614,1
+E11,875,Long term,Furnished,Studio,0.0,1.0,0.5,6.774223886357614,0
+E14,875,Long term,Ask agent,House Share,1.0,,0.7,6.774223886357614,1
+UB3,875,Long term,Furnished,House Share,1.0,,1.5,6.774223886357614,1
+SW16,875,Long term,Furnished,Flat Share,1.0,,0.5,6.774223886357614,1
+W9,875,Long term,Furnished,Flat Share,1.0,,0.3,6.774223886357614,1
+HA8,875,Long term,Furnished,House Share,1.0,,0.6,6.774223886357614,1
+HA2,875,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.7,6.774223886357614,1
+SE1,877,Long term,Furnished,House Share,1.0,,0.8,6.776506992372183,1
+SW9,877,Long term,Furnished,House Share,1.0,,0.6,6.776506992372183,1
+E2,888,Long term,Furnished,House Share,1.0,,0.4,6.78897174299217,1
+E14,888,Long term,Furnished,House Share,1.0,,0.4,6.78897174299217,1
+SE6,888,Long term,Furnished,House Share,1.0,,0.6,6.78897174299217,1
+E14,888,Long term,Furnished,House Share,1.0,,0.4,6.78897174299217,1
+W12,888,Long term,Furnished,House Share,1.0,,0.5,6.78897174299217,1
+SE13,888,Long term,Furnished,House Share,1.0,,0.2,6.78897174299217,1
+E3,888,Long term,Furnished,House Share,1.0,,0.6,6.78897174299217,1
+E14,888,Long term,Furnished,House Share,1.0,,0.4,6.78897174299217,1
+E14,888,Long term,Furnished,House Share,1.0,,0.4,6.78897174299217,1
+HA2,890,Long term,Furnished,House Share,1.0,,0.7,6.7912214627261855,1
+SW16,890,Long term,Furnished,House Share,1.0,,0.6,6.7912214627261855,1
+TW7,890,Long term,Furnished,House Share,1.0,,0.4,6.7912214627261855,1
+E14,893,Long term,Part furnished,Flat Share,1.0,,0.3,6.794586580876499,1
+N4,895,Long term,Furnished,House Share,1.0,,0.4,6.796823718274855,1
+TW3,895,Long term,Furnished,House of Multiple Occupation,1.0,,0.4,6.796823718274855,1
+N4,895,Long term,Furnished,Terraced,1.0,1.0,0.4,6.796823718274855,0
+SM4,895,Long term,Furnished,House Share,1.0,,0.3,6.796823718274855,1
+SE15,899,Long term,Furnished,Flat Share,1.0,,0.6,6.80128303447162,1
+E10,900,Long term,"Furnished or unfurnished, landlord is flexible",House of Multiple Occupation,1.0,,0.7,6.802394763324311,1
+SE15,900,Long term,Unfurnished,House Share,1.0,,0.7,6.802394763324311,1
+TW4,900,Long term,Furnished,House Share,1.0,,0.8,6.802394763324311,1
+SE1,900,Long term,Furnished,House Share,1.0,,0.6,6.802394763324311,1
+SE13,900,,Unfurnished,Semi-Detached,1.0,1.0,0.7,6.802394763324311,0
+SE13,900,Long term,Unfurnished,Semi-Detached,1.0,1.0,0.7,6.802394763324311,0
+SE16,900,Long term,Furnished,House Share,1.0,,0.4,6.802394763324311,1
+BR3,900,Long term,Unfurnished,Studio,0.0,1.0,0.4,6.802394763324311,0
+SW2,900,,Ask agent,Flat Share,2.0,,0.9,6.802394763324311,1
+N19,900,Long term,Furnished,Flat Share,1.0,,0.4,6.802394763324311,1
+NW1,10375,Long term,Furnished,Flat,4.0,1.0,0.3,9.247154345098899,0
+TW2,900,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.7,6.802394763324311,1
+SM1,900,Long term,Furnished,House Share,1.0,,0.5,6.802394763324311,1
+E15,900,Long term,Furnished,Flat Share,1.0,,0.6,6.802394763324311,1
+NW10,900,Long term,Unfurnished,Flat Share,1.0,,0.7,6.802394763324311,1
+TW5,900,Long term,Furnished,House Share,1.0,,0.7,6.802394763324311,1
+SE4,900,Long term,Unfurnished,Flat Share,1.0,,0.5,6.802394763324311,1
+N4,900,Long term,Part furnished,House of Multiple Occupation,1.0,,0.4,6.802394763324311,1
+EC1V,900,Long term,Furnished,House Share,1.0,,0.4,6.802394763324311,1
+N19,900,Long term,Furnished,House Share,1.0,,0.4,6.802394763324311,1
+SE26,900,Long term,Furnished,House Share,1.0,,0.6,6.802394763324311,1
+SE25,900,Long term,Furnished,House Share,1.0,,0.5,6.802394763324311,1
+SE8,900,Long term,Furnished,Flat Share,1.0,,0.8,6.802394763324311,1
+SE11,900,Long term,Part furnished,House Share,1.0,,0.5,6.802394763324311,1
+E10,900,Long term,Furnished,House Share,1.0,,0.7,6.802394763324311,1
+SE13,900,,Unfurnished,Semi-Detached,6.0,6.0,0.7,6.802394763324311,0
+E17,900,Long term,Furnished,House Share,1.0,,0.5,6.802394763324311,1
+E17,900,Long term,Furnished,House Share,1.0,,1.0,6.802394763324311,1
+TW3,900,Long term,Furnished,House Share,1.0,,0.4,6.802394763324311,1
+E14,900,Long term,Furnished,House Share,1.0,,0.4,6.802394763324311,1
+SE13,900,,Part furnished,Semi-Detached,1.0,1.0,0.7,6.802394763324311,0
+SM4,900,Long term,Furnished,House Share,1.0,,0.6,6.802394763324311,1
+N18,900,Long term,Furnished,House Share,1.0,,0.9,6.802394763324311,1
+NW9,900,Long term,"Furnished or unfurnished, landlord is flexible",House Share,1.0,,0.6,6.802394763324311,1
+CR0,900,Long term,Furnished,House Share,1.0,,0.2,6.802394763324311,1
+SW7,6478,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.776167099731275,0
+SW5,1100,Long term,Furnished,House Share,1.0,,0.4,7.003065458786462,1
+W8,1105,Long term,Furnished,Studio,0.0,1.0,0.4,7.007600613951853,0
+SW5,1170,,Furnished,Studio,0.0,,0.4,7.064759027791802,0
+W8,1235,Long term,Furnished,Studio,0.0,1.0,0.4,7.118826249062078,0
+SW5,1250,Long term,Furnished,Studio,0.0,1.0,0.3,7.1308988302963465,0
+SW5,1300,Long term,Furnished,Studio,0.0,1.0,0.3,7.170119543449628,0
+SW5,1300,Long term,Furnished,Studio,0.0,1.0,0.4,7.170119543449628,0
+SW5,1300,,Ask agent,Studio,0.0,1.0,0.4,7.170119543449628,0
+W8,13867,Long term,Ask agent,Flat,2.0,2.0,0.5,9.537267195753865,0
+SW5,1300,Long term,Furnished,Studio,0.0,1.0,0.3,7.170119543449628,0
+SW5,1343,,Furnished,Studio,0.0,1.0,0.3,7.202661196523238,0
+W8,1409,Long term,Part furnished,Studio,0.0,1.0,0.5,7.25063551189868,0
+W14,1430,Long term,Furnished,Studio,0.0,,0.3,7.265429723253953,0
+SW5,1430,Long term,Furnished,Studio,0.0,1.0,0.4,7.265429723253953,0
+W8,1452,Long term,Furnished,Studio,0.0,1.0,0.3,7.280697195384741,0
+SW5,1473,Long term,Furnished,Studio,0.0,1.0,0.4,7.29505641646263,0
+W8,1473,,Furnished,Studio,0.0,,0.4,7.29505641646263,0
+SW7,1473,,Furnished,Studio,0.0,,0.4,7.29505641646263,0
+SW7,3250,Long term,Furnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW5,1517,Long term,Furnished,Studio,0.0,1.0,0.4,7.324489979348532,0
+W8,1517,Long term,Furnished,Studio,0.0,1.0,0.3,7.324489979348532,0
+W14,1517,Long term,Furnished,Studio,0.0,1.0,0.4,7.324489979348532,0
+SW7,1517,Long term,Part furnished,Studio,0.0,1.0,0.4,7.324489979348532,0
+SW5,1517,Long term,Furnished,Studio,0.0,1.0,0.4,7.324489979348532,0
+SW5,1517,,Furnished,Studio,0.0,1.0,0.3,7.324489979348532,0
+SW7,4250,Long term,Furnished,Flat,1.0,1.0,0.3,8.354674261918463,0
+W8,1582,Long term,Furnished,Studio,0.0,1.0,0.4,7.366445148327599,0
+W8,1582,Long term,Furnished,Studio,0.0,1.0,0.5,7.366445148327599,0
+SW5,1582,Long term,Furnished,Flat,1.0,1.0,0.3,7.366445148327599,0
+SW5,1600,Long term,Furnished,Studio,0.0,1.0,0.3,7.3777589082278725,0
+W8,1603,,Furnished,Studio,0.0,1.0,0.4,7.3796321526095525,0
+SW5,1625,Long term,Furnished,Studio,0.0,1.0,0.4,7.393263094763838,0
+SW7,1625,,Furnished,Studio,0.0,1.0,0.4,7.393263094763838,0
+SW5,1625,Long term,Furnished,Flat,1.0,1.0,0.4,7.393263094763838,0
+SW5,1625,Long term,Furnished,Studio,0.0,1.0,0.4,7.393263094763838,0
+W8,1625,Long term,Furnished,Studio,0.0,1.0,0.5,7.393263094763838,0
+SW7,11917,Long term,Furnished,Flat,2.0,2.0,0.5,9.385721231090805,0
+W8,1647,Long term,Part furnished,Studio,0.0,1.0,0.5,7.4067107301776405,0
+SW5,1647,Long term,Furnished,Studio,0.0,1.0,0.3,7.4067107301776405,0
+W8,1660,Long term,Part furnished,Studio,0.0,1.0,0.3,7.414572881350589,0
+W14,1690,Long term,Furnished,Studio,0.0,1.0,0.4,7.432483807917119,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1699,Long term,Furnished,Studio,0.0,1.0,0.3,7.4377951216719325,0
+SW5,1712,Long term,Furnished,Studio,0.0,1.0,0.3,7.445417556701687,0
+SW5,1712,Long term,Furnished,Studio,0.0,1.0,0.4,7.445417556701687,0
+SW7,10833,Long term,"Furnished or unfurnished, landlord is flexible",Terraced,4.0,3.0,0.5,9.290352309945568,0
+SW7,1712,Long term,Furnished,Studio,0.0,1.0,0.4,7.445417556701687,0
+SW5,1712,,Furnished,Flat,1.0,1.0,0.3,7.445417556701687,0
+SW5,1712,Long term,Furnished,Studio,0.0,1.0,0.3,7.445417556701687,0
+W14,1730,Long term,Furnished,Flat,1.0,1.0,0.4,7.455876687491824,0
+W14,1750,Long term,Furnished,Studio,0.0,,0.4,7.4673710669175595,0
+SW5,1750,,Furnished,Studio,0.0,1.0,0.3,7.4673710669175595,0
+SW5,1798,Long term,Furnished,Studio,0.0,1.0,0.4,7.494430215031565,0
+W14,1798,Long term,Furnished,Flat,1.0,1.0,0.4,7.494430215031565,0
+W8,8017,Long term,Unfurnished,Flat,3.0,2.0,0.4,8.989319566042951,0
+SW5,1799,Long term,Furnished,Flat,1.0,1.0,0.3,7.4949862339505335,0
+W8,1800,Long term,Furnished,Studio,0.0,1.0,0.4,7.495541943884256,0
+SW5,1820,Long term,Furnished,Studio,0.0,1.0,0.3,7.506591780070841,0
+SW7,1820,,Furnished,Flat,1.0,1.0,0.4,7.506591780070841,0
+W8,1820,,Furnished,Flat,1.0,1.0,0.4,7.506591780070841,0
+SW5,1820,Long term,Furnished,Studio,0.0,1.0,0.4,7.506591780070841,0
+SW5,1842,Long term,Furnished,Studio,0.0,1.0,0.3,7.518607216815252,0
+SW7,1842,Long term,Furnished,Flat,1.0,1.0,0.4,7.518607216815252,0
+SW7,1842,Long term,Part furnished,Studio,0.0,1.0,0.4,7.518607216815252,0
+SW5,1850,Long term,Furnished,Studio,0.0,1.0,0.3,7.52294091807237,0
+SW7,5521,Long term,Furnished,Flat,2.0,2.0,0.3,8.616314282284044,0
+SW5,1863,Long term,Furnished,Studio,0.0,1.0,0.3,7.529943370601589,0
+SW7,1863,,Furnished,Flat,1.0,1.0,0.4,7.529943370601589,0
+SW5,1885,Long term,Furnished,Studio,0.0,1.0,0.4,7.541683099882111,0
+W8,1900,Long term,Furnished,Flat,1.0,1.0,0.4,7.549609165154532,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.4,7.575584651557793,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Studio,0.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.4,7.575584651557793,0
+SW5,1950,Long term,Ask agent,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Part furnished,Flat,1.0,1.0,0.4,7.575584651557793,0
+SW5,1950,Long term,Furnished,Studio,0.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Studio,0.0,1.0,0.3,7.575584651557793,0
+SW7,1950,Long term,Furnished,Studio,0.0,1.0,0.3,7.575584651557793,0
+SW7,1950,Long term,Furnished,Studio,0.0,1.0,0.4,7.575584651557793,0
+W8,4030,,Furnished,Flat,2.0,1.0,0.4,8.301521654940728,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1950,Long term,Furnished,Flat,1.0,1.0,0.3,7.575584651557793,0
+SW5,1993,Long term,Furnished,Studio,0.0,1.0,0.3,7.597396320212795,0
+W14,1993,Long term,Ask agent,Flat,1.0,1.0,0.4,7.597396320212795,0
+SW5,1993,Long term,Part furnished,Flat,1.0,1.0,0.3,7.597396320212795,0
+W14,1993,Long term,Furnished,Flat,1.0,1.0,0.4,7.597396320212795,0
+SW5,1993,Long term,Ask agent,Flat,1.0,1.0,0.4,7.597396320212795,0
+W8,1994,Long term,Furnished,Flat,1.0,1.0,0.4,7.597897950521784,0
+SW7,1994,Long term,Furnished,Studio,0.0,1.0,0.4,7.597897950521784,0
+SW5,1995,Long term,Ask agent,Flat,1.0,1.0,0.3,7.598399329323964,0
+SW5,1998,Long term,Ask agent,Flat,1.0,1.0,0.4,7.599901959208498,0
+SW5,1998,Long term,Furnished,Flat,1.0,,0.3,7.599901959208498,0
+W8,1998,Long term,Ask agent,Flat,1.0,1.0,0.4,7.599901959208498,0
+W14,2000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,7.600902459542082,0
+W8,2000,,Furnished,Studio,0.0,1.0,0.4,7.600902459542082,0
+SW3,9317,Long term,Furnished,Flat,2.0,2.0,0.5,9.139595967450425,0
+SW5,2000,Long term,Furnished,Flat,1.0,1.0,0.3,7.600902459542082,0
+SW5,2002,,Furnished,Flat,1.0,1.0,0.3,7.601901959875166,0
+W8,2002,Long term,Furnished,Studio,0.0,1.0,0.4,7.601901959875166,0
+W8,2050,Long term,Furnished,Studio,0.0,1.0,0.3,7.6255950721324535,0
+W8,2058,Long term,Furnished,Flat,2.0,1.0,0.4,7.629489916393995,0
+W8,2059,Long term,Furnished,Flat,1.0,1.0,0.5,7.629975707027789,0
+SW5,2059,Long term,Furnished,Flat,1.0,1.0,0.3,7.629975707027789,0
+SW7,2059,Long term,Furnished,Studio,0.0,1.0,0.4,7.629975707027789,0
+SW5,2059,Long term,Furnished,Studio,0.0,1.0,0.3,7.629975707027789,0
+SW7,2059,Long term,Furnished,Flat,1.0,1.0,0.4,7.629975707027789,0
+SW5,2059,Long term,Furnished,Studio,0.0,1.0,0.3,7.629975707027789,0
+SW5,2059,Long term,Furnished,Flat,2.0,1.0,0.3,7.629975707027789,0
+SW7,2059,Long term,Furnished,Studio,0.0,1.0,0.4,7.629975707027789,0
+SW5,2080,Long term,Furnished,Studio,0.0,1.0,0.3,7.640123172695364,0
+W8,2080,Long term,Ask agent,Flat,1.0,1.0,0.4,7.640123172695364,0
+SW5,2081,Long term,Furnished,Studio,0.0,1.0,0.3,7.640603826393634,0
+W14,2097,Long term,Furnished,Flat,2.0,1.0,0.4,7.64826303090192,0
+W14,2100,Long term,Furnished,Flat,2.0,1.0,0.4,7.649692623711514,0
+W8,2100,Long term,Furnished,Flat,1.0,1.0,0.4,7.649692623711514,0
+W8,2100,Long term,Furnished,Flat,1.0,1.0,0.3,7.649692623711514,0
+W8,9945,Long term,Furnished,Flat,3.0,3.0,0.4,9.204825191288073,0
+SW7,2102,Long term,Furnished,Flat,1.0,1.0,0.3,7.650644551436897,0
+SW5,2123,,Furnished,Studio,0.0,1.0,0.3,7.660585461703256,0
+SW5,2123,Long term,Furnished,Studio,0.0,1.0,0.3,7.660585461703256,0
+SW5,2145,Long term,Furnished,Studio,0.0,1.0,0.3,7.6708948313621175,0
+SW5,2145,Long term,Furnished,Flat,1.0,1.0,0.3,7.6708948313621175,0
+SW7,2145,Long term,Furnished,Studio,0.0,1.0,0.4,7.6708948313621175,0
+W8,2145,Long term,Part furnished,Flat,1.0,1.0,0.3,7.6708948313621175,0
+SW5,2150,Long term,Furnished,Flat,1.0,1.0,0.3,7.673223121121708,0
+SW5,2167,Long term,Furnished,Flat,1.0,1.0,0.3,7.681099001536359,0
+W8,2167,Long term,Furnished,Studio,0.0,1.0,0.4,7.681099001536359,0
+SW7,2167,Long term,Furnished,Studio,0.0,1.0,0.4,7.681099001536359,0
+SW5,2197,Long term,Furnished,Flat,1.0,1.0,0.3,7.69484807238461,0
+SW5,2197,Long term,Furnished,Flat,1.0,1.0,0.3,7.69484807238461,0
+W14,2200,Long term,Furnished,Studio,0.0,,0.4,7.696212639346407,0
+W8,2200,Long term,Furnished,Flat,1.0,1.0,0.3,7.696212639346407,0
+W8,2210,Long term,Furnished,Studio,0.0,1.0,0.4,7.700747794511798,0
+SW5,2249,Long term,Furnished,Flat,2.0,1.0,0.3,7.718240951959316,0
+SW5,2250,Long term,Furnished,Flat,1.0,1.0,0.3,7.718685495198466,0
+W14,2250,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.718685495198466,0
+W14,2250,Long term,Furnished,Flat,1.0,1.0,0.4,7.718685495198466,0
+W14,2253,Long term,Furnished,Flat,3.0,,0.4,7.720017940432244,0
+W14,2253,Long term,Furnished,Flat,1.0,1.0,0.4,7.720017940432244,0
+SW5,2275,Long term,Furnished,Studio,0.0,1.0,0.4,7.729735331385051,0
+W14,2275,Long term,Furnished,Flat,2.0,1.0,0.4,7.729735331385051,0
+SW5,2275,Long term,Furnished,Flat,1.0,1.0,0.3,7.729735331385051,0
+SW5,2275,Long term,Furnished,Flat,1.0,1.0,0.4,7.729735331385051,0
+SW5,2275,Long term,Furnished,Flat,1.0,1.0,0.4,7.729735331385051,0
+SW5,2275,Long term,Ask agent,Flat,1.0,1.0,0.3,7.729735331385051,0
+SW5,2275,Long term,Furnished,Studio,0.0,1.0,0.4,7.729735331385051,0
+SW7,2275,Long term,Furnished,Flat,1.0,1.0,0.4,7.729735331385051,0
+W8,2275,Long term,Furnished,Studio,0.0,1.0,0.4,7.729735331385051,0
+SW7,2297,Long term,Furnished,Studio,0.0,1.0,0.3,7.739359202689098,0
+SW7,2297,Long term,Furnished,Studio,0.0,1.0,0.3,7.739359202689098,0
+W14,2297,Long term,Furnished,Flat,2.0,1.0,0.4,7.739359202689098,0
+W14,2297,Long term,Furnished,Flat,1.0,1.0,0.4,7.739359202689098,0
+W14,2319,Long term,Part furnished,Flat,2.0,1.0,0.4,7.7488913372555315,0
+SW5,2340,Long term,Furnished,Flat,2.0,1.0,0.3,7.757906208351747,0
+SW7,2349,Long term,Furnished,Flat,1.0,1.0,0.4,7.761744984658913,0
+W8,2362,Long term,Ask agent,Flat,1.0,1.0,0.4,7.767263996757308,0
+SW7,2383,Long term,Furnished,Flat,1.0,1.0,0.3,7.776115477098742,0
+SW7,2383,Long term,Part furnished,Flat,1.0,1.0,0.4,7.776115477098742,0
+W14,2383,Long term,Furnished,Flat,1.0,1.0,0.4,7.776115477098742,0
+W14,2383,Long term,Furnished,Flat,1.0,1.0,0.4,7.776115477098742,0
+W8,52000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,5.0,5.0,0.5,10.858998997563564,0
+W14,2383,Long term,Furnished,Flat,1.0,1.0,0.4,7.776115477098742,0
+SW5,2384,Long term,Furnished,Flat,1.0,1.0,0.3,7.776535028185241,0
+SW5,2384,Long term,Furnished,Flat,1.0,1.0,0.4,7.776535028185241,0
+W14,2390,Long term,Furnished,Flat,1.0,1.0,0.4,7.779048644925556,0
+W8,2400,Long term,Furnished,Flat,2.0,1.0,0.3,7.783224016336037,0
+SW5,2470,Long term,Furnished,Flat,1.0,1.0,0.3,7.8119734296220225,0
+SW5,2470,Long term,Furnished,Flat,1.0,1.0,0.4,7.8119734296220225,0
+SW7,2492,Long term,Furnished,Flat,1.0,1.0,0.3,7.820840879907344,0
+SW7,2492,Long term,Furnished,Flat,1.0,,0.3,7.820840879907344,0
+SW7,2492,Long term,Part furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+SW5,2492,Long term,Furnished,Flat,1.0,1.0,0.3,7.820840879907344,0
+SW7,2492,Long term,Furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+SW7,2492,Long term,Furnished,Flat,1.0,1.0,0.4,7.820840879907344,0
+SW5,2492,Long term,Furnished,Flat,1.0,1.0,0.3,7.820840879907344,0
+SW5,3500,Long term,Furnished,Flat,3.0,2.0,0.3,8.160518247477505,0
+SW5,2496,Long term,Ask agent,Flat,1.0,1.0,0.3,7.822444729489319,0
+SW5,2500,Long term,Part furnished,Flat,1.0,1.0,0.3,7.824046010856292,0
+SW10,2500,Long term,Furnished,Studio,0.0,1.0,0.3,7.824046010856292,0
+SW10,2500,Long term,Furnished,Studio,0.0,1.0,0.3,7.824046010856292,0
+SW5,2500,Long term,Furnished,Flat,2.0,1.0,0.4,7.824046010856292,0
+W14,2500,Long term,Ask agent,Flat,2.0,1.0,0.4,7.824046010856292,0
+SW7,2500,Long term,Furnished,Flat,1.0,1.0,0.3,7.824046010856292,0
+SW7,2578,Long term,Furnished,Studio,0.0,1.0,0.4,7.8547691834991324,0
+W8,2578,Long term,Furnished,Flat,1.0,1.0,0.3,7.8547691834991324,0
+SW5,2578,Long term,Furnished,Studio,0.0,1.0,0.3,7.8547691834991324,0
+SW7,3720,Long term,Furnished,Flat,1.0,1.0,0.5,8.221478947267192,0
+SW5,2578,Long term,Furnished,Flat,1.0,1.0,0.3,7.8547691834991324,0
+SW7,2578,Long term,Furnished,Flat,1.0,1.0,0.4,7.8547691834991324,0
+SW5,2579,Long term,Part furnished,Flat,1.0,1.0,0.4,7.8551570058813445,0
+SW5,2600,Long term,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+W14,2600,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.8632667240095735,0
+W8,2600,Long term,"Furnished or unfurnished, landlord is flexible",Studio,0.0,1.0,0.4,7.8632667240095735,0
+SW10,2600,Long term,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+W8,2600,Long term,Furnished,Flat,1.0,1.0,0.4,7.8632667240095735,0
+W8,2600,Long term,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+SW7,2600,Long term,Furnished,Flat,2.0,2.0,0.4,7.8632667240095735,0
+W8,2600,Long term,Furnished,Flat,1.0,1.0,0.4,7.8632667240095735,0
+SW7,2600,Long term,Furnished,Flat,1.0,1.0,0.5,7.8632667240095735,0
+SW5,2600,Long term,Furnished,Flat,1.0,1.0,0.4,7.8632667240095735,0
+SW5,2600,Long term,Furnished,Flat,1.0,1.0,0.3,7.8632667240095735,0
+SW7,5590,Long term,Part furnished,Duplex,3.0,3.0,0.5,8.628734566149145,0
+SW7,2600,Long term,Furnished,Flat,1.0,1.0,0.4,7.8632667240095735,0
+SW7,2600,Long term,Furnished,Flat,1.0,,0.4,7.8632667240095735,0
+W8,2600,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.8632667240095735,0
+SW10,2650,Long term,Furnished,Studio,0.0,1.0,0.3,7.882314918980268,0
+SW7,2650,Long term,Part furnished,Flat,2.0,1.0,0.3,7.882314918980268,0
+SW7,2665,Long term,Furnished,Flat,1.0,1.0,0.4,7.887959336599945,0
+SW5,2670,Long term,Furnished,Flat,1.0,1.0,0.4,7.8898337513942955,0
+W14,2700,Long term,Furnished,Flat,2.0,2.0,0.4,7.90100705199242,0
+SW5,2700,Long term,Furnished,Flat,2.0,1.0,0.3,7.90100705199242,0
+W8,2700,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,7.90100705199242,0
+W14,2700,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,7.90100705199242,0
+SW5,2700,Long term,Furnished,Flat,2.0,1.0,0.3,7.90100705199242,0
+SW7,2708,Long term,Furnished,Flat,1.0,1.0,0.4,7.903965634032166,0
+SW5,2708,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.3,7.903965634032166,0
+SW7,10400,Long term,Furnished,Flat,1.0,1.0,0.5,9.249561085129464,0
+W8,2708,Long term,Unfurnished,Maisonette,1.0,1.0,0.5,7.903965634032166,0
+W8,2708,Long term,Furnished,Flat,1.0,1.0,0.3,7.903965634032166,0
+W14,2709,Long term,Furnished,Flat,2.0,2.0,0.4,7.904334842085095,0
+SW7,2709,Long term,Furnished,Flat,1.0,1.0,0.3,7.904334842085095,0
+W8,2709,Long term,Furnished,Flat,1.0,1.0,0.3,7.904334842085095,0
+W8,2730,Long term,Furnished,Flat,2.0,1.0,0.3,7.912056888179006,0
+SW5,2747,Long term,Ask agent,Flat,2.0,1.0,0.3,7.918264686095274,0
+W8,2747,Long term,Unfurnished,Terraced,1.0,1.0,0.3,7.918264686095274,0
+W14,2747,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.918264686095274,0
+W14,2750,Long term,Furnished,Flat,2.0,2.0,0.4,7.919356190660617,0
+W8,2750,Long term,Furnished,Flat,1.0,1.0,0.4,7.919356190660617,0
+W14,2750,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.919356190660617,0
+W8,2750,Long term,Furnished,Flat,1.0,1.0,0.4,7.919356190660617,0
+W14,2750,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.919356190660617,0
+W8,2752,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,7.920083199053234,0
+W14,2795,Long term,Furnished,Flat,1.0,1.0,0.4,7.9355873855892,0
+W14,2795,Long term,Furnished,Flat,2.0,2.0,0.4,7.9355873855892,0
+W14,2800,Long term,Furnished,Flat,2.0,1.0,0.4,7.937374696163295,0
+SW10,2817,Long term,Ask agent,Flat,2.0,1.0,0.4,7.943427767876373,0
+SW7,2817,Long term,Furnished,Studio,0.0,1.0,0.5,7.943427767876373,0
+SW5,2817,,Unfurnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+W14,2817,Long term,Unfurnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+SW10,2817,Long term,Furnished,Flat,2.0,1.0,0.4,7.943427767876373,0
+W8,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+W8,2817,Long term,Furnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+SW10,2817,Long term,Unfurnished,Flat,2.0,2.0,0.3,7.943427767876373,0
+SW5,2817,Long term,Furnished,House,2.0,1.0,0.3,7.943427767876373,0
+W8,2817,Long term,Furnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+W8,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+W14,2817,Long term,Furnished,Flat,2.0,2.0,0.4,7.943427767876373,0
+W8,2817,Long term,Furnished,Flat,2.0,1.0,0.4,7.943427767876373,0
+SW5,2817,Long term,Furnished,Flat,2.0,1.0,0.3,7.943427767876373,0
+W14,2817,Long term,Unfurnished,Maisonette,2.0,1.0,0.4,7.943427767876373,0
+SW7,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+W8,2817,Long term,Unfurnished,Flat,2.0,1.0,0.5,7.943427767876373,0
+SW7,2817,Long term,Furnished,Flat,2.0,1.0,0.3,7.943427767876373,0
+W8,2817,Long term,Part furnished,Flat,1.0,1.0,0.4,7.943427767876373,0
+W14,2817,Long term,Furnished,Flat,2.0,2.0,0.4,7.943427767876373,0
+SW5,2817,Long term,Furnished,Flat,1.0,1.0,0.3,7.943427767876373,0
+SW5,2850,Long term,Furnished,Flat,2.0,1.0,0.3,7.955074273262696,0
+SW5,2860,Long term,Furnished,Flat,2.0,1.0,0.4,7.958576903813898,0
+SW5,2860,Long term,Furnished,Flat,2.0,1.0,0.4,7.958576903813898,0
+SW5,2875,Long term,Furnished,Flat,2.0,1.0,0.3,7.963807953231451,0
+SW7,2882,Long term,Furnished,Flat,1.0,1.0,0.5,7.966239776559467,0
+W8,2900,Long term,Furnished,Flat,1.0,1.0,0.4,7.9724660159745655,0
+W8,2900,,Furnished,Flat,2.0,1.0,0.4,7.9724660159745655,0
+W14,2925,Long term,Unfurnished,Flat,2.0,1.0,0.4,7.981049759665957,0
+SW7,2925,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,7.981049759665957,0
+SW7,2925,Long term,Ask agent,Flat,2.0,1.0,0.4,7.981049759665957,0
+W8,2925,Long term,Ask agent,Flat,1.0,2.0,0.4,7.981049759665957,0
+SW5,2925,Long term,Furnished,Flat,2.0,1.0,0.3,7.981049759665957,0
+SW10,2925,Long term,Furnished,Studio,0.0,1.0,0.3,7.981049759665957,0
+SW5,2925,Long term,Furnished,Flat,2.0,2.0,0.4,7.981049759665957,0
+SW7,2925,Long term,Furnished,Flat,2.0,1.0,0.4,7.981049759665957,0
+SW3,2925,Long term,Unfurnished,Flat,1.0,1.0,0.5,7.981049759665957,0
+W14,2925,Long term,Furnished,Flat,2.0,2.0,0.4,7.981049759665957,0
+W14,2925,Long term,Furnished,Ground Flat,1.0,1.0,0.4,7.981049759665957,0
+SW5,2925,Long term,Furnished,Flat,2.0,2.0,0.3,7.981049759665957,0
+W8,2925,Long term,Furnished,Flat,1.0,1.0,0.5,7.981049759665957,0
+SW5,2925,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.981049759665957,0
+W8,2925,Long term,Unfurnished,Flat,2.0,2.0,0.4,7.981049759665957,0
+W8,2947,Long term,Furnished,Flat,1.0,1.0,0.3,7.988542982737695,0
+W8,2947,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.3,7.988542982737695,0
+SW7,2950,Long term,Furnished,Flat,1.0,1.0,0.4,7.989560449333865,0
+W8,2968,Long term,Furnished,Flat,1.0,1.0,0.5,7.995643604287271,0
+W14,2969,Long term,Furnished,Flat,2.0,1.0,0.4,7.99598047476376,0
+SW5,2990,Long term,Furnished,Flat,2.0,,0.3,8.003028666384733,0
+SW7,2990,Long term,Furnished,Flat,2.0,1.0,0.4,8.003028666384733,0
+W8,2990,Long term,Furnished,Flat,2.0,,0.5,8.003028666384733,0
+SW5,2990,,Furnished,Flat,1.0,,0.3,8.003028666384733,0
+W14,2990,Long term,Furnished,Flat,2.0,2.0,0.4,8.003028666384733,0
+SW10,2990,Long term,Furnished,Terraced,1.0,1.0,0.3,8.003028666384733,0
+W8,2999,Long term,Furnished,Flat,2.0,1.0,0.4,8.00603417874901,0
+SW5,2999,Long term,Furnished,Flat,2.0,1.0,0.3,8.00603417874901,0
+SW7,2999,Long term,Furnished,Flat,2.0,1.0,0.4,8.00603417874901,0
+SW7,3000,Long term,Furnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+W14,3000,Long term,Furnished,Flat,3.0,1.0,0.4,8.006367567650246,0
+SW5,3000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.4,8.006367567650246,0
+W14,3000,Long term,Furnished,Flat,2.0,2.0,0.4,8.006367567650246,0
+SW5,3000,,Furnished,Flat,1.0,,0.4,8.006367567650246,0
+W8,3000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.006367567650246,0
+W14,3000,Long term,Furnished,Flat,2.0,1.0,0.4,8.006367567650246,0
+SW7,3012,Long term,Furnished,Studio,0.0,1.0,0.4,8.010359588919783,0
+W8,3012,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.010359588919783,0
+SW5,3012,Long term,Furnished,Flat,2.0,1.0,0.3,8.010359588919783,0
+SW7,3012,Long term,Furnished,Flat,1.0,1.0,0.3,8.010359588919783,0
+W8,3012,Long term,Furnished,Flat,1.0,1.0,0.4,8.010359588919783,0
+SW5,3012,Long term,Furnished,Flat,2.0,1.0,0.3,8.010359588919783,0
+SW5,3012,Long term,Furnished,Flat,2.0,2.0,0.4,8.010359588919783,0
+W14,3012,Long term,Furnished,Flat,1.0,1.0,0.4,8.010359588919783,0
+W14,3012,Long term,Furnished,Flat,1.0,1.0,0.4,8.010359588919783,0
+SW5,3029,Long term,Furnished,Flat,2.0,2.0,0.3,8.015987811027237,0
+W14,3033,Long term,Furnished,Flat,1.0,1.0,0.3,8.017307507688582,0
+SW7,3033,Long term,Furnished,Flat,2.0,1.0,0.3,8.017307507688582,0
+SW7,3033,Long term,Furnished,Flat,2.0,1.0,0.4,8.017307507688582,0
+W14,3033,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.017307507688582,0
+SW7,3033,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.3,8.017307507688582,0
+W8,3033,Long term,Part furnished,Flat,1.0,1.0,0.4,8.017307507688582,0
+W8,3250,Long term,Furnished,Flat,2.0,1.0,0.5,8.086410275323782,0
+W14,3034,Long term,Furnished,Flat,2.0,1.0,0.4,8.017637159908478,0
+SW7,3034,Long term,Furnished,Flat,2.0,1.0,0.4,8.017637159908478,0
+SW7,3034,Long term,Furnished,Flat,2.0,1.0,0.4,8.017637159908478,0
+SW7,3034,Long term,Furnished,Flat,2.0,2.0,0.5,8.017637159908478,0
+SW7,3034,Long term,Part furnished,Flat,2.0,1.0,0.5,8.017637159908478,0
+SW7,3077,Long term,Part furnished,Flat,2.0,1.0,0.4,8.031710375322042,0
+SW5,3090,,Furnished,Flat,1.0,1.0,0.4,8.035926369891792,0
+W8,3098,Long term,Ask agent,Flat,2.0,1.0,0.5,8.038512020976814,0
+SW5,3098,,Furnished,Flat,1.0,1.0,0.4,8.038512020976814,0
+SW5,3100,,Furnished,Flat,2.0,1.0,0.3,8.039157390473237,0
+SW5,3100,Long term,Furnished,Flat,2.0,2.0,0.3,8.039157390473237,0
+SW7,3100,Long term,Furnished,Flat,1.0,1.0,0.6,8.039157390473237,0
+W8,3100,Long term,Part furnished,Flat,2.0,1.0,0.4,8.039157390473237,0
+W8,3100,Long term,Furnished,Flat,2.0,1.0,0.4,8.039157390473237,0
+W8,3120,Long term,Furnished,Flat,1.0,1.0,0.4,8.045588280803528,0
+W8,3142,Long term,Furnished,Flat,2.0,,0.4,8.052614818815567,0
+W8,3142,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.052614818815567,0
+SW7,3142,Long term,Furnished,Flat,2.0,2.0,0.3,8.052614818815567,0
+SW5,3142,,Furnished,Flat,1.0,1.0,0.4,8.052614818815567,0
+SW7,3150,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.5,8.055157731819678,0
+SW5,3181,Long term,Furnished,Town House,2.0,1.0,0.3,8.064950891749143,0
+W8,3185,Long term,Furnished,Flat,1.0,1.0,0.4,8.066207568006265,0
+W8,3185,Long term,Ask agent,Flat,1.0,1.0,0.4,8.066207568006265,0
+SW5,3200,,Furnished,Flat,1.0,1.0,0.3,8.070906088787819,0
+W8,3200,Long term,Furnished,Flat,2.0,1.0,0.2,8.070906088787819,0
+SW5,3200,Long term,Furnished,Flat,2.0,2.0,0.3,8.070906088787819,0
+W14,3207,Long term,Ask agent,Flat,1.0,1.0,0.4,8.073091199693154,0
+W14,3207,Long term,Furnished,Flat,1.0,1.0,0.4,8.073091199693154,0
+SW7,3228,Long term,Furnished,Studio,0.0,1.0,0.4,8.07961802938984,0
+SW5,3250,Long term,Furnished,Flat,2.0,1.0,0.3,8.086410275323782,0
+SW7,3250,Long term,Part furnished,Flat,2.0,1.0,0.4,8.086410275323782,0
+W8,3250,Long term,Ask agent,Flat,2.0,1.0,0.4,8.086410275323782,0
+SW7,3250,Long term,Part furnished,Flat,2.0,1.0,0.4,8.086410275323782,0
+SW7,3250,Long term,Furnished,Flat,2.0,1.0,0.4,8.086410275323782,0
+SW7,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+W14,3250,Long term,Furnished,Flat,1.0,1.0,0.3,8.086410275323782,0
+SW7,3250,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.086410275323782,0
+SW5,3250,Long term,Furnished,Flat,2.0,2.0,0.3,8.086410275323782,0
+W14,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+W8,3250,Long term,Furnished,Flat,1.0,1.0,0.3,8.086410275323782,0
+W11,3250,Long term,Unfurnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW10,3250,Long term,Furnished,Studio,0.0,1.0,0.3,8.086410275323782,0
+SW7,3250,Long term,Furnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW5,3250,Long term,Furnished,Flat,2.0,1.0,0.3,8.086410275323782,0
+W14,3250,Long term,Furnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW5,3250,Long term,Furnished,Flat,2.0,2.0,0.3,8.086410275323782,0
+W8,3250,Long term,Furnished,Maisonette,2.0,2.0,0.4,8.086410275323782,0
+SW7,3250,Long term,Furnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW7,3250,Long term,Furnished,Terraced,1.0,2.0,0.5,8.086410275323782,0
+SW7,3250,Long term,Furnished,Flat,2.0,1.0,0.4,8.086410275323782,0
+W14,3250,Long term,Furnished,Flat,2.0,2.0,0.4,8.086410275323782,0
+SW7,3445,Long term,Furnished,Flat,1.0,1.0,0.4,8.144679183447758,0
+SW5,3250,Long term,Furnished,Flat,2.0,1.0,0.3,8.086410275323782,0
+SW5,3250,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.3,8.086410275323782,0
+W8,3250,Long term,Unfurnished,Flat,2.0,2.0,0.3,8.086410275323782,0
+SW7,3250,Long term,Unfurnished,Flat,1.0,1.0,0.4,8.086410275323782,0
+SW5,3272,Long term,Furnished,Flat,2.0,1.0,0.4,8.093156697722637,0
+SW5,3290,Long term,Furnished,Flat,1.0,1.0,0.3,8.098642843759418,0
+W14,3293,Long term,Furnished,Flat,1.0,1.0,0.4,8.099554282376364,0
+W8,3300,Long term,Furnished,Flat,2.0,2.0,0.4,8.101677747454572,0
+W14,3300,Long term,Furnished,Flat,1.0,1.0,0.4,8.101677747454572,0
+W14,3315,Long term,Part furnished,Flat,1.0,1.0,0.6,8.106212902619962,0
+W14,3358,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.119100837637486,0
+W14,3358,Long term,Furnished,Flat,2.0,2.0,0.4,8.119100837637486,0
+W14,3358,Long term,Furnished,Flat,2.0,1.0,0.4,8.119100837637486,0
+W14,3358,Long term,Furnished,Flat,2.0,1.0,0.4,8.119100837637486,0
+W14,3358,Long term,Furnished,Flat,1.0,1.0,0.4,8.119100837637486,0
+W14,3358,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.119100837637486,0
+W8,3402,,Furnished,Flat,1.0,1.0,0.4,8.132118772955806,0
+SW7,3445,Long term,Furnished,Flat,1.0,2.0,0.3,8.144679183447758,0
+SW5,3445,Long term,Furnished,Flat,2.0,1.0,0.3,8.144679183447758,0
+SW5,3445,Long term,Furnished,Flat,2.0,1.0,0.3,8.144679183447758,0
+W14,3445,Long term,Ask agent,Flat,2.0,2.0,0.4,8.144679183447758,0
+W14,3445,Long term,Furnished,Flat,1.0,2.0,0.4,8.144679183447758,0
+W14,3445,Long term,Furnished,Flat,1.0,1.0,0.4,8.144679183447758,0
+W8,3445,Long term,Furnished,Flat,1.0,2.0,0.4,8.144679183447758,0
+W14,3445,Long term,Furnished,Flat,2.0,2.0,0.4,8.144679183447758,0
+W8,3449,Long term,Furnished,Studio,0.0,1.0,0.5,8.145839612936841,0
+SW7,3450,Long term,Furnished,Flat,2.0,1.0,0.3,8.146129510025405,0
+SW7,3467,Long term,Unfurnished,Flat,2.0,1.0,0.5,8.151044945685024,0
+SW7,3467,Long term,Ask agent,Flat,2.0,2.0,0.4,8.151044945685024,0
+W8,3467,Long term,Furnished,Mews,2.0,2.0,0.5,8.151044945685024,0
+SW7,3467,Long term,Furnished,Flat,2.0,2.0,0.4,8.151044945685024,0
+SW7,3467,Long term,Ask agent,Flat,2.0,1.0,0.4,8.151044945685024,0
+W8,3467,Long term,Furnished,Flat,2.0,2.0,0.4,8.151044945685024,0
+SW5,3490,,Furnished,Flat,1.0,1.0,0.4,8.157657015196472,0
+SW7,3497,Long term,Furnished,Flat,2.0,2.0,0.3,8.159660737063376,0
+SW5,3497,Long term,Furnished,Flat,3.0,2.0,0.3,8.159660737063376,0
+W11,3497,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.159660737063376,0
+SW5,3497,Long term,Unfurnished,Terraced,2.0,2.0,0.3,8.159660737063376,0
+SW5,3500,,Furnished,Flat,1.0,,0.3,8.160518247477505,0
+W8,3500,Long term,Unfurnished,Flat,1.0,1.0,0.5,8.160518247477505,0
+SW7,3500,Long term,Furnished,Flat,1.0,1.0,0.3,8.160518247477505,0
+SW5,3500,Long term,Furnished,Flat,2.0,1.0,0.3,8.160518247477505,0
+W14,3500,Long term,Ask agent,Flat,1.0,1.0,0.4,8.160518247477505,0
+SW7,3500,Long term,Furnished,Flat,2.0,2.0,0.3,8.160518247477505,0
+SW7,3500,Long term,Furnished,Flat,2.0,2.0,0.3,8.160518247477505,0
+SW7,3500,Long term,Unfurnished,Flat,1.0,1.0,0.3,8.160518247477505,0
+SW5,6175,Long term,Part furnished,Flat,3.0,2.0,0.4,8.728264161496178,0
+SW7,3532,Long term,Furnished,Flat,2.0,2.0,0.4,8.16961956172385,0
+W8,3575,Long term,Furnished,Flat,2.0,2.0,0.3,8.181720455128108,0
+W8,3575,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.181720455128108,0
+SW5,3575,Long term,Part furnished,Flat,2.0,2.0,0.3,8.181720455128108,0
+W8,3575,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.181720455128108,0
+W8,3575,Long term,Furnished,Flat,2.0,2.0,0.3,8.181720455128108,0
+W14,3600,Long term,Furnished,Flat,2.0,2.0,0.4,8.1886891244442,0
+SW5,3600,Long term,Unfurnished,Flat,2.0,2.0,0.3,8.1886891244442,0
+SW5,3600,Long term,Furnished,Flat,2.0,1.0,0.3,8.1886891244442,0
+W14,3600,Long term,Furnished,Flat,2.0,1.0,0.4,8.1886891244442,0
+W8,3630,,Furnished,Flat,2.0,1.0,0.4,8.196987927258897,0
+W8,3650,Long term,Furnished,Flat,2.0,2.0,0.4,8.202482446576537,0
+SW7,3662,Long term,Furnished,Flat,2.0,2.0,0.3,8.205764725234456,0
+SW7,3662,Long term,Furnished,Flat,1.0,1.0,0.4,8.205764725234456,0
+SW5,3679,Long term,Furnished,Flat,2.0,2.0,0.3,8.210396255104774,0
+SW5,3683,Long term,Ask agent,Flat,2.0,2.0,0.3,8.211482916445066,0
+SW7,3683,Long term,Furnished,Flat,1.0,1.0,0.5,8.211482916445066,0
+W8,9945,Long term,Furnished,Flat,3.0,3.0,0.4,9.204825191288073,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+SW7,3683,Long term,Furnished,Flat,2.0,2.0,0.3,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,2.0,2.0,0.5,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+SW7,3683,Long term,Ask agent,Flat,2.0,2.0,0.3,8.211482916445066,0
+W8,3683,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.5,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+SW7,3683,Long term,Furnished,Flat,2.0,1.0,0.3,8.211482916445066,0
+W14,3683,Long term,Furnished,Flat,2.0,2.0,0.4,8.211482916445066,0
+W8,3683,Long term,"Furnished or unfurnished, landlord is flexible",Flat,3.0,2.0,0.4,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,2.0,2.0,0.4,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+SW7,3683,Long term,Ask agent,Flat,2.0,1.0,0.4,8.211482916445066,0
+SW5,3683,,Furnished,Flat,2.0,2.0,0.3,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+W8,3683,Long term,Unfurnished,Flat,1.0,2.0,0.4,8.211482916445066,0
+W8,3683,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.211482916445066,0
+W8,3683,Long term,Furnished,Flat,1.0,1.0,0.4,8.211482916445066,0
+W14,3684,Long term,Furnished,Flat,1.0,1.0,0.3,8.211754397375197,0
+SW3,7800,Long term,Furnished,Penthouse,2.0,2.0,0.5,8.961879012677683,0
+SW7,3684,Long term,Unfurnished,Maisonette,2.0,1.0,0.4,8.211754397375197,0
+SW5,3684,Long term,Furnished,Flat,3.0,2.0,0.3,8.211754397375197,0
+W14,3684,Long term,Furnished,Flat,2.0,2.0,0.4,8.211754397375197,0
+SW5,3684,Long term,Furnished,Flat,2.0,2.0,0.3,8.211754397375197,0
+W14,3684,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.211754397375197,0
+W11,3693,,Furnished,Flat,1.0,1.0,0.3,8.214194414852564,0
+W8,3696,Long term,Furnished,Flat,1.0,1.0,0.5,8.215006432761575,0
+W8,3696,Long term,Furnished,Flat,1.0,1.0,0.5,8.215006432761575,0
+W8,3696,Long term,Furnished,Flat,2.0,1.0,0.5,8.215006432761575,0
+SW5,3696,Long term,Furnished,Flat,1.0,1.0,0.4,8.215006432761575,0
+SW5,3696,Long term,Furnished,Flat,1.0,1.0,0.4,8.215006432761575,0
+W8,3700,Long term,Furnished,Flat,2.0,2.0,0.4,8.216088098632316,0
+W14,3720,,Furnished,Flat,1.0,1.0,0.4,8.221478947267192,0
+SW7,3727,Long term,Furnished,Flat,2.0,2.0,0.3,8.223358899479258,0
+W6,3750,Long term,Furnished,Flat,2.0,2.0,1.3,8.229511118964457,0
+W14,3770,Long term,Furnished,Flat,1.0,1.0,0.4,8.234830280442056,0
+SW7,3790,Long term,Furnished,Flat,2.0,2.0,0.3,8.240121298076472,0
+W14,3790,,Furnished,Flat,1.0,1.0,0.4,8.240121298076472,0
+W8,3791,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.240385115516334,0
+W8,3792,Long term,Furnished,Flat,2.0,2.0,0.4,8.240648863374913,0
+SW7,3792,Long term,Furnished,Flat,3.0,2.0,0.4,8.240648863374913,0
+W8,3792,Long term,Furnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.3,8.240648863374913,0
+W8,3792,Long term,Furnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+SW7,3792,Long term,Part furnished,Flat,2.0,2.0,0.3,8.240648863374913,0
+W8,3792,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,Furnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,Furnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,Unfurnished,House,2.0,1.0,0.4,8.240648863374913,0
+SW5,3792,,Furnished,Flat,3.0,2.0,0.4,8.240648863374913,0
+W8,3792,Long term,Furnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,Furnished,Maisonette,2.0,1.0,0.5,8.240648863374913,0
+W8,3792,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,Ask agent,Flat,2.0,1.0,0.4,8.240648863374913,0
+W8,3792,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.3,8.240648863374913,0
+W8,3835,Long term,Furnished,Flat,2.0,2.0,0.3,8.251924713801357,0
+W14,3848,Long term,Furnished,Flat,2.0,1.0,0.4,8.255308811785596,0
+W8,3861,Long term,Ask agent,Flat,2.0,2.0,0.3,8.258681496264236,0
+W14,3878,Long term,Ask agent,Terraced,2.0,1.0,0.4,8.263074835802596,0
+SW7,3879,Long term,Furnished,Flat,2.0,1.0,0.4,8.263332667439967,0
+SW7,3900,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.268731832117737,0
+SW7,3900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,8.268731832117737,0
+W8,3900,Long term,Furnished,Flat,2.0,1.0,0.4,8.268731832117737,0
+SW5,3900,Long term,Furnished,Flat,3.0,1.0,0.3,8.268731832117737,0
+SW7,3900,Long term,Furnished,Flat,1.0,1.0,0.4,8.268731832117737,0
+W14,3900,Long term,Furnished,Flat,2.0,1.0,0.5,8.268731832117737,0
+W8,3900,Long term,Furnished,Flat,2.0,,0.4,8.268731832117737,0
+W8,3900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.268731832117737,0
+W8,3900,,Furnished,Flat,2.0,2.0,0.4,8.268731832117737,0
+SW5,3900,Long term,Furnished,Flat,2.0,1.0,0.3,8.268731832117737,0
+SW7,3900,Long term,Furnished,Flat,2.0,2.0,0.5,8.268731832117737,0
+SW7,3900,,Furnished,Flat,1.0,1.0,0.3,8.268731832117737,0
+W11,3900,Long term,Part furnished,Flat,2.0,1.0,0.4,8.268731832117737,0
+W8,3900,Long term,Furnished,Flat,2.0,1.0,0.5,8.268731832117737,0
+SW7,3900,Long term,Furnished,Flat,3.0,2.0,0.4,8.268731832117737,0
+SW7,3900,Long term,Furnished,Flat,1.0,1.0,0.4,8.268731832117737,0
+SW5,3900,,Furnished,Flat,1.0,1.0,0.3,8.268731832117737,0
+W8,3900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.268731832117737,0
+W8,3900,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.268731832117737,0
+W8,3900,Long term,Furnished,Flat,1.0,1.0,0.4,8.268731832117737,0
+SW7,3943,,Furnished,Studio,0.0,1.0,0.3,8.279697133877628,0
+SW7,3943,Long term,Furnished,Flat,1.0,1.0,0.4,8.279697133877628,0
+SW7,3944,Long term,Furnished,Studio,0.0,1.0,0.3,8.279950715722526,0
+W14,3995,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,8.292798858200374,0
+W14,4000,Long term,Furnished,Flat,2.0,2.0,0.4,8.294049640102028,0
+SW5,4000,,Furnished,Flat,1.0,1.0,0.3,8.294049640102028,0
+W8,4000,Long term,Furnished,Flat,1.0,1.0,0.4,8.294049640102028,0
+SW7,4000,Long term,Unfurnished,Flat,2.0,3.0,0.5,8.294049640102028,0
+W14,4000,Long term,Furnished,Flat,2.0,2.0,0.4,8.294049640102028,0
+SW5,4000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.294049640102028,0
+W8,4000,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.3,8.294049640102028,0
+SW7,4008,Long term,Furnished,Flat,2.0,2.0,0.4,8.2960476427647,0
+W14,4008,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,8.2960476427647,0
+W8,4009,Long term,Unfurnished,Flat,2.0,1.0,0.4,8.296297112642508,0
+SW7,4020,Long term,Furnished,Flat,1.0,1.0,0.5,8.299037181613066,0
+SW7,4025,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.300280189852664,0
+SW7,4047,Long term,Furnished,Flat,1.0,1.0,0.3,8.305731144875866,0
+SW7,4047,Long term,Furnished,Flat,1.0,1.0,0.3,8.305731144875866,0
+SW7,4047,Long term,Ask agent,Flat,1.0,1.0,0.3,8.305731144875866,0
+SW7,4047,Long term,Furnished,Flat,1.0,1.0,0.3,8.305731144875866,0
+SW7,4048,Long term,Furnished,Flat,1.0,1.0,0.3,8.305978210967302,0
+SW7,4052,,Furnished,Flat,2.0,2.0,0.3,8.306965865368573,0
+SW7,4095,Long term,Furnished,Flat,1.0,1.0,0.3,8.31752199628717,0
+SW7,4095,Long term,Furnished,Terraced,1.0,,0.3,8.31752199628717,0
+SW7,4095,Long term,Furnished,Flat,1.0,1.0,0.4,8.31752199628717,0
+SW7,28167,Long term,Unfurnished,Flat,3.0,3.0,0.5,10.245906358926657,0
+W8,4116,Long term,Furnished,Flat,2.0,1.0,0.4,8.32263709695394,0
+SW7,4117,Long term,Furnished,Flat,1.0,2.0,0.4,8.322880021769905,0
+W8,4117,Long term,Furnished,Flat,2.0,1.0,0.4,8.322880021769905,0
+SW1X,4117,Long term,Furnished,Flat,2.0,2.0,0.4,8.322880021769905,0
+SW5,4117,Long term,Furnished,Flat,3.0,3.0,0.4,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4117,Long term,Ask agent,Flat,2.0,1.0,0.4,8.322880021769905,0
+SW5,4117,Long term,Furnished,Flat,2.0,1.0,0.3,8.322880021769905,0
+SW7,4117,Long term,Furnished,Flat,2.0,2.0,0.4,8.322880021769905,0
+SW5,4117,Long term,Unfurnished,Flat,3.0,2.0,0.3,8.322880021769905,0
+SW5,4117,Long term,"Furnished or unfurnished, landlord is flexible",Maisonette,2.0,2.0,0.3,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.5,8.322880021769905,0
+W8,4117,Long term,Furnished,Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4117,Long term,Ask agent,Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.322880021769905,0
+SW7,4117,Long term,Furnished,Flat,2.0,2.0,0.4,8.322880021769905,0
+W8,4117,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.322880021769905,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Terraced,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,Ask agent,Flat,2.0,2.0,0.3,8.333270353255308,0
+W8,4160,Long term,Ask agent,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Ask agent,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Ask agent,Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+W8,4160,Long term,Furnished,Flat,2.0,2.0,0.4,8.333270353255308,0
+SW7,4199,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.342601680684194,0
+SW7,4200,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.34283980427146,0
+SW5,4225,Long term,Unfurnished,Flat,2.0,2.0,0.4,8.348774539791274,0
+SW7,4225,Long term,"Furnished or unfurnished, landlord is flexible",Flat,1.0,1.0,0.4,8.348774539791274,0
+W14,4225,Long term,Furnished,Flat,2.0,2.0,0.4,8.348774539791274,0
+SW7,4225,Long term,Furnished,Flat,1.0,1.0,0.4,8.348774539791274,0
+SW7,4225,Long term,Furnished,Flat,1.0,1.0,0.4,8.348774539791274,0
+W8,4225,Long term,"Furnished or unfurnished, landlord is flexible",Flat,2.0,1.0,0.4,8.348774539791274,0
+SW7,4225,Long term,Furnished,Flat,1.0,1.0,0.5,8.348774539791274,0
+SW7,4247,Long term,Furnished,Flat,2.0,1.0,0.3,8.353968130313271,0
+SW7,8000,Long term,Part furnished,Flat,2.0,2.0,0.5,8.987196820661973,0
+SW7,4250,Long term,Furnished,Flat,2.0,2.0,0.4,8.354674261918463,0
+SW5,4250,Long term,Furnished,Flat,3.0,2.0,0.3,8.354674261918463,0
+SW7,4250,Long term,Part furnished,Flat,2.0,1.0,0.3,8.354674261918463,0
+SW7,4250,Long term,Unfurnished,Flat,2.0,2.0,0.3,8.354674261918463,0
+SW7,4250,Long term,Unfurnished,Flat,3.0,1.0,0.4,8.354674261918463,0
+SW7,4251,Long term,Unfurnished,Flat,2.0,2.0,0.3,8.35490952835879,0
+SW7,4275,Long term,Furnished,Flat,2.0,2.0,0.6,8.360539381370861,0
+SW7,4299,Long term,Furnished,Flat,3.0,2.0,0.4,8.366137716496281,0
+W14,4299,Long term,Furnished,Flat,2.0,2.0,0.4,8.366137716496281,0
+W14,4300,Long term,Ask agent,Flat,2.0,2.0,0.4,8.366370301681654,0
+SW7,4300,Long term,Furnished,Flat,3.0,3.0,0.4,8.366370301681654,0
+W14,4312,Long term,Furnished,Flat,2.0,2.0,0.4,8.369157112588834,0
+W8,4312,Long term,Furnished,Flat,2.0,2.0,0.5,8.369157112588834,0
+SW7,4312,Long term,Furnished,Flat,1.0,1.0,0.5,8.369157112588834,0
+SW3,4312,,Furnished,Flat,2.0,1.0,0.4,8.369157112588834,0
+SW7,4312,Long term,Furnished,Flat,2.0,2.0,0.4,8.369157112588834,0
+SW5,4312,Long term,Furnished,Flat,2.0,2.0,0.3,8.369157112588834,0
+W8,4312,Long term,Furnished,Flat,2.0,2.0,0.5,8.369157112588834,0
+W8,4333,Long term,Furnished,Flat,2.0,1.0,0.3,8.374015421739909,0
+W14,4333,Long term,Ask agent,Flat,2.0,2.0,0.4,8.374015421739909,0

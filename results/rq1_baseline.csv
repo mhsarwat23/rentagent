@@ -1,0 +1,3 @@
+model,r2,mae,rmse,mape
+Linear regression,0.7921,560,1284,19.9
+XGBoost,0.8225,538,1164,18.3

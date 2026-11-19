@@ -25,15 +25,33 @@ Week 7. Chapters 1 to 3 submitted. Implementation in progress.
 
 | Component | State |
 |---|---|
-| Data cleaning pipeline | Complete — 3,478 raw to 2,439 usable listings |
+| Data cleaning pipeline | Complete — 3,478 raw to 2,400 Greater London listings |
+| District to BRMA mapping | Complete — modal assignment with confidence score |
+| District spatial features | Complete — centroids and distance from Charing Cross |
+| Price Prediction model (RQ1) | Baseline complete; ablation studies in progress |
 | Profile agent | Complete — bedroom standard and sanitisation boundary |
 | Affordability agent | Complete — LHA and market rate benchmarking |
-| Price Prediction agent | Pending dataset confirmation |
+| Council tax integration | Not started |
 | Alternatives agent | Not started |
 | Rights agent (RAG) | Not started |
 | Orchestrator | Not started |
 | Single-agent baseline | Not started |
 | Streamlit interface | Not started |
+| Synthetic personas | Not started |
+
+## RQ1: rent prediction
+
+Trained on 2,400 Greater London listings with continuous spatial features
+rather than categorical district labels, enabling generalisation across
+districts with few observations.
+
+| Model | R² | MAE | RMSE | MAPE |
+|---|---|---|---|---|
+| Linear regression | 0.7921 | £560 | £1,284 | 19.9% |
+| XGBoost | **0.8225** | **£538** | **£1,164** | **18.3%** |
+
+Comparable to Zhang et al. (2026), who report R² 0.79 on the Dublin rental
+market using approximately 5,000 observations.
 
 ## The sanitisation boundary
 
@@ -51,10 +69,14 @@ across matched personas despite the boundary.
 
 ```
 data/raw/          source datasets (gitignored; see data/raw/README.md)
-data/processed/    cleaned outputs (gitignored)
-notebooks/         exploratory analysis and cleaning pipeline
+data/processed/    derived lookups and cleaned listings
+notebooks/
+  01_data_inventory      profiling of all source datasets
+  02_data_cleaning       raw listings to 2,400 usable records
+  03_brma_lookup         postcode district to Broad Rental Market Area
+  04_spatial_features    district centroids and distance to centre
+  05_rent_model          RQ1 prediction model and baseline
 src/agents/        agent implementations
-src/models/        prediction model
 results/           evaluation outputs
 docs/              supervision log and viva preparation notes
 ```

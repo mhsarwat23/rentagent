@@ -6,7 +6,7 @@ All files gitignored. Download to reproduce.
 
 
 
-\## 1. ONS — Private rental market in London, April 2025 to March 2026
+## 1. ONS — Private rental market in London, April 2025 to March 2026
 
 File: londonrentalstatsaccessibleq12026.xlsx
 
@@ -24,7 +24,7 @@ Downloaded: 08-10-2026
 
 
 
-\## 2. ONS — Price Index of Private Rents, UK
+## 2. ONS — Price Index of Private Rents, UK
 
 File: priceindexofprivaterentsukmonthlypricestatistics.xlsx
 
@@ -44,7 +44,7 @@ Downloaded: 08-10-2026
 
 
 
-\## 3. Kaggle — London property rental
+## 3. Kaggle — London property rental
 
 File: rent\_ads\_rightmove\_extended.csv
 
@@ -62,7 +62,7 @@ Downloaded: 08-10-2026
 
 
 
-\## 4. DWP — Local Housing Allowance rates, April 2026 to March 2027
+## 4. DWP — Local Housing Allowance rates, April 2026 to March 2027
 
 Files: 2026-27\_LHA\_TABLES.xlsx ; england-rates-2026-to-2027.csv
 
@@ -90,7 +90,7 @@ Downloaded: 09-11-2026
 
 
 
-\## 5. Urban Big Data Centre — Postcode to BRMA lookup v2.2
+## 5. Urban Big Data Centre — Postcode to BRMA lookup v2.2
 
 File: pcode\_brma\_lookup\_v2.2.csv (127 MB)
 
@@ -110,7 +110,7 @@ Downloaded: 09-11-2026
 
 
 
-\## 6. London Datastore / VOA — Average Private Rents by Borough
+## 6. London Datastore / VOA — Average Private Rents by Borough
 
 File: voa-average-rent-borough.xls
 
@@ -124,7 +124,7 @@ Downloaded: 08-10-2026
 
 
 
-\## 7. ONS Postcode Directory
+## 7. ONS Postcode Directory
 
 URL: https://geoportal.statistics.gov.uk (search ONSPD)
 
@@ -134,3 +134,47 @@ Use: spatial feature engineering
 
 Downloaded: 08-10-2026
 
+
+
+## 8. ONS Postcode Directory for London
+File: london_postcodes-ons-postcodes-directory-feb22.csv
+URL: https://data.london.gov.uk/dataset/postcode-directory-for-london-exp5p
+Licence: Open Government Licence v3.0
+Release: February 2022 (latest London-specific release available; the full UK
+         directory is issued quarterly and is current to August 2026)
+Content: 326,214 London postcodes, 50 columns
+Columns used: pcds, oseast1m, osnrth1m, oslaua
+Use: district centroids and distance from central London for spatial features;
+     Local Authority District codes for the council tax join
+Note: contains Royal Mail, Gridlink, Ordnance Survey and ONS Intellectual
+      Property Rights
+Downloaded: 19 November 2026
+
+## 9. DWP Local Housing Allowance rates, April 2026 to March 2027
+File: 2026-27_LHA_TABLES.xlsx ; england-rates-2026-to-2027.csv
+URL: https://www.gov.uk/government/publications/
+     local-housing-allowance-lha-rates-applicable-from-april-2026-to-march-2027
+Licence: Open Government Licence
+Content: 152 Broad Rental Market Areas, categories A to E (shared, 1-4 bed)
+  Table 1 = LHA rates April 2024
+  Table 2 = 30th percentile of market rents
+  Table 3 = maximum LHA caps
+  Table 4 = LHA rates April 2026 (identical to Table 1; rates frozen since 2024)
+Rates are weekly; the CSV variant gives monthly Universal Credit conversions
+Encoding: the CSV is latin-1, not UTF-8
+Downloaded: 9 November 2026
+
+
+
+---
+
+## Derived files
+
+These are produced from the sources above and committed to the repository, since
+they are small and the agents depend on them at runtime.
+
+| File | Produced by | Content |
+|---|---|---|
+| data/processed/district_brma.csv | notebooks/03_brma_lookup.ipynb | 2,322 districts mapped to BRMAs by modal assignment, with modal share |
+| data/processed/district_spatial.csv | notebooks/04_spatial_features.ipynb | 329 London districts with centroid, distance from Charing Cross, and LAD code |
+| data/processed/listings_clean.csv | notebooks/02_data_cleaning.ipynb | 2,400 cleaned London listings |

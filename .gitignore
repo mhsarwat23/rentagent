@@ -20,3 +20,5 @@ chroma_db/
 !data/processed/district_spatial.csv
 
 !data/processed/listings_clean.csv
+
+!data/processed/act_chunks.json

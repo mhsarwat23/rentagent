@@ -154,29 +154,29 @@ def assess_affordability(constraints, rent):
         'benchmark_available': True,
     }
 
-lha, market = load_lha_rates()
-print("Central London 2-bed LHA weekly:", lha.loc['Central London', 'CAT C'])
-print("Central London 2-bed 30th pct:  ", market.loc['Central London', 'CAT C'])
-print("Monthly equivalents:",
-      round(weekly_to_monthly(lha.loc['Central London', 'CAT C'])),
-      round(weekly_to_monthly(market.loc['Central London', 'CAT C'])))
-# Test: couple with two young children, 2-bed entitlement, £2,200 budget
-constraints = {
-    'occupants': 4,
-    'min_bedrooms': 2,
-    'preferred_bedrooms': 3,
-    'budget_max': 2200,
-    'area': 'SE13',
-    'property_type': 'Flat',
-}
+if __name__ == '__main__':
+    lha, market = load_lha_rates()
+    print("Central London 2-bed LHA weekly:", lha.loc['Central London', 'CAT C'])
+    print("Central London 2-bed 30th pct:  ", market.loc['Central London', 'CAT C'])
+    print("Monthly equivalents:", round(weekly_to_monthly(lha.loc['Central London', 'CAT C'])), round(weekly_to_monthly(market.loc['Central London', 'CAT C'])))
+    # Test: couple with two young children, 2-bed entitlement, £2,200 budget
+    constraints = {
+        'occupants': 4,
+        'min_bedrooms': 2,
+        'preferred_bedrooms': 3,
+        'budget_max': 2200,
+        'area': 'SE13',
+        'property_type': 'Flat',
+    }
 
-print()
-print(assess_affordability(constraints, rent=2400))
+    print()
+    print(assess_affordability(constraints, rent=2400))
 
-print(brma_for_district('SE13'))
-print(brma_for_district('N4'))
-print(brma_for_district('ZZ99'))
+    print(brma_for_district('SE13'))
+    print(brma_for_district('N4'))
+    print(brma_for_district('ZZ99'))
 
-print(council_tax_for_district('SE13'))   # Lewisham
-print(council_tax_for_district('SW18'))   # Wandsworth
-print(council_tax_for_district('KT1'))    # Kingston
+    print(council_tax_for_district('SE13'))   # Lewisham
+    print(council_tax_for_district('SW18'))   # Wandsworth
+    print(council_tax_for_district('KT1'))    # Kingston
+

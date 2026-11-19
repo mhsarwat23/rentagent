@@ -1,0 +1,4 @@
+variant,r2,mae,mape
+Full cleaning (as applied),0.8225,538,18.3
+Without is_shared indicator,0.8213,534,18.3
+Bathrooms imputed rather than masked,0.8146,566,18.8

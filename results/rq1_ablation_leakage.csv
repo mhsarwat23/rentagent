@@ -1,0 +1,3 @@
+variant,r2,mae,mape
+Deposit excluded (as used),0.8225,538,18.3
+Deposit retained (leakage),0.9266,305,9.7

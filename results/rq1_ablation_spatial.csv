@@ -1,0 +1,7 @@
+representation,regime,n,r2,mae,mape
+Continuous,overall,480,0.8225,538,18.3
+Continuous,head,175,0.7657,543,16.7
+Continuous,tail,57,0.8345,694,21.9
+Categorical,overall,480,0.8172,542,18.4
+Categorical,head,175,0.742,581,17.3
+Categorical,tail,57,0.8288,721,22.0

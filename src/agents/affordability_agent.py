@@ -55,6 +55,39 @@ def load_district_brma():
 
 DISTRICT_BRMA = load_district_brma()
 
+def load_council_tax():
+    """
+    Load council tax by London borough, Band D including precepts.
+
+    Band D is the statutory reference band. The listings do not record a
+    property's band, so a band-specific figure cannot be derived without
+    further assumption.
+    """
+    path = PROJECT_ROOT / 'data' / 'processed' / 'council_tax.csv'
+    return pd.read_csv(path).set_index('lad_code')
+
+
+def load_district_lad():
+    """Map postcode district to Local Authority District code."""
+    path = PROJECT_ROOT / 'data' / 'processed' / 'district_spatial.csv'
+    return pd.read_csv(path).set_index('district')['lad_code']
+
+
+COUNCIL_TAX = load_council_tax()
+DISTRICT_LAD = load_district_lad()
+
+
+def council_tax_for_district(district):
+    """
+    Monthly council tax for a district, or None if the borough is not covered.
+    """
+    lad = DISTRICT_LAD.get(district)
+    if lad is None or lad not in COUNCIL_TAX.index:
+        return None, None
+
+    row = COUNCIL_TAX.loc[lad]
+    return float(row['band_d_monthly']), row['authority']
+
 def brma_for_district(district):
     """
     Find the BRMA covering a postcode district.
@@ -102,10 +135,16 @@ def assess_affordability(constraints, rent):
     lha_monthly = weekly_to_monthly(LHA_RATES.loc[brma, category])
     market_monthly = weekly_to_monthly(MARKET_30TH.loc[brma, category])
 
+    ct_monthly, borough = council_tax_for_district(constraints['area'])
+    total_monthly = rent + (ct_monthly or 0)
+
     return {
         'rent': rent,
+        'council_tax': ct_monthly,
+        'borough': borough,
+        'total_monthly': round(total_monthly, 2),
         'budget_max': constraints['budget_max'],
-        'within_budget': bool(rent <= constraints['budget_max']),
+        'within_budget': bool(total_monthly <= constraints['budget_max']),
         'brma': brma,
         'brma_confidence': round(confidence, 3),
         'lha_benchmark': round(lha_monthly),
@@ -137,3 +176,7 @@ print(assess_affordability(constraints, rent=2400))
 print(brma_for_district('SE13'))
 print(brma_for_district('N4'))
 print(brma_for_district('ZZ99'))
+
+print(council_tax_for_district('SE13'))   # Lewisham
+print(council_tax_for_district('SW18'))   # Wandsworth
+print(council_tax_for_district('KT1'))    # Kingston

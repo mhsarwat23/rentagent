@@ -50,6 +50,7 @@ rather than categorical district labels.
 |---|---|---|---|---|
 | Linear regression | 0.7921 | £560 | £1,284 | 19.9% |
 | XGBoost | **0.8225** | **£538** | **£1,164** | **18.3%** |
+
 Comparable to Zhang et al. (2026), who report R² 0.79 on the Dublin rental market using approximately 5,000 observations.
 
 ### Ablation studies

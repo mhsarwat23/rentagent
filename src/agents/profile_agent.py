@@ -89,11 +89,13 @@ def build_constraints(household):
     preferred = max(household.get('preferred_bedrooms', min_bedrooms), min_bedrooms)
 
     return {
-        'occupants': occupants,
-        'min_bedrooms': min_bedrooms,
-        'preferred_bedrooms': preferred,
-        'budget_max': household['budget_max'],
-        'area': household['area'],
-        'property_type': household['property_type'],
+        'constraints': {
+            'occupants': occupants,
+            'min_bedrooms': min_bedrooms,
+            'preferred_bedrooms': preferred,
+            'budget_max': household['budget_max'],
+            'area': household['area'],
+            'property_type': household['property_type'],
+        },
         'notices': notices,
     }

@@ -33,11 +33,14 @@ def recommend(household, rent, rights_question=None):
     """
     trace = []
 
-    # 1. Sanitisation boundary: composition in, constraints out
-    constraints = build_constraints(household)
+    # 1. Sanitisation boundary: composition in, constraints out.
+    # Notices are returned separately so they do not cross to downstream agents.
+    profile = build_constraints(household)
+    constraints = profile['constraints']
+    notices = profile['notices']
     trace.append('profile')
 
-        # 2. Expected rent for a property of this specification in this area
+    # 2. Expected rent for a property of this specification in this area
     expected = predict_rent(
         district=constraints['area'],
         bedrooms=constraints['preferred_bedrooms'],
@@ -50,6 +53,7 @@ def recommend(household, rent, rights_question=None):
 
     result = {
         'constraints': constraints,
+        'notices': notices,
         'expected_rent': round(expected) if expected else None,
         'asking_vs_expected': round(rent - expected) if expected else None,
         'affordability': affordability,
@@ -71,7 +75,42 @@ def recommend(household, rent, rights_question=None):
 
     return result
 
+def test_no_composition_leaks():
+    """
+    Verify that no household composition attribute appears in anything
+    passed beyond the Profile agent.
+    """
+    household = {
+            'adult_couples': 1,
+            'single_adults': 0,
+            'children': [
+                {'age': 6, 'sex': 'M'},
+                {'age': 8, 'sex': 'F'},
+                {'age': 12, 'sex': 'M'},
+                {'age': 16, 'sex': 'F'},
+            ],
+            'budget_max': 2200,
+            'area': 'SE13',
+            'property_type': 'Flat',
+            'preferred_bedrooms': 3,
+        }
+    c = build_constraints(household)['constraints']
+
+    forbidden = {'children', 'adult_couples', 'single_adults', 'age', 'sex'}
+    present = forbidden & set(c.keys())
+    assert not present, f"Composition leaked: {present}"
+
+    # Composition may leak through values as well as keys
+    text = ' '.join(str(v) for v in c.values()).lower()
+    leaky_terms = ['child', 'children', 'aged 16', 'adult', 'couple']
+    found = [t for t in leaky_terms if t in text]
+    assert not found, f"Composition leaked through values: {found}"
+
+    print("Sanitisation boundary: no composition keys in constraint object")
+
 if __name__ == '__main__':
+    test_no_composition_leaks()
+    
     household = {
         'adult_couples': 1,
         'single_adults': 0,

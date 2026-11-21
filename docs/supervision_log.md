@@ -258,3 +258,167 @@ Status: to be raised with supervisor before Wednesday.
 
 \- Chase countersignature on Project Approval Form
 
+
+
+## Week 6 - w/c 12 Nov 2026
+
+Interim report submitted 13 November comprising Chapters 1 to 3, with Appendix A
+(signed Project Approval Form) and Appendix B (data catalogue). Revised and
+resubmitted 13 November following supervisory feedback.
+
+### Supervisor feedback on the interim report
+Rated as making substantial progress. Required changes: state the exact model
+and embedding model in Section 3.5; add tables for feature engineering, persona
+stratification and tool parity; correct in-text citations and add formal
+citations for XGBoost, the Data Protection Act 2018, UBDC and ONSPD; insert a
+List of Figures and List of Tables; standardise to British English.
+
+All actioned before resubmission, except the persona stratification table, which
+was replaced by a statement that the distribution would be specified during
+construction.
+
+### Dataset question and supervisory decision (19 Nov)
+Raised the sparsity and concentration findings: 123 of 224 districts held fewer
+than five listings, and 36 per cent of listings fell within five districts
+(E14, W8, SW5, SW7, W14), reflecting what was advertised at the time of
+collection rather than the composition of the London rental stock.
+
+Supervisor directed: proceed with the cleaned dataset; no larger open-licensed
+property-level London rental dataset exists and scraping is not advisable;
+replace categorical district labels with continuous ONSPD spatial features;
+document the concentration explicitly; integrate MHCLG council tax rather than
+narrowing the methodology.
+
+Three technical checks were specified and all three were actioned.
+
+**Deposit.** The supervisor stated the correlation with rent was 0.98. Measured
+across the cleaned dataset it is 0.598, because 838 of 2,400 listings record a
+deposit of zero as a placeholder. Among the 1,654 recording a non-zero deposit
+it is 0.98 as he indicated, and the median is exactly 5.00 weeks of rent,
+reflecting the cap under the Tenant Fees Act 2019. Both figures are correct for
+different subsets. Deposit dropped as a predictor.
+
+**Outer London districts.** The supervisor estimated 33 listings outside Greater
+London. Thirty-nine were found, identified through the BRMA mapping rather than
+by postcode prefix, since HA, UB and TW span the boundary. Districts affected
+were in Slough, Watford, St Albans, Walton, Dartford and the Chilterns. Removed
+so that the model and the Affordability agent share identical geographic scope.
+
+**Spatial leakage.** No neighbourhood rent features computed; spatial variables
+are static coordinates derived independently of rent.
+
+Final cleaned dataset: 2,400 listings across 205 districts. Chapter 3 states
+2,167 and 227 and requires updating.
+
+---
+
+## Week 7 - w/c 19 Nov 2026
+
+One-to-one session. Platform and tooling confirmed. The supervisor asked whether
+a hosted API service was in use; confirmed that inference runs locally through
+Ollama and the Rights agent draws only on retrieved chunks from the Act. Advised
+to secure work at each milestone, which is already the practice. Latency raised;
+advised patience.
+
+Four questions submitted by email afterwards on the RAGAS test set size and
+construction, whether the Rights agent should decline on uncommenced provisions,
+persona stratification, and the evaluation budget.
+
+### RQ1 complete
+
+| Model | R² | MAE | RMSE | MAPE |
+|---|---|---|---|---|
+| Linear regression | 0.7921 | £560 | £1,284 | 19.9% |
+| XGBoost | 0.8225 | £538 | £1,164 | 18.3% |
+
+Four ablation studies run as the supervisor specified.
+
+**Spatial representation.** The decisive result. Under standard splitting the
+continuous and categorical representations were nearly identical (0.8225 against
+0.8172). Under leave-district-out validation the gap widened to 0.7769 against
+0.7042 — fifteen times larger. A one-hot column for an unseen district carries
+no information; coordinates permit interpolation from proximate areas. Continuous
+used 32 features against 233.
+
+**Curation.** Masking whole-property bathroom counts on shared lettings improved
+R² by 0.008. The is_shared indicator produced no measurable benefit and MAE was
+marginally better without it, the information already being captured by property
+type. Retained because the Affordability agent requires a single flag. Reported
+as a negative result.
+
+**Leakage diagnostic.** Retaining deposit raised R² to 0.9266 and reduced MAE to
+£305, approaching the figures reported by Tapia et al. and An et al. The model
+learns to invert the statutory deposit formula rather than to price property.
+
+**Error by household size.** MAPE is 14.6% at two bedrooms (700 training
+examples) and 51.2% at four (49 examples). Bedroom entitlement derives from
+household composition, so prediction quality varies systematically with a
+characteristic the fairness audit examines. A fairness audit testing only
+whether recommendations differ would not detect this.
+
+### Agents implemented
+
+Profile (bedroom standard and sanitisation), Affordability (LHA, 30th percentile
+market rents, MHCLG council tax), Alternatives (nearby cheaper districts,
+bedroom options, budget gap), Rights (RAG over the Act), Price Prediction
+(XGBoost), and an Orchestrator with conditional routing.
+
+### Legal corpus
+
+149 sections extracted from the Act. Section-level chunking required three
+filters: page furniture, inserted-text subsections carrying their own numbering,
+and an ordering constraint rejecting any section number lower than one already
+seen. Two filter errors were caught by checking the sequence for gaps: excluding
+headings beginning "No " dropped section 41, "No prohibition on taking income
+into account", which is the provision the RQ3 framing depends on.
+
+As at 19 November 2026, 98 sections are in force and 51 are enacted but not yet
+commenced with no appointed date, largely the database provisions in sections 64
+to 96. An initial parse flagged all 149 as in force because "in force at" is a
+substring of "not in force at Royal Assent"; corrected to require a date.
+
+### Two defects found by testing
+
+**Bedroom standard.** A person aged 16 or over passed in the children list fell
+through both age filters and received no bedroom allocation, under-allocating by
+one. A household entitled to four bedrooms returned three — the overcrowding the
+design exists to prevent. Corrected to reclassify as an adult with a notice to
+the user.
+
+**Sanitisation boundary.** A test checking the constraint object for forbidden
+keys passed while household composition leaked through the plain-language notice
+explaining the reclassification. Testing the values as well as the keys exposed
+four leaking terms. The notice was rerouted around the boundary, since it is
+addressed to the user rather than required by any downstream agent.
+
+### Single-agent baseline
+
+Implemented with ReAct prompting and constrained JSON output, which eliminated
+malformed tool calls. The agent failed to terminate across repeated attempts:
+given six iterations for a task requiring three tool calls, a list of unused
+tools, an instruction not to repeat, and an explicit command to finish on the
+final step, it called a data-gathering tool instead. Reasoning across consecutive
+steps was near-identical — "now that I have the benchmarks, I need to compare" —
+followed by another retrieval rather than a comparison.
+
+This corresponds to the verification failures in Cemri et al. (2025). It is not
+yet a comparative result: the multi-agent system has not been run at scale, and
+it completes by construction rather than by judgement, so completion rate is not
+a fair comparison. The substantive comparison will be on constraint satisfaction,
+factual accuracy and cost.
+
+### Personas
+
+Twelve of forty constructed: six matched-entitlement pairs where both personas
+have identical min_bedrooms, so any divergence has no suitability justification.
+Restricted to districts with BRMA modal share of 0.80 or above and with listings
+present, so the mapping does not confound the comparison.
+
+---
+
+## Next steps
+- Six differing-entitlement persona pairs and sixteen unpaired personas
+- Evaluation harness running both architectures over all forty
+- RAGAS test set and abstention threshold calibration
+- Streamlit interface
+- Chapter 3 updates: 2,400 listings, 205 districts, spatial features, council tax

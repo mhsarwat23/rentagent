@@ -53,20 +53,24 @@ OLLAMA_URL = 'http://localhost:11434/api/generate'
 MODEL = 'llama3.1:8b'
 
 
-def ask_model(prompt, temperature=0.0):
+def ask_model(prompt, temperature=0.0, schema=None):
     """
     Send a prompt to the locally served model.
 
-    Temperature is fixed at zero for reproducibility, as required by the
-    experimental protocol in Section 3.7.
+    Temperature is fixed at zero for reproducibility. When a schema is given,
+    Ollama constrains generation so the output is valid JSON conforming to it,
+    which removes malformed tool calls as a failure mode.
     """
-    payload = json.dumps({
+    body = {
         'model': MODEL,
         'prompt': prompt,
         'stream': False,
         'options': {'temperature': temperature},
-    }).encode('utf-8')
+    }
+    if schema is not None:
+        body['format'] = schema
 
+    payload = json.dumps(body).encode('utf-8')
     req = urllib.request.Request(
         OLLAMA_URL, data=payload,
         headers={'Content-Type': 'application/json'},
@@ -129,10 +133,21 @@ ANSWER:"""
 
 
 if __name__ == '__main__':
-    import time
+    schema = {
+        'type': 'object',
+        'properties': {
+            'tool': {'type': 'string',
+                     'enum': ['predict_rent', 'check_affordability', 'finish']},
+            'district': {'type': 'string'},
+            'bedrooms': {'type': 'integer'},
+            'reasoning': {'type': 'string'},
+        },
+        'required': ['tool', 'reasoning'],
+    }
 
-    q = "Can my landlord refuse to rent to me because I have children?"
-    t0 = time.perf_counter()
-    r = answer(q, k=3)
-    print(f"{MODEL}: {time.perf_counter() - t0:.1f}s\n")
-    print(r['answer'])
+    out = ask_model(
+        "A household wants a 3-bedroom property in SE13. "
+        "Which tool should you call first? Respond in JSON.",
+        schema=schema,
+    )
+    print(out)

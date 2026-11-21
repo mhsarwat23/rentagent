@@ -58,29 +58,35 @@ def build_constraints(household):
     """
     Convert a household profile into a sanitised constraint object.
 
-    This is the sanitisation boundary. Household composition is consumed here
-    and does not appear in the returned object. Only derived numerical and
-    categorical constraints cross to downstream agents.
-
-    household: dict containing
-        adult_couples, single_adults, children,
-        budget_max, area, property_type, preferred_bedrooms
-
-    Returns dict: the constraint object.
+    Anyone aged 16 or over is an adult under the Local Housing Allowance size
+    criteria. Where such a person is supplied as a child, they are reclassified
+    and a notice is returned alongside the constraints, so the reclassification
+    is visible to the caller rather than silent.
     """
+    children = list(household['children'])
+    single_adults = household['single_adults']
+    notices = []
+
+    over_16 = [c for c in children if c['age'] >= 16]
+    if over_16:
+        children = [c for c in children if c['age'] < 16]
+        single_adults += len(over_16)
+        notices.append(
+            f"{len(over_16)} household member(s) aged 16 or over were counted "
+            f"as adults rather than children. Under the Local Housing Allowance "
+            f"size criteria, a person aged 16 or over is entitled to their own "
+            f"bedroom."
+        )
+
     occupants = (household['adult_couples'] * 2
-                 + household['single_adults']
-                 + len(household['children']))
+                 + single_adults
+                 + len(children))
 
     min_bedrooms = bedroom_standard(
-        household['adult_couples'],
-        household['single_adults'],
-        household['children'],
+        household['adult_couples'], single_adults, children
     )
 
-    # A stated preference may exceed the statutory floor but never fall below it
-    preferred = household.get('preferred_bedrooms', min_bedrooms)
-    preferred = max(preferred, min_bedrooms)
+    preferred = max(household.get('preferred_bedrooms', min_bedrooms), min_bedrooms)
 
     return {
         'occupants': occupants,
@@ -89,4 +95,5 @@ def build_constraints(household):
         'budget_max': household['budget_max'],
         'area': household['area'],
         'property_type': household['property_type'],
+        'notices': notices,
     }

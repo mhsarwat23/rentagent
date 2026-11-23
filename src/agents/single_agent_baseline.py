@@ -89,7 +89,7 @@ def run_tool(name, args):
 
     return f"Unknown tool: {name}"
 
-MAX_ITERATIONS = 6
+MAX_ITERATIONS = 10
 
 ACTION_SCHEMA = {
     'type': 'object',
@@ -100,6 +100,9 @@ ACTION_SCHEMA = {
         'bedrooms': {'type': 'integer'},
         'question': {'type': 'string'},
         'recommendation': {'type': 'string'},
+        'affordable': {'type': 'boolean'},
+        'recommended_bedrooms': {'type': 'integer'},
+        'recommended_district': {'type': 'string'},
     },
     'required': ['thought', 'tool'],
 }
@@ -144,7 +147,8 @@ def run_baseline(household, rent, rights_question=None):
             f"Think about what you need, then choose one tool. "
             f"Do not call the same tool twice with the same arguments. "
             f"Call 'finish' as soon as you can advise the tenant.\n"
-            f"Respond in JSON."
+            f"When calling 'finish', you must also set: affordable (true or "
+            f"false), recommended_bedrooms, and recommended_district.\n"
         )
 
         # Make the no-repetition constraint explicit rather than advisory
@@ -156,6 +160,8 @@ def run_baseline(household, rent, rights_question=None):
         # Force termination on the final step
         if step == MAX_ITERATIONS - 1:
             prompt += "This is your LAST step. You must call 'finish' now.\n"
+
+        prompt += "Respond in JSON."
 
         try:
             raw = ask_model(prompt, schema=ACTION_SCHEMA)
@@ -172,6 +178,9 @@ def run_baseline(household, rent, rights_question=None):
         if tool == 'finish':
             return {
                 'recommendation': action.get('recommendation', ''),
+                'affordable': action.get('affordable'),
+                'recommended_bedrooms': action.get('recommended_bedrooms'),
+                'recommended_district': action.get('recommended_district'),
                 'tools_called': trace,
                 'steps': step + 1,
                 'failures': failures,
@@ -187,6 +196,9 @@ def run_baseline(household, rent, rights_question=None):
     failures.append(f"did not finish within {MAX_ITERATIONS} iterations")
     return {
         'recommendation': None,
+        'affordable': None,
+        'recommended_bedrooms': None,
+        'recommended_district': None,
         'tools_called': trace,
         'steps': MAX_ITERATIONS,
         'failures': failures,

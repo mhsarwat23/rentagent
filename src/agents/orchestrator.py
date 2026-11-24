@@ -19,6 +19,7 @@ from profile_agent import build_constraints
 from affordability_agent import assess_affordability
 from alternatives_agent import cheaper_areas, bedroom_options, budget_gap
 from price_agent import predict_rent
+from rights_agent import answer as rights_answer
 
 def recommend(household, rent, rights_question=None):
     """
@@ -60,6 +61,7 @@ def recommend(household, rent, rights_question=None):
         'alternatives': None,
         'rights': None,
         'agents_called': trace,
+        'tokens': {'prompt_tokens': 0, 'output_tokens': 0}
     }
 
     # 4. Alternatives only if the property does not fit
@@ -72,7 +74,13 @@ def recommend(household, rent, rights_question=None):
             ),
         }
         trace.append('alternatives')
-
+    # 5. Rights agent only when a tenancy question is asked
+    if rights_question:
+        r = rights_answer(rights_question)
+        result['rights'] = r
+        result['tokens'] = r.get('tokens', {'prompt_tokens': 0, 'output_tokens': 0})
+        trace.append('rights')
+    
     return result
 
 def test_no_composition_leaks():

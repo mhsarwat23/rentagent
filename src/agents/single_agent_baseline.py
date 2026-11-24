@@ -137,6 +137,7 @@ def run_baseline(household, rent, rights_question=None):
     history = []
     trace = []
     failures = []
+    tokens = {'prompt': 0, 'output': 0}
 
     for step in range(MAX_ITERATIONS):
         prompt = (
@@ -164,7 +165,9 @@ def run_baseline(household, rent, rights_question=None):
         prompt += "Respond in JSON."
 
         try:
-            raw = ask_model(prompt, schema=ACTION_SCHEMA)
+            raw, usage = ask_model(prompt, schema=ACTION_SCHEMA, return_usage=True)
+            tokens['prompt'] += usage['prompt_tokens']
+            tokens['output'] += usage['output_tokens']
             action = json.loads(raw)
         except Exception as e:
             failures.append(f"step {step}: unparseable response ({e})")
@@ -183,6 +186,7 @@ def run_baseline(household, rent, rights_question=None):
                 'recommended_district': action.get('recommended_district'),
                 'tools_called': trace,
                 'steps': step + 1,
+                'tokens': tokens,
                 'failures': failures,
                 'completed': True,
             }
@@ -201,6 +205,7 @@ def run_baseline(household, rent, rights_question=None):
         'recommended_district': None,
         'tools_called': trace,
         'steps': MAX_ITERATIONS,
+        'tokens': tokens,
         'failures': failures,
         'completed': False,
     }

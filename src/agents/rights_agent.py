@@ -53,13 +53,13 @@ OLLAMA_URL = 'http://localhost:11434/api/generate'
 MODEL = 'llama3.1:8b'
 
 
-def ask_model(prompt, temperature=0.0, schema=None):
+def ask_model(prompt, temperature=0.0, schema=None, return_usage=False):
     """
     Send a prompt to the locally served model.
 
     Temperature is fixed at zero for reproducibility. When a schema is given,
-    Ollama constrains generation so the output is valid JSON conforming to it,
-    which removes malformed tool calls as a failure mode.
+    Ollama constrains generation so the output is valid JSON conforming to it.
+    When return_usage is set, token counts are returned alongside the response.
     """
     body = {
         'model': MODEL,
@@ -76,7 +76,14 @@ def ask_model(prompt, temperature=0.0, schema=None):
         headers={'Content-Type': 'application/json'},
     )
     with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read())['response']
+        data = json.loads(resp.read())
+
+    if return_usage:
+        return data['response'], {
+            'prompt_tokens': data.get('prompt_eval_count', 0),
+            'output_tokens': data.get('eval_count', 0),
+        }
+    return data['response']
 
 def answer(question, k=3):
     """
@@ -92,6 +99,7 @@ def answer(question, k=3):
         return {
             'answered': False,
             'reason': 'No sufficiently relevant provision found',
+            'tokens': {'prompt_tokens': 0, 'output_tokens': 0},
             'best_distance': round(hits[0]['distance'], 3) if hits else None,
             'sections': [],
         }
@@ -121,9 +129,12 @@ QUESTION: {question}
 
 ANSWER:"""
 
+    text, usage = ask_model(prompt, return_usage=True)
+
     return {
         'answered': True,
-        'answer': ask_model(prompt),
+        'answer': text,
+        'tokens': usage,
         'sections': [
             {'section': h['section'], 'heading': h['heading'],
              'in_force': h['in_force'], 'distance': round(h['distance'], 3)}

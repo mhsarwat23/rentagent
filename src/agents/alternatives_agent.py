@@ -89,9 +89,11 @@ def cheaper_areas(constraints, max_km=5.0, limit=5, min_confidence=0.80):
                 'confidence': round(conf, 2),
             })
 
-    return (pd.DataFrame(rows)
-            .sort_values('saving', ascending=False)
-            .head(limit))
+    # An empty result has no columns, so sorting on 'saving' would fail
+    out = pd.DataFrame(rows)
+    if out.empty:
+        return out
+    return out.sort_values('saving', ascending=False).head(limit)
 
 def bedroom_options(constraints):
     """

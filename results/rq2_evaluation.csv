@@ -159,3 +159,83 @@ run_id,persona,pair_id,architecture,completed,error,latency_s,model_calls,agents
 1,U15,,single_agent,False,did not finish within 10 iterations,489.96,10,"find_nearby_districts,predict_rent,get_benchmarks,search_act,get_benchmarks,search_act,get_benchmarks,search_act,search_act,search_act",,,,,1,,,16412,831
 1,U16,,multi_agent,True,,23.43,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2182.0,0.0,2727,82
 1,U16,,single_agent,True,,432.59,10,"get_benchmarks,search_act,predict_rent,get_benchmarks,find_nearby_districts,search_act,search_act,search_act,predict_rent,finish",False,False,2.0,False,2,,,19377,703
+2,P01a,pair01,multi_agent,True,,204.35,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,1672.0,5.0,2382,252
+2,P01a,pair01,single_agent,True,,537.9,10,"search_act,get_benchmarks,predict_rent,find_nearby_districts,search_act,search_act,search_act,get_benchmarks,predict_rent,finish",True,False,1.0,False,1,,,21844,1082
+2,P01b,pair01,multi_agent,True,,153.17,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,1672.0,5.0,2015,194
+2,P01b,pair01,single_agent,True,,511.26,9,"get_benchmarks,search_act,predict_rent,find_nearby_districts,search_act,search_act,search_act,search_act,finish",False,True,3.0,False,1,,,16403,578
+2,P02a,pair02,multi_agent,True,,202.29,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,1981.0,0.0,2669,222
+2,P02a,pair02,single_agent,True,,417.69,8,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,search_act,search_act,finish",False,False,2.0,False,2,,,13603,603
+2,P02b,pair02,multi_agent,True,,192.2,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,1981.0,0.0,2386,202
+2,P02b,pair02,single_agent,True,,485.18,10,"predict_rent,get_benchmarks,search_act,find_nearby_districts,get_benchmarks,predict_rent,search_act,get_benchmarks,get_benchmarks,finish",True,True,2.0,False,2,,,15188,1125
+2,P03a,pair03,multi_agent,True,,196.54,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2178.0,0.0,2727,177
+2,P03a,pair03,single_agent,True,,475.29,10,"find_nearby_districts,predict_rent,get_benchmarks,search_act,get_benchmarks,get_benchmarks,search_act,get_benchmarks,search_act,finish",False,False,2.0,False,2,,,14765,855
+2,P03b,pair03,multi_agent,True,,67.02,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2178.0,0.0,2382,244
+2,P03b,pair03,single_agent,True,,461.73,10,"search_act,get_benchmarks,predict_rent,find_nearby_districts,search_act,predict_rent,get_benchmarks,search_act,predict_rent,finish",False,False,2.0,False,2,,,17708,916
+2,P04a,pair04,multi_agent,True,,49.43,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2307.0,0.0,2015,194
+2,P04a,pair04,single_agent,False,did not finish within 10 iterations,304.56,10,"predict_rent,find_nearby_districts,get_benchmarks,predict_rent,search_act,predict_rent,predict_rent,predict_rent,predict_rent,find_nearby_districts",,,,,2,,,10416,702
+2,P04b,pair04,multi_agent,True,,65.17,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2307.0,0.0,2669,218
+2,P04b,pair04,single_agent,True,,390.64,10,"get_benchmarks,predict_rent,search_act,find_nearby_districts,get_benchmarks,predict_rent,search_act,predict_rent,get_benchmarks,finish",False,False,2.0,False,2,,,14300,672
+2,P05a,pair05,multi_agent,True,,52.54,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,1746.0,3.0,2386,202
+2,P05a,pair05,single_agent,True,,542.73,10,"search_act,find_nearby_districts,get_benchmarks,predict_rent,search_act,search_act,predict_rent,search_act,predict_rent,finish",False,True,1.0,True,2,,,22338,868
+2,P05b,pair05,multi_agent,True,,28.46,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,1746.0,3.0,2727,82
+2,P05b,pair05,single_agent,False,'question',573.6,0,,,,,,2,,,0,0
+2,P06a,pair06,multi_agent,True,,61.18,0,"profile,price_prediction,affordability,rights",True,True,3.0,False,3,2559.0,0.0,2382,244
+2,P06a,pair06,single_agent,False,did not finish within 10 iterations,289.89,10,"predict_rent,search_act,get_benchmarks,find_nearby_districts,predict_rent,get_benchmarks,get_benchmarks,get_benchmarks,get_benchmarks,get_benchmarks",,,,,3,,,12492,658
+2,P06b,pair06,multi_agent,True,,51.87,0,"profile,price_prediction,affordability,rights",True,True,3.0,False,3,2559.0,0.0,2015,194
+2,P06b,pair06,single_agent,False,'question',501.71,0,,,,,,3,,,0,0
+2,P07a,pair07,multi_agent,True,,58.2,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,1,2642.0,0.0,2669,218
+2,P07a,pair07,single_agent,True,,425.92,8,"search_act,get_benchmarks,predict_rent,find_nearby_districts,search_act,search_act,search_act,finish",True,True,2.0,False,1,,,15315,638
+2,P07b,pair07,multi_agent,True,,52.85,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,2642.0,5.0,2386,202
+2,P07b,pair07,single_agent,True,,431.55,9,"get_benchmarks,search_act,predict_rent,find_nearby_districts,search_act,search_act,search_act,predict_rent,finish",False,True,2.0,False,2,,,17540,719
+2,P08a,pair08,multi_agent,True,,23.75,0,"profile,price_prediction,affordability,rights",True,True,3.0,False,2,2570.0,0.0,2727,82
+2,P08a,pair08,single_agent,True,,535.6,9,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,search_act,search_act,search_act,finish",False,False,3.0,False,2,,,15646,678
+2,P08b,pair08,multi_agent,True,,63.54,0,"profile,price_prediction,affordability,alternatives,rights",False,True,3.0,False,3,2570.0,5.0,2382,244
+2,P08b,pair08,single_agent,True,,461.91,10,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,predict_rent,search_act,search_act,predict_rent,finish",False,True,3.0,False,3,,,19349,776
+2,P09a,pair09,multi_agent,True,,49.13,0,"profile,price_prediction,affordability,rights",True,True,1.0,False,1,1290.0,0.0,2015,194
+2,P09a,pair09,single_agent,False,'question',532.82,0,,,,,,1,,,0,0
+2,P09b,pair09,multi_agent,True,,63.74,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,2394.0,0.0,2669,218
+2,P09b,pair09,single_agent,True,,419.36,8,"predict_rent,get_benchmarks,search_act,find_nearby_districts,search_act,search_act,search_act,finish",True,False,1.0,True,2,,,13752,625
+2,P10a,pair10,multi_agent,True,,51.69,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,1,2733.0,0.0,2386,202
+2,P10a,pair10,single_agent,False,did not finish within 10 iterations,344.11,10,"predict_rent,find_nearby_districts,get_benchmarks,search_act,search_act,search_act,predict_rent,predict_rent,predict_rent,predict_rent",,,,,1,,,13277,778
+2,P10b,pair10,multi_agent,True,,26.07,0,"profile,price_prediction,affordability,rights",True,True,3.0,False,3,2967.0,0.0,2727,82
+2,P10b,pair10,single_agent,False,'question',551.29,0,,,,,,3,,,0,0
+2,P11a,pair11,multi_agent,True,,61.92,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,1837.0,5.0,2382,244
+2,P11a,pair11,single_agent,False,did not finish within 10 iterations,425.0,10,"search_act,get_benchmarks,predict_rent,find_nearby_districts,search_act,get_benchmarks,predict_rent,search_act,get_benchmarks,search_act",,,,,2,,,18613,817
+2,P11b,pair11,multi_agent,True,,47.77,0,"profile,price_prediction,affordability,alternatives,rights",False,True,3.0,False,3,2070.0,5.0,2015,194
+2,P11b,pair11,single_agent,False,'question',511.23,0,,,,,,3,,,0,0
+2,P12a,pair12,multi_agent,True,,56.45,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,1985.0,0.0,2669,218
+2,P12a,pair12,single_agent,True,,550.44,9,"search_act,predict_rent,get_benchmarks,search_act,find_nearby_districts,search_act,search_act,search_act,finish",False,False,2.0,False,2,,,17942,707
+2,P12b,pair12,multi_agent,True,,53.24,0,"profile,price_prediction,affordability,alternatives,rights",False,True,3.0,False,3,2151.0,0.0,2386,202
+2,P12b,pair12,single_agent,True,,426.04,9,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,search_act,search_act,find_nearby_districts,finish",True,False,3.0,False,3,,,16598,664
+2,U01,,multi_agent,True,,24.3,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,1494.0,2.0,2727,82
+2,U01,,single_agent,True,,443.39,9,"find_nearby_districts,get_benchmarks,predict_rent,search_act,predict_rent,search_act,search_act,search_act,finish",False,True,0.0,True,1,,,14325,710
+2,U02,,multi_agent,True,,60.22,0,"profile,price_prediction,affordability,rights",True,True,1.0,False,1,1807.0,0.0,2382,244
+2,U02,,single_agent,True,,612.87,9,"search_act,predict_rent,get_benchmarks,find_nearby_districts,search_act,search_act,search_act,search_act,finish",False,False,1.0,False,1,,,16751,896
+2,U03,,multi_agent,True,,47.31,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,1,2445.0,0.0,2015,194
+2,U03,,single_agent,True,,327.93,8,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,predict_rent,search_act,finish",False,False,2.0,False,1,,,11589,504
+2,U04,,multi_agent,True,,57.92,0,"profile,price_prediction,affordability,rights",True,True,3.0,False,3,2554.0,0.0,2669,218
+2,U04,,single_agent,True,,372.36,10,"get_benchmarks,search_act,predict_rent,find_nearby_districts,get_benchmarks,search_act,predict_rent,get_benchmarks,search_act,finish",False,False,3.0,False,3,,,16487,584
+2,U05,,multi_agent,True,,53.25,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,2319.0,3.0,2386,202
+2,U05,,single_agent,True,,518.88,10,"find_nearby_districts,predict_rent,get_benchmarks,search_act,predict_rent,search_act,search_act,search_act,search_act,finish",False,True,3.0,False,2,,,14609,726
+2,U06,,multi_agent,True,,23.09,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2237.0,0.0,2727,82
+2,U06,,single_agent,True,,414.65,7,"search_act,search_act,predict_rent,get_benchmarks,search_act,search_act,finish",False,False,3.0,False,2,,,14961,616
+2,U07,,multi_agent,True,,63.88,0,"profile,price_prediction,affordability,rights",True,True,4.0,False,4,2222.0,0.0,2382,244
+2,U07,,single_agent,False,did not finish within 10 iterations,367.8,10,"predict_rent,search_act,get_benchmarks,find_nearby_districts,predict_rent,get_benchmarks,search_act,predict_rent,get_benchmarks,predict_rent",,,,,4,,,14961,777
+2,U08,,multi_agent,True,,47.64,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,1719.0,5.0,2015,194
+2,U08,,single_agent,False,'question',520.81,0,,,,,,1,,,0,0
+2,U09,,multi_agent,True,,57.86,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,1749.0,0.0,2669,218
+2,U09,,single_agent,True,,414.17,8,"get_benchmarks,predict_rent,search_act,find_nearby_districts,search_act,search_act,search_act,finish",False,False,2.0,False,2,,,13747,600
+2,U10,,multi_agent,True,,54.34,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2178.0,0.0,2386,202
+2,U10,,single_agent,True,,268.52,10,"find_nearby_districts,get_benchmarks,get_benchmarks,predict_rent,search_act,predict_rent,get_benchmarks,predict_rent,predict_rent,finish",False,False,2.0,False,2,,,9837,609
+2,U11,,multi_agent,True,,23.79,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,2318.0,5.0,2727,82
+2,U11,,single_agent,False,'question',590.31,0,,,,,,1,,,0,0
+2,U12,,multi_agent,True,,61.14,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2393.0,0.0,2382,244
+2,U12,,single_agent,True,,564.12,9,"search_act,search_act,get_benchmarks,predict_rent,find_nearby_districts,search_act,search_act,search_act,finish",False,False,3.0,False,2,,,18931,831
+2,U13,,multi_agent,True,,48.25,0,"profile,price_prediction,affordability,alternatives,rights",False,True,2.0,False,2,1752.0,4.0,2015,194
+2,U13,,single_agent,False,'question',564.68,0,,,,,,2,,,0,0
+2,U14,,multi_agent,True,,56.31,0,"profile,price_prediction,affordability,rights",True,True,4.0,False,4,2239.0,0.0,2669,218
+2,U14,,single_agent,False,'question',482.03,0,,,,,,4,,,0,0
+2,U15,,multi_agent,True,,49.84,0,"profile,price_prediction,affordability,alternatives,rights",False,True,1.0,False,1,1526.0,5.0,2386,202
+2,U15,,single_agent,False,did not finish within 10 iterations,473.59,10,"find_nearby_districts,predict_rent,get_benchmarks,search_act,get_benchmarks,search_act,get_benchmarks,search_act,search_act,search_act",,,,,1,,,16412,831
+2,U16,,multi_agent,True,,24.33,0,"profile,price_prediction,affordability,rights",True,True,2.0,False,2,2182.0,0.0,2727,82
+2,U16,,single_agent,True,,464.47,10,"get_benchmarks,search_act,predict_rent,get_benchmarks,find_nearby_districts,search_act,search_act,search_act,predict_rent,finish",False,False,2.0,False,2,,,19377,703

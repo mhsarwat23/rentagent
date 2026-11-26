@@ -1,0 +1,5 @@
+k,filter,recall_1,recall_k,n
+3,none,0.442,0.674,43
+5,none,0.442,0.744,43
+3,England,0.488,0.698,43
+5,England,0.488,0.767,43

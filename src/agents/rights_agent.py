@@ -28,10 +28,22 @@ COLLECTION = CLIENT.get_collection('renters_rights_act')
 ABSTENTION_THRESHOLD = 1.25
 
 
-def retrieve(question, k=3):
-    """Return the k closest sections with their metadata and distances."""
+def retrieve(question, k=3, jurisdiction=None):
+    """
+    Return the k closest sections with their metadata and distances.
+
+    Chapters 3 to 5 contain parallel discrimination provisions for England,
+    Wales and Scotland. Where a jurisdiction is given, retrieval is restricted
+    to that jurisdiction and to provisions that are not jurisdiction-specific.
+    """
     q_emb = EMBEDDER.encode([question])
-    res = COLLECTION.query(query_embeddings=q_emb.tolist(), n_results=k)
+
+    where = None
+    if jurisdiction:
+        where = {'jurisdiction': {'$in': [jurisdiction, 'UK']}}
+
+    res = COLLECTION.query(query_embeddings=q_emb.tolist(),
+                           n_results=k, where=where)
 
     return [
         {
@@ -85,15 +97,15 @@ def ask_model(prompt, temperature=0.0, schema=None, return_usage=False):
         }
     return data['response']
 
-def answer(question, k=3):
+def answer(question, k=5, jurisdiction='England'):
     """
     Answer a tenancy question from the Act.
 
-    Abstains when no retrieved section falls below the distance threshold,
-    rather than answering from model memory. Commencement status is passed
-    to the model so that provisions not yet in force are identified as such.
+    Retrieval is restricted to England, since Chapters 4 and 5 contain
+    parallel provisions for Wales and Scotland which are not applicable to
+    the project's scope and compete for retrieval on near-identical wording.
     """
-    hits = retrieve(question, k)
+    hits = retrieve(question, k, jurisdiction)
 
     if not hits or hits[0]['distance'] > ABSTENTION_THRESHOLD:
         return {

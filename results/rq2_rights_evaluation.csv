@@ -1,0 +1,15 @@
+id,theme,phrasing,answerable,expected_section,commencement,abstained,retrieved,expected_retrieved,cites_expected,mentions_commencement,answer,latency_s,prompt_tokens,output_tokens
+Q01,tenancy_structure,plain,True,1,partial,False,"1,31,7,147,6",True,True,True,"According to Section 31 of the Renters' Rights Act 2025, which is in force (Section 31: Long tenancies and financial services products), a fixed-term tenancy of more than 21 years is not permitted (Section 31(1)(a)). However, it does not specifically prohibit a fixed-term tenancy of 12 months.
+
+But, Section 147, which is enacted but not yet commenced, states that a fixed-term assured tenancy and a statutory periodic tenancy are to be treated as a single assured tenancy (Section 147(1)). This section is not yet in force, so I must say that I do not know the answer to this question.
+
+However, Section 1 of the Renters' Rights Act 2025, which is in force (Section 1: Assured tenancies to be periodic with rent period not exceeding a month), states that terms of an assured tenancy which provide for the rent periods are of no effect unless each rent period is a period of 28 days or shorter, or a month (Section 1(2)(a)). This suggests that a fixed-term tenancy of 12 months may not be permitted, as it does not meet the criteria for a valid rent period.
+
+Therefore, I would say that it is unlikely that your landlord can give you a fixed-term tenancy of 12 months, but I must emphasize that Section 147 is not yet in force, and the answer may change once it comes into effect.",266.7,3881,306
+Q02,tenancy_structure,statutory,True,2,partial,False,"2,26,30,31,147",True,True,False,"According to Section 2 of the Renters' Rights Act 2025, assured shorthold tenancies are abolished. 
+
+Section 2 states: ""In the 1988 Act—
+(a) omit section 6A (demotion to assured shorthold tenancy because of anti-social behaviour);
+(b) omit Chapter 2 of Part 1 (assured shorthold tenancies).""
+
+This means that assured shorthold tenancies are no longer a type of tenancy that can be created.",213.6,3369,106
